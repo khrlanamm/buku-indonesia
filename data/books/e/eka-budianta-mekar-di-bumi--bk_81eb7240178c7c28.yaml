@@ -1,0 +1,21 @@
+id: "bk_81eb7240178c7c28"
+title: "Mekar di Bumi"
+subtitle: "Visiografi 50 Tahun Eka Budianta"
+authors:
+  - "Eka Budianta"
+publisher: "Pustaka Alvabet"
+year: 2006
+isbn13: "9789793064239"
+pages: 406
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23997312W"
+  edition: "OL31696484M"
+  coverId: null

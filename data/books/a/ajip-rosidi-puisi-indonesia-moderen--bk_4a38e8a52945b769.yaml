@@ -1,0 +1,23 @@
+id: "bk_4a38e8a52945b769"
+title: "Puisi Indonesia Moderen"
+subtitle: "Sebuah Pengantar"
+authors:
+  - "Ajip Rosidi"
+publisher: "Pustaka Jaya"
+year: 2012
+isbn13: "9789794193785"
+pages: 167
+language: "id"
+categories:
+  - "Puisi"
+  - "Sastra Klasik"
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22648439W"
+  edition: "OL30667187M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_ac98128345551b9d"
+title: "Mencari Kubur Baridin"
+subtitle: "Kumpulan Puisi"
+authors:
+  - "Riki Dhamparan Putra"
+publisher: "Akar Indonesia"
+year: 2014
+isbn13: "9786027142107"
+pages: 138
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23251811W"
+  edition: "OL31089197M"
+  coverId: null

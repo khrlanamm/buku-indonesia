@@ -1,0 +1,21 @@
+id: "bk_bc49efd3e889a2f2"
+title: "Bungkam Suara"
+subtitle: null
+authors:
+  - "JS Khairen"
+publisher: "Gramedia Widia Sarana"
+year: 2023
+isbn13: "9786020529820"
+pages: 376
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL42658163W"
+  edition: "OL57997074M"
+  coverId: 14848204

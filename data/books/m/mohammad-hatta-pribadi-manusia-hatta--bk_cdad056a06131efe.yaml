@@ -1,0 +1,22 @@
+id: "bk_cdad056a06131efe"
+title: "Pribadi Manusia Hatta"
+subtitle: null
+authors:
+  - "Mohammad Hatta"
+publisher: "Yayasan Hatta"
+year: 2002
+isbn13: "9789799643339"
+pages: 12
+language: "id"
+categories:
+  - "Sejarah"
+  - "Biografi"
+reviewed: false
+needsCheck:
+  - "authors"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL18243412W"
+  edition: "OL3612590M"
+  coverId: null

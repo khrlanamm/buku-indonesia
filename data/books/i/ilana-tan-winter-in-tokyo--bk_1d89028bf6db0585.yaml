@@ -1,0 +1,21 @@
+id: "bk_1d89028bf6db0585"
+title: "Winter in Tokyo"
+subtitle: null
+authors:
+  - "Ilana Tan"
+publisher: "Gramedia Pustaka Utama"
+year: 2008
+isbn13: "9789792239836"
+pages: 313
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL11811427W"
+  edition: "OL23173898M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_c5bb71f102561811"
+title: "Pengarang Telah Mati"
+subtitle: "Segenggam Cerita"
+authors:
+  - "Sapardi Djoko Damono"
+publisher: "IndonesiaTera"
+year: 2001
+isbn13: "9789799375322"
+pages: 156
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1030308W"
+  edition: "OL4005756M"
+  coverId: 4351930

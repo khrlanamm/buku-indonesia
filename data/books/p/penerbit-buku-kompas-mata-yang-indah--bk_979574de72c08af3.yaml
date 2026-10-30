@@ -1,0 +1,21 @@
+id: "bk_979574de72c08af3"
+title: "Mata yang Indah"
+subtitle: "Cerpen Pilihan Kompas, 2001"
+authors:
+  - "Penerbit Buku Kompas"
+publisher: "Penerbit Buku Kompas"
+year: 2001
+isbn13: "9789799251947"
+pages: 222
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23761183W"
+  edition: "OL4005649M"
+  coverId: null

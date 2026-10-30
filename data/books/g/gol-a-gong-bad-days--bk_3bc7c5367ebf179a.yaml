@@ -1,0 +1,21 @@
+id: "bk_3bc7c5367ebf179a"
+title: "Bad Days"
+subtitle: null
+authors:
+  - "Gol A Gong"
+publisher: "Gramedia"
+year: 1990
+isbn13: "9789794039182"
+pages: 122
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3442639W"
+  edition: "OL2017435M"
+  coverId: null

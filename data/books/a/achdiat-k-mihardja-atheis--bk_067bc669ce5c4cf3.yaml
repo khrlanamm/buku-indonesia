@@ -1,0 +1,22 @@
+id: "bk_067bc669ce5c4cf3"
+title: "Atheis"
+subtitle: null
+authors:
+  - "Achdiat K. Mihardja"
+publisher: "Balai Pustaka"
+year: 2009
+isbn13: "9789794071854"
+pages: 224
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1628985W"
+  edition: "OL23714510M"
+  coverId: null

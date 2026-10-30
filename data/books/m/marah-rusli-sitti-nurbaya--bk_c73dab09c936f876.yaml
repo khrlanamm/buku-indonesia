@@ -1,0 +1,21 @@
+id: "bk_c73dab09c936f876"
+title: "Sitti Nurbaya"
+subtitle: null
+authors:
+  - "Marah Rusli"
+publisher: "Balai Pustaka"
+year: 1922
+isbn13: "9789794071670"
+pages: 291
+language: "id"
+categories:
+  - "Sastra Klasik"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL393340W"
+  edition: "OL23714617M"
+  coverId: null

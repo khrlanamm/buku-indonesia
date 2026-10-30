@@ -1,0 +1,21 @@
+id: "bk_9d810c7b282e4842"
+title: "The Return of the King"
+subtitle: "Kembalinya Sang Raja"
+authors:
+  - "J.R.R. Tolkien"
+publisher: "Gramedia Pustaka Utama"
+year: 2016
+isbn13: "9786020332284"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL27455W"
+  edition: "OL26432446M"
+  coverId: 8143759

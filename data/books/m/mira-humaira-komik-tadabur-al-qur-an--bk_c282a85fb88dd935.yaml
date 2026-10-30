@@ -1,0 +1,23 @@
+id: "bk_c282a85fb88dd935"
+title: "Komik Tadabur Al-Qur`an"
+subtitle: null
+authors:
+  - "Mira Humaira"
+publisher: "Gema Insani"
+year: 2023
+isbn13: "9786234582086"
+pages: 72
+language: "id"
+categories:
+  - "Komik"
+  - "Agama"
+  - "Anak"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL36426704W"
+  edition: "OL49219335M"
+  coverId: 14395681

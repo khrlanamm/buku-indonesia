@@ -1,0 +1,21 @@
+id: "bk_7ae3abecabb478cb"
+title: "Kalau Kau Rindu Aku"
+subtitle: "Buku Puisi Dharmadi"
+authors:
+  - "Dharmadi"
+publisher: "Kosa Kata Kita"
+year: 2012
+isbn13: "9786028966412"
+pages: 80
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16715360W"
+  edition: "OL25385251M"
+  coverId: null

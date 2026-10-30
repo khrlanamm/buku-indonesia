@@ -1,0 +1,22 @@
+id: "bk_5a56cf56471cbd96"
+title: "Hikayat Siti Mariah"
+subtitle: null
+authors:
+  - "Mukti"
+publisher: "Lentera Dipantara"
+year: 2003
+isbn13: null
+pages: 402
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5047826W"
+  edition: "OL3739765M"
+  coverId: 6454799

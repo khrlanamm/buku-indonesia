@@ -1,0 +1,21 @@
+id: "bk_eb99efe867822bcf"
+title: "Kitab Kritik Sastra"
+subtitle: null
+authors:
+  - "Maman S. Mahayana"
+publisher: "Yayasan Obor Indonesia"
+year: 2015
+isbn13: "9789794619261"
+pages: 432
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22841284W"
+  edition: "OL30780553M"
+  coverId: null

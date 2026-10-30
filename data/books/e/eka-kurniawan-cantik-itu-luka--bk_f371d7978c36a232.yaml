@@ -1,0 +1,22 @@
+id: "bk_f371d7978c36a232"
+title: "Cantik Itu Luka"
+subtitle: null
+authors:
+  - "Eka Kurniawan"
+publisher: "Gramedia Pustaka Utama"
+year: 2018
+isbn13: "9786020312583"
+pages: 516
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+  - "hand-checked"
+openLibrary:
+  work: "OL34965326W"
+  edition: "OL47327177M"
+  coverId: 14330869

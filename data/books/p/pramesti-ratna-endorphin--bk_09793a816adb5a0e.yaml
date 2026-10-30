@@ -1,0 +1,21 @@
+id: "bk_09793a816adb5a0e"
+title: "Endorphin"
+subtitle: "A Dose of Happiness"
+authors:
+  - "Pramesti Ratna"
+publisher: "Gramedia Pustaka Utama"
+year: 2012
+isbn13: "9789792285987"
+pages: 227
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL27058745W"
+  edition: "OL36691158M"
+  coverId: 12575042

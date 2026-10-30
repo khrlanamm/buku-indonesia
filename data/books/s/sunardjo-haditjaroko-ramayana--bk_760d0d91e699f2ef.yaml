@@ -1,0 +1,21 @@
+id: "bk_760d0d91e699f2ef"
+title: "Ramayana"
+subtitle: "Indonesia Wayang Show"
+authors:
+  - "Sunardjo Haditjaroko"
+publisher: "Djambatan"
+year: 1988
+isbn13: "9789794280409"
+pages: 116
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4604499W"
+  edition: "OL2015628M"
+  coverId: 9488357

@@ -1,0 +1,21 @@
+id: "bk_946ae66aecdd4169"
+title: "Ragaula"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Triyanto Triwikromo"
+publisher: "Aini"
+year: 2002
+isbn13: "9789799675200"
+pages: 184
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3223687W"
+  edition: "OL3613829M"
+  coverId: null

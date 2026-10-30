@@ -1,0 +1,21 @@
+id: "bk_2646a9525dc26181"
+title: "Lalu Batu"
+subtitle: "Antologi Puisi"
+authors:
+  - "Radhar Panca Dahana"
+publisher: "Gramedia Pustaka Utama"
+year: 2003
+isbn13: "9789792201550"
+pages: 145
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL6066473W"
+  edition: "OL3742056M"
+  coverId: 4317426

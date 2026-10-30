@@ -1,0 +1,21 @@
+id: "bk_d862e16997b2a463"
+title: "Pembisik"
+subtitle: "Kumpulan Cerpen Republika"
+authors:
+  - "Bakdi Soemanto"
+publisher: "Penerbit Republika"
+year: 2002
+isbn13: "9789793210063"
+pages: 235
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL19430672W"
+  edition: "OL3611339M"
+  coverId: null

@@ -1,0 +1,22 @@
+id: "bk_b7ee1d59193282ab"
+title: "Olga"
+subtitle: "Cover Boy"
+authors:
+  - "Hilman"
+publisher: "Gramedia Pustaka Utama"
+year: 1991
+isbn13: "9789795112044"
+pages: 179
+language: "id"
+categories:
+  - "Remaja"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3891142W"
+  edition: "OL1693301M"
+  coverId: null

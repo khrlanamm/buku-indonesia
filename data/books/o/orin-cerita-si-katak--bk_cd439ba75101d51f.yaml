@@ -1,0 +1,22 @@
+id: "bk_cd439ba75101d51f"
+title: "Cerita Si Katak"
+subtitle: null
+authors:
+  - "Orin"
+publisher: "Gema Insani"
+year: 2020
+isbn13: "9786022508366"
+pages: 24
+language: "id"
+categories:
+  - "Anak"
+  - "Agama"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL36435904W"
+  edition: "OL49230586M"
+  coverId: 14404796

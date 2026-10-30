@@ -1,0 +1,22 @@
+id: "bk_b2ee7ce0d451fcdd"
+title: "Byar Pet"
+subtitle: null
+authors:
+  - "Putu Wijaya"
+publisher: "Pustaka Firdaus"
+year: 1995
+isbn13: "9789795410683"
+pages: 152
+language: "id"
+categories:
+  - "Novel"
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1032239W"
+  edition: "OL957450M"
+  coverId: null

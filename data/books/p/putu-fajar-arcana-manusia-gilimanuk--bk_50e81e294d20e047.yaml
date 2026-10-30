@@ -1,0 +1,21 @@
+id: "bk_50e81e294d20e047"
+title: "Manusia Gilimanuk"
+subtitle: "Antologi Puisi"
+authors:
+  - "Putu Fajar Arcana"
+publisher: "Buku Arti"
+year: 2012
+isbn13: "9789791145626"
+pages: 117
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16715488W"
+  edition: "OL25385377M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_7cfed0235fa74ebf"
+title: "Maryam"
+subtitle: null
+authors:
+  - "Okky Madasari"
+publisher: "Gramedia Pustaka Utama"
+year: 2012
+isbn13: "9789792280098"
+pages: 275
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16627705W"
+  edition: "OL25308117M"
+  coverId: null

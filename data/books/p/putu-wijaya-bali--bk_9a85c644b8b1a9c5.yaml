@@ -1,0 +1,21 @@
+id: "bk_9a85c644b8b1a9c5"
+title: "Bali"
+subtitle: "Kumpulan Cerpen Putu Wijaya"
+authors:
+  - "Putu Wijaya"
+publisher: "Penerbit Buku Kompas"
+year: 2004
+isbn13: "9789797091279"
+pages: 218
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1032235W"
+  edition: "OL3377029M"
+  coverId: null

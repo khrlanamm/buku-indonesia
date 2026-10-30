@@ -1,0 +1,21 @@
+id: "bk_37a5d4a33fe2580c"
+title: "Backpacker Surprise"
+subtitle: null
+authors:
+  - "Gol A Gong"
+publisher: "PT Mizan Publika"
+year: 2010
+isbn13: "9789790663152"
+pages: null
+language: "id"
+categories:
+  - "Remaja"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22603586W"
+  edition: "OL30631012M"
+  coverId: null

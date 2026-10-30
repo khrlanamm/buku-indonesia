@@ -1,0 +1,25 @@
+id: "bk_ba68bd82d4cfcdc2"
+title: "Chairil"
+subtitle: null
+authors:
+  - "Hasan Aspahani"
+  - "Damhuri Muhammad"
+  - "Resita Wahyu Febiratri"
+publisher: "GagasMedia"
+year: 2016
+isbn13: "9789797808693"
+pages: 315
+language: "id"
+categories:
+  - "Biografi"
+  - "Puisi"
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL44883597W"
+  edition: "OL61258243M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_1b694252ae1ecc3b"
+title: "Tango"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Avi Basuki"
+publisher: "Gramedia Pustaka Utama"
+year: 2006
+isbn13: "9789792223187"
+pages: 165
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL11698177W"
+  edition: "OL16234391M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_ef82acd8b537f531"
+title: "Warrior"
+subtitle: "Sepatu untuk Sahabat"
+authors:
+  - "Arie Saptaji Wahyu Widodo"
+publisher: "Gramedia Pustaka Utama"
+year: 2007
+isbn13: "9789792234268"
+pages: 186
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL6065575W"
+  edition: "OL16660404M"
+  coverId: 5346622

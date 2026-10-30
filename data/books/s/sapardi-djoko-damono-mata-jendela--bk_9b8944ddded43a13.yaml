@@ -1,0 +1,21 @@
+id: "bk_9b8944ddded43a13"
+title: "Mata Jendela"
+subtitle: "Sajak-Sajak"
+authors:
+  - "Sapardi Djoko Damono"
+publisher: "IndonesiaTera"
+year: 2001
+isbn13: "9789799375575"
+pages: 92
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1030304W"
+  edition: "OL3604477M"
+  coverId: 4296855

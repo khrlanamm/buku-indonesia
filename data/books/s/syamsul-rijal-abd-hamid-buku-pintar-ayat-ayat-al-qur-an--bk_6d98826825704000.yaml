@@ -1,0 +1,21 @@
+id: "bk_6d98826825704000"
+title: "Buku Pintar Ayat-Ayat Al-Qur'an"
+subtitle: null
+authors:
+  - "Syamsul Rijal Abd Hamid"
+publisher: "Bhuana Ilmu Populer"
+year: 2014
+isbn13: "9786022496038"
+pages: 940
+language: "id"
+categories:
+  - "Agama"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL27963465W"
+  edition: "OL38221961M"
+  coverId: 12769741

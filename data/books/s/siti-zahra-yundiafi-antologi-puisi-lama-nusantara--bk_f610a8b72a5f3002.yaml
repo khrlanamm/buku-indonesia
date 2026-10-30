@@ -1,0 +1,21 @@
+id: "bk_f610a8b72a5f3002"
+title: "Antologi Puisi Lama Nusantara"
+subtitle: "Berisi Nasihat"
+authors:
+  - "Siti Zahra Yundiafi"
+publisher: "Yayasan Obor Indonesia"
+year: 2003
+isbn13: "9789794614358"
+pages: 117
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3443897W"
+  edition: "OL3740058M"
+  coverId: null

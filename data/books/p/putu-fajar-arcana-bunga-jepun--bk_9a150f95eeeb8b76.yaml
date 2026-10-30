@@ -1,0 +1,21 @@
+id: "bk_9a150f95eeeb8b76"
+title: "Bunga Jepun"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Putu Fajar Arcana"
+publisher: "Penerbit Buku Kompas"
+year: 2003
+isbn13: "9789797090869"
+pages: 156
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL6084808W"
+  edition: "OL3773506M"
+  coverId: null

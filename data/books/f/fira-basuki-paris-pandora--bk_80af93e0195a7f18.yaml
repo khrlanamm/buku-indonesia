@@ -1,0 +1,21 @@
+id: "bk_80af93e0195a7f18"
+title: "Paris Pandora"
+subtitle: null
+authors:
+  - "Fira Basuki"
+publisher: "Gramedia Widiasarana Indonesia"
+year: 2008
+isbn13: "9789790255548"
+pages: 322
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5766402W"
+  edition: "OL23173899M"
+  coverId: null

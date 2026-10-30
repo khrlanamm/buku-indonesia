@@ -1,0 +1,21 @@
+id: "bk_da81ecdae90865e1"
+title: "Kebijakan dalam 1001 Pantun"
+subtitle: "Wisdom in 1001 Pantun"
+authors:
+  - "John Gawa"
+publisher: "Penerbit Buku Kompas"
+year: 2004
+isbn13: "9789797091460"
+pages: 275
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5867149W"
+  edition: "OL3449162M"
+  coverId: 4266393

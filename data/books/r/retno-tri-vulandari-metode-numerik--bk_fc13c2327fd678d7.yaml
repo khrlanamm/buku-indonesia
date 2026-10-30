@@ -1,0 +1,21 @@
+id: "bk_fc13c2327fd678d7"
+title: "Metode Numerik"
+subtitle: "Teori, Kasus, dan Aplikasi"
+authors:
+  - "Retno Tri Vulandari"
+publisher: "Mavendra Pers"
+year: 2017
+isbn13: "9786026059888"
+pages: 97
+language: "id"
+categories:
+  - "Sains"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL28762420W"
+  edition: "OL39474791M"
+  coverId: 12876258

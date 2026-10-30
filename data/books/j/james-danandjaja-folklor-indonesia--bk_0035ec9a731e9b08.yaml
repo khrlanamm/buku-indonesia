@@ -1,0 +1,21 @@
+id: "bk_0035ec9a731e9b08"
+title: "Folklor Indonesia"
+subtitle: null
+authors:
+  - "James Danandjaja"
+publisher: "Grafitipers"
+year: 1986
+isbn13: null
+pages: 238
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1032516W"
+  edition: "OL2517494M"
+  coverId: 6338546

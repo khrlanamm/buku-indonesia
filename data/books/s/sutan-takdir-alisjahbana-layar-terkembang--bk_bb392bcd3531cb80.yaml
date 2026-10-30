@@ -1,0 +1,22 @@
+id: "bk_bb392bcd3531cb80"
+title: "Layar Terkembang"
+subtitle: null
+authors:
+  - "Sutan Takdir Alisjahbana"
+publisher: "Balai Pustaka"
+year: 1982
+isbn13: "9789794070659"
+pages: 139
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL347397W"
+  edition: "OL2834592M"
+  coverId: 5546117

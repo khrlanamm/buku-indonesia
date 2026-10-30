@@ -1,0 +1,21 @@
+id: "bk_c7bfe38819797015"
+title: "Bibir"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Bakdi Soemanto"
+publisher: "Gramedia Pustaka Utama"
+year: 2002
+isbn13: "9789796869046"
+pages: 102
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1030329W"
+  edition: "OL3611281M"
+  coverId: null

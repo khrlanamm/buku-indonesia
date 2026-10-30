@@ -1,0 +1,23 @@
+id: "bk_aa566051418a1a3c"
+title: "Drama dari Krakatau"
+subtitle: null
+authors:
+  - "Kwee Tek Hoay"
+publisher: "Hoa Siang In Kiok"
+year: 1929
+isbn13: null
+pages: 443
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+  - "isbn13"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16595803W"
+  edition: "OL25279250M"
+  coverId: null

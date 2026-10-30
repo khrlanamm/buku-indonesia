@@ -1,0 +1,21 @@
+id: "bk_62a34996727682c6"
+title: "Sepucuk Surat Dikirim Senja"
+subtitle: "Buku Puisi"
+authors:
+  - "Prijono Tjiptoherijanto"
+publisher: "Kosa Kata Kita"
+year: 2012
+isbn13: "9786028966450"
+pages: 80
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23214486W"
+  edition: "OL31049312M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_b65ff015c7a972bd"
+title: "Antologi Rasa"
+subtitle: null
+authors:
+  - "Ika Natassa"
+publisher: "Gramedia Pustaka Utama"
+year: 2011
+isbn13: "9789792274394"
+pages: 339
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16169298W"
+  edition: "OL25048057M"
+  coverId: 13270833

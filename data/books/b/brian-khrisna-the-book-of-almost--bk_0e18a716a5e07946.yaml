@@ -1,0 +1,21 @@
+id: "bk_0e18a716a5e07946"
+title: "The Book of Almost"
+subtitle: null
+authors:
+  - "Brian Khrisna"
+publisher: "Kawah Media"
+year: 2022
+isbn13: "9789797946548"
+pages: 236
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL43313626W"
+  edition: "OL58997289M"
+  coverId: 15044948

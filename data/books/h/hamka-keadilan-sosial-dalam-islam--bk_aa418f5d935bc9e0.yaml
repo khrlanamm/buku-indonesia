@@ -1,0 +1,23 @@
+id: "bk_aa418f5d935bc9e0"
+title: "Keadilan Sosial dalam Islam"
+subtitle: null
+authors:
+  - "Hamka"
+publisher: "Widjaja"
+year: 1951
+isbn13: null
+pages: 132
+language: "id"
+categories:
+  - "Agama"
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL292742W"
+  edition: "OL1071363M"
+  coverId: 10832839

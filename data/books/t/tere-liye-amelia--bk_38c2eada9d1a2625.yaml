@@ -1,0 +1,21 @@
+id: "bk_38c2eada9d1a2625"
+title: "Amelia"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Penerbit Republika"
+year: 2013
+isbn13: "9786028997737"
+pages: 392
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23140248W"
+  edition: "OL30979555M"
+  coverId: 14541760

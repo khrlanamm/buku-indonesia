@@ -1,0 +1,22 @@
+id: "bk_2c5468c73a8ed840"
+title: "I’m a Hero"
+subtitle: null
+authors:
+  - "Solikhin Abu Izzuddin"
+publisher: "Pro-U Media"
+year: 2022
+isbn13: "9786237490289"
+pages: 248
+language: "id"
+categories:
+  - "Agama"
+  - "Remaja"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL28961696W"
+  edition: "OL39821085M"
+  coverId: 12945083

@@ -1,0 +1,22 @@
+id: "bk_5977d3bc7f265f4f"
+title: "Hipnoterapi"
+subtitle: "Quit Smoking!"
+authors:
+  - "Romy Rafael"
+publisher: "GagasMedia"
+year: 2006
+isbn13: "9789797800321"
+pages: 98
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+  - "hand-checked"
+openLibrary:
+  work: "OL2304036W"
+  edition: "OL16215261M"
+  coverId: 5412963

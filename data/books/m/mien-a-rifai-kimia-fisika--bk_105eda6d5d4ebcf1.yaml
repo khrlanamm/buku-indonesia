@@ -1,0 +1,22 @@
+id: "bk_105eda6d5d4ebcf1"
+title: "Kimia Fisika"
+subtitle: null
+authors:
+  - "Mien A. Rifai"
+publisher: "Departemen Pendidikan dan Kebudayaan"
+year: 1993
+isbn13: "9789794593592"
+pages: 182
+language: "id"
+categories:
+  - "Sains"
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL2610629W"
+  edition: "OL1068519M"
+  coverId: null

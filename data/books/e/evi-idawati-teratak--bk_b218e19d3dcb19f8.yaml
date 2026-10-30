@@ -1,0 +1,21 @@
+id: "bk_b218e19d3dcb19f8"
+title: "Teratak"
+subtitle: null
+authors:
+  - "Evi Idawati"
+publisher: "Isac Book"
+year: 2009
+isbn13: "9789791808132"
+pages: 210
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5866924W"
+  edition: "OL23633457M"
+  coverId: null

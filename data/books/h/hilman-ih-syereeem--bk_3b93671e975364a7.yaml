@@ -1,0 +1,22 @@
+id: "bk_3b93671e975364a7"
+title: "Ih, Syereeem!"
+subtitle: null
+authors:
+  - "Hilman"
+publisher: "Gramedia"
+year: 1990
+isbn13: "9789794039403"
+pages: 123
+language: "id"
+categories:
+  - "Remaja"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3891134W"
+  edition: "OL2017448M"
+  coverId: 6640156

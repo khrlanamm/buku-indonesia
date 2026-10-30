@@ -1,0 +1,21 @@
+id: "bk_fbc7892cf1fb0dbd"
+title: "Sendalu"
+subtitle: "Sebuah Novel Tragedi Pemerkosaan"
+authors:
+  - "Chavchay Syaifullah"
+publisher: "Penerbit Buku Kompas"
+year: 2006
+isbn13: "9789797092429"
+pages: 145
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23998222W"
+  edition: "OL31697333M"
+  coverId: null

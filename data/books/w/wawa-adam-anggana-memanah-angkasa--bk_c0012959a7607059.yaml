@@ -1,0 +1,21 @@
+id: "bk_c0012959a7607059"
+title: "Anggana Memanah Angkasa"
+subtitle: "Kumpulan Cerita Pendek"
+authors:
+  - "Wawa Adam"
+publisher: "Balai Pustaka"
+year: 1991
+isbn13: "9789794073322"
+pages: 148
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: true
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4267017W"
+  edition: "OL1694210M"
+  coverId: null

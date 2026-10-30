@@ -1,0 +1,22 @@
+id: "bk_345d1db9d1e76c25"
+title: "Jembatan"
+subtitle: "Antologi Puisi dan Cerpen"
+authors:
+  - "Sudarno Mahyudin"
+publisher: "Adicita Karya Nusa"
+year: 2000
+isbn13: "9789799246394"
+pages: 173
+language: "id"
+categories:
+  - "Puisi"
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL19046616W"
+  edition: "OL4005280M"
+  coverId: null

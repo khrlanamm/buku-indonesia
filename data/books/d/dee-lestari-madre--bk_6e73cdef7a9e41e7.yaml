@@ -1,0 +1,21 @@
+id: "bk_6e73cdef7a9e41e7"
+title: "Madre"
+subtitle: "Kumpulan Cerita"
+authors:
+  - "Dee Lestari"
+publisher: "Bentang Pustaka"
+year: 2011
+isbn13: "9786028811491"
+pages: 160
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16472443W"
+  edition: "OL25178480M"
+  coverId: 7100601

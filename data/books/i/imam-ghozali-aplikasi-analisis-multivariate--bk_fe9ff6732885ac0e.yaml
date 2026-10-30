@@ -1,0 +1,23 @@
+id: "bk_fe9ff6732885ac0e"
+title: "Aplikasi Analisis Multivariate"
+subtitle: "Dengan Program IBM SPSS 25"
+authors:
+  - "Imam Ghozali"
+publisher: "Badan Penerbit Universitas Diponegoro"
+year: 2018
+isbn13: "9789797040154"
+pages: null
+language: "id"
+categories:
+  - "Sains"
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+  - "hand-checked"
+openLibrary:
+  work: "OL28215322W"
+  edition: "OL38628194M"
+  coverId: 14911282

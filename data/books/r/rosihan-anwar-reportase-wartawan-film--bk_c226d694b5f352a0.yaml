@@ -1,0 +1,21 @@
+id: "bk_c226d694b5f352a0"
+title: "Reportase Wartawan Film"
+subtitle: "Meliput Festival Film Internasional"
+authors:
+  - "Rosihan Anwar"
+publisher: "Pustaka Antara Utama"
+year: 1999
+isbn13: "9789799258007"
+pages: 284
+language: "id"
+categories:
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL386472W"
+  edition: "OL3981606M"
+  coverId: null

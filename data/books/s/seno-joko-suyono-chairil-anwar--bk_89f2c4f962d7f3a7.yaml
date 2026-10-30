@@ -1,0 +1,23 @@
+id: "bk_89f2c4f962d7f3a7"
+title: "Chairil Anwar"
+subtitle: "Bagimu Negeri Menyediakan Api"
+authors:
+  - "Seno Joko Suyono"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2016
+isbn13: "9786024241889"
+pages: 152
+language: "id"
+categories:
+  - "Biografi"
+  - "Puisi"
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL45175108W"
+  edition: "OL61598581M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_bdb48cf133ade6b5"
+title: "A Book About Nothing"
+subtitle: null
+authors:
+  - "Wimar Witoelar"
+publisher: "GagasMedia"
+year: 2006
+isbn13: "9789797800420"
+pages: 141
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1029821W"
+  edition: "OL16215209M"
+  coverId: 5326833

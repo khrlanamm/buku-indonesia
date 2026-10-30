@@ -1,0 +1,21 @@
+id: "bk_cedfe8694a22dfc2"
+title: "Sang Diplomat"
+subtitle: null
+authors:
+  - "Maria Hermiyanti Sugiharto"
+publisher: "Balai Pustaka"
+year: 1994
+isbn13: "9789794076590"
+pages: 201
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: true
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3222675W"
+  edition: "OL955803M"
+  coverId: null

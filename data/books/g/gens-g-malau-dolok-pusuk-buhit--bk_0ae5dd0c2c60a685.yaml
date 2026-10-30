@@ -1,0 +1,21 @@
+id: "bk_0ae5dd0c2c60a685"
+title: "Dolok Pusuk Buhit"
+subtitle: "Pelajaran Menulis Aksara Batak"
+authors:
+  - "Gens G. Malau"
+publisher: "Balai Pustaka"
+year: 1994
+isbn13: "9789794076408"
+pages: 206
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: true
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1781970W"
+  edition: "OL955810M"
+  coverId: null

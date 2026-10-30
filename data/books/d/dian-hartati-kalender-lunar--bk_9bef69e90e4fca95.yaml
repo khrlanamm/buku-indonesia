@@ -1,0 +1,21 @@
+id: "bk_9bef69e90e4fca95"
+title: "Kalender Lunar"
+subtitle: "Sepilihan Puisi"
+authors:
+  - "Dian Hartati"
+publisher: "Dian Rakyat"
+year: 2011
+isbn13: "9789790783416"
+pages: 125
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22604079W"
+  edition: "OL30631495M"
+  coverId: null

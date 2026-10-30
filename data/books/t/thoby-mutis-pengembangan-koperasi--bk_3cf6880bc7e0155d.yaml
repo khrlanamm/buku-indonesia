@@ -1,0 +1,21 @@
+id: "bk_3cf6880bc7e0155d"
+title: "Pengembangan Koperasi"
+subtitle: "Kumpulan Karangan"
+authors:
+  - "Thoby Mutis"
+publisher: "Gramedia Widiasarana Indonesia"
+year: 1992
+isbn13: "9789795530428"
+pages: 124
+language: "id"
+categories:
+  - "Bisnis"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3889702W"
+  edition: "OL1384157M"
+  coverId: 3929391

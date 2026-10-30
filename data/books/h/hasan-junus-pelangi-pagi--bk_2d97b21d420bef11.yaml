@@ -1,0 +1,21 @@
+id: "bk_2d97b21d420bef11"
+title: "Pelangi Pagi"
+subtitle: "Dan Sejumlah Cerita Lain"
+authors:
+  - "Hasan Junus"
+publisher: "Yayasan Pustaka Riau"
+year: 1999
+isbn13: "9789799339003"
+pages: 150
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1029291W"
+  edition: "OL6812908M"
+  coverId: null

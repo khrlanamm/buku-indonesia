@@ -1,0 +1,24 @@
+id: "bk_a0cf3135fdf0e9d4"
+title: "Negeri Awan"
+subtitle: "174 Penyair Dari Negeri Poci"
+authors:
+  - "Adri Darmadji Woko"
+  - "Handrawan Nadesul"
+  - "Kurniawan Junaedhie"
+  - "Penerbit Kosa Kata Kita"
+publisher: "Kosa Kata Kita"
+year: 2017
+isbn13: "9786026447074"
+pages: 729
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL42948565W"
+  edition: "OL58516796M"
+  coverId: null

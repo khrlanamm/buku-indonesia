@@ -1,0 +1,21 @@
+id: "bk_5af7aec15374ac5e"
+title: "Aimuna dan Sobori"
+subtitle: "Sebuah Novel tentang Pemusnahan Pohon Cengkeh"
+authors:
+  - "Hanna Rambe"
+publisher: "Yayasan Obor Indonesia"
+year: 2013
+isbn13: "9789794618547"
+pages: 481
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23133149W"
+  edition: "OL30973067M"
+  coverId: null

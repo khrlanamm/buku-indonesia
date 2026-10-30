@@ -1,0 +1,21 @@
+id: "bk_6230df163eb1f9b3"
+title: "Hijau"
+subtitle: null
+authors:
+  - "Agnes Jessica"
+publisher: "Pustaka Hermon"
+year: 2010
+isbn13: "9789793755120"
+pages: 512
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22379884W"
+  edition: "OL30465686M"
+  coverId: null

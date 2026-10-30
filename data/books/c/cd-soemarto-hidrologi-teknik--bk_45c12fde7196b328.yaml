@@ -1,0 +1,22 @@
+id: "bk_45c12fde7196b328"
+title: "Hidrologi Teknik"
+subtitle: null
+authors:
+  - "CD. Soemarto"
+publisher: "Usaha Nasional"
+year: 1987
+isbn13: null
+pages: null
+language: "id"
+categories:
+  - "Sains"
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL28606884W"
+  edition: "OL39224239M"
+  coverId: 12859460

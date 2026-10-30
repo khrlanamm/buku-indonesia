@@ -1,0 +1,22 @@
+id: "bk_01e193382ce88821"
+title: "Animal Antics"
+subtitle: "Hewan-Hewan Lucu dan Menggemaskan"
+authors:
+  - "Derek Harvey"
+publisher: "Bhuana Ilmu Populer"
+year: 2017
+isbn13: "9786023947003"
+pages: 144
+language: "id"
+categories:
+  - "Anak"
+  - "Sains"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL37823824W"
+  edition: "OL62414218M"
+  coverId: 15244054

@@ -1,0 +1,21 @@
+id: "bk_01ae083416b0e800"
+title: "The Maltese Falcon"
+subtitle: "Elang Malta"
+authors:
+  - "Dashiell Hammett"
+publisher: "Laksana"
+year: 2021
+isbn13: "9786233271875"
+pages: 328
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL47266W"
+  edition: "OL57997522M"
+  coverId: 14848211

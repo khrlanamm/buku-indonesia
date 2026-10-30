@@ -1,0 +1,22 @@
+id: "bk_15c8d0853d164fde"
+title: "Perempuan"
+subtitle: "Kumpulan Cerita Pendek"
+authors:
+  - "Mochtar Lubis"
+publisher: "Yayasan Obor Indonesia"
+year: 2010
+isbn13: "9789794617588"
+pages: 198
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15524810W"
+  edition: "OL24482360M"
+  coverId: null

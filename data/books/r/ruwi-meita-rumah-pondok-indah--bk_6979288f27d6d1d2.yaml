@@ -1,0 +1,21 @@
+id: "bk_6979288f27d6d1d2"
+title: "Rumah Pondok Indah"
+subtitle: "Sebuah Novel dengan Sebelas Pahatan"
+authors:
+  - "Ruwi Meita"
+publisher: "GagasMedia"
+year: 2006
+isbn13: "9789797800246"
+pages: 123
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23998333W"
+  edition: "OL31697446M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_15069fd3a3a7b58b"
+title: "BH"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Emha Ainun Nadjib"
+publisher: "Penerbit Buku Kompas"
+year: 2005
+isbn13: "9789797091682"
+pages: 246
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL946089W"
+  edition: "OL3450055M"
+  coverId: null

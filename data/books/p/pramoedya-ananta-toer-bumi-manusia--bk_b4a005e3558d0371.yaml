@@ -1,0 +1,23 @@
+id: "bk_b4a005e3558d0371"
+title: "Bumi Manusia"
+subtitle: null
+authors:
+  - "Pramoedya Ananta Toer"
+publisher: "Lentera Dipantara"
+year: 2005
+isbn13: "9789799731234"
+pages: 535
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL307247W"
+  edition: "OL37283586M"
+  coverId: 14840998

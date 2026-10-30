@@ -1,0 +1,21 @@
+id: "bk_c0b065a5d0227866"
+title: "Test Pack"
+subtitle: null
+authors:
+  - "Ninit Yunita"
+publisher: "GagasMedia"
+year: 2005
+isbn13: "9789793600963"
+pages: 230
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL17781573W"
+  edition: "OL26371084M"
+  coverId: null

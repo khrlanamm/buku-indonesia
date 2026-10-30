@@ -1,0 +1,21 @@
+id: "bk_e0b27b187eb98f24"
+title: "Stasiun"
+subtitle: null
+authors:
+  - "Putu Wijaya"
+publisher: "Metafor Pub"
+year: 2005
+isbn13: "9789793019246"
+pages: 150
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1032281W"
+  edition: "OL3467875M"
+  coverId: null

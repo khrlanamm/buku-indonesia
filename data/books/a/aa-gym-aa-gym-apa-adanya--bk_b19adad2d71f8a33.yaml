@@ -1,0 +1,22 @@
+id: "bk_b19adad2d71f8a33"
+title: "Aa Gym, Apa Adanya"
+subtitle: "Sebuah Qolbugrafi"
+authors:
+  - "Aa Gym"
+publisher: "MQ Pub"
+year: 2003
+isbn13: "9789793503004"
+pages: 164
+language: "id"
+categories:
+  - "Agama"
+  - "Biografi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5701397W"
+  edition: "OL3772857M"
+  coverId: null

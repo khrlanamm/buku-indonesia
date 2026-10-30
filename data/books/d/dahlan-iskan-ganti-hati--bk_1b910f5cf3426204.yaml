@@ -1,0 +1,21 @@
+id: "bk_1b910f5cf3426204"
+title: "Ganti Hati"
+subtitle: "Sebuah Pengalaman Pribadi"
+authors:
+  - "Dahlan Iskan"
+publisher: "JP Books"
+year: 2007
+isbn13: "9789791490085"
+pages: 328
+language: "id"
+categories:
+  - "Biografi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL12036138W"
+  edition: "OL17071206M"
+  coverId: 7014637

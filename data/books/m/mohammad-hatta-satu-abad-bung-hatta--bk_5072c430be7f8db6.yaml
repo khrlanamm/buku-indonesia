@@ -1,0 +1,23 @@
+id: "bk_5072c430be7f8db6"
+title: "Satu Abad Bung Hatta"
+subtitle: "Demokrasi Kita, Bebas Aktif, Ekonomi Masa Depan"
+authors:
+  - "Mohammad Hatta"
+publisher: "Penerbit Universitas Indonesia"
+year: 2002
+isbn13: "9789794562413"
+pages: 244
+language: "id"
+categories:
+  - "Sejarah"
+  - "Nonfiksi Umum"
+  - "Bisnis"
+reviewed: false
+needsCheck:
+  - "authors"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL311822W"
+  edition: "OL3611813M"
+  coverId: null

@@ -1,0 +1,22 @@
+id: "bk_465c127eab807616"
+title: "Buku Panduan Matematika Terapan"
+subtitle: null
+authors:
+  - "Triskaidekaman"
+publisher: "Gramedia Pustaka Utama"
+year: 2018
+isbn13: "9786020383026"
+pages: 359
+language: "id"
+categories:
+  - "Novel"
+  - "Remaja"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL38005380W"
+  edition: "OL51566752M"
+  coverId: 14613005

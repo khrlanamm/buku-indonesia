@@ -1,0 +1,21 @@
+id: "bk_34bcfd24e8f0086d"
+title: "Gajah Selalu Ingat"
+subtitle: null
+authors:
+  - "Agatha Christie"
+publisher: "Gramedia Pustaka Utama"
+year: 1999
+isbn13: "9789795114468"
+pages: 322
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL471776W"
+  edition: "OL26394038M"
+  coverId: 10251689

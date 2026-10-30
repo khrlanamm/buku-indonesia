@@ -1,0 +1,21 @@
+id: "bk_20cfd4e6df4fa66a"
+title: "The Darkness of Gatotkaca"
+subtitle: "Sebuah Novel Pahlawan Kesunyian"
+authors:
+  - "Pitoyo Amrih"
+publisher: "Diva Press"
+year: 2009
+isbn13: "9789799636935"
+pages: 416
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL11744416W"
+  edition: "OL23615811M"
+  coverId: 6255756

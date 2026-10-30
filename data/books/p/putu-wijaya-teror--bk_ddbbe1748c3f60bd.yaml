@@ -1,0 +1,21 @@
+id: "bk_ddbbe1748c3f60bd"
+title: "Teror"
+subtitle: null
+authors:
+  - "Putu Wijaya"
+publisher: "Pustaka Jaya"
+year: 1991
+isbn13: "9789794190883"
+pages: 147
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1032270W"
+  edition: "OL1383997M"
+  coverId: null

@@ -1,0 +1,22 @@
+id: "bk_f17934958c3d0499"
+title: "Tarian Cermin"
+subtitle: null
+authors:
+  - "Mustafa Ismail"
+publisher: null
+year: 2007
+isbn13: "9789792522297"
+pages: 105
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+  - "publisher"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24090409W"
+  edition: "OL31786919M"
+  coverId: null

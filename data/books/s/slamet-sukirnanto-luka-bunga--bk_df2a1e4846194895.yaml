@@ -1,0 +1,21 @@
+id: "bk_df2a1e4846194895"
+title: "Luka Bunga"
+subtitle: "Kumpulan Sajak-Sajak, 1969-1987"
+authors:
+  - "Slamet Sukirnanto"
+publisher: "Balai Pustaka"
+year: 1991
+isbn13: "9789794072486"
+pages: 108
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: true
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4267044W"
+  edition: "OL1694242M"
+  coverId: null

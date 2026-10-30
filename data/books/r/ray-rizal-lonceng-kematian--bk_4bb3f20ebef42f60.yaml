@@ -1,0 +1,21 @@
+id: "bk_4bb3f20ebef42f60"
+title: "Lonceng Kematian"
+subtitle: null
+authors:
+  - "Ray Rizal"
+publisher: "Grafikatama Jaya"
+year: 1992
+isbn13: "9789794940709"
+pages: 128
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1780652W"
+  edition: "OL1387335M"
+  coverId: null

@@ -1,0 +1,22 @@
+id: "bk_ab47411aec31532e"
+title: "Azab dan Sengsara"
+subtitle: null
+authors:
+  - "Merari Siregar"
+publisher: "Balai Pustaka"
+year: 2009
+isbn13: "9789794071687"
+pages: 123
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL387681W"
+  edition: "OL23714623M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_9cba2223b08c3982"
+title: "Pintu"
+subtitle: null
+authors:
+  - "Fira Basuki"
+publisher: "Gramedia Widiasarana Indonesia"
+year: 2002
+isbn13: "9789796955428"
+pages: 157
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5766403W"
+  edition: "OL3604502M"
+  coverId: 13188240

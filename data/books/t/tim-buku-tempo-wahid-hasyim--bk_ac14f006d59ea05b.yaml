@@ -1,0 +1,21 @@
+id: "bk_ac14f006d59ea05b"
+title: "Wahid Hasyim"
+subtitle: null
+authors:
+  - "Tim Buku Tempo"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2011
+isbn13: "9789799103444"
+pages: 132
+language: "id"
+categories:
+  - "Biografi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16118574W"
+  edition: "OL25006273M"
+  coverId: 13706257

@@ -1,0 +1,21 @@
+id: "bk_8146095fda07b42c"
+title: "Selena"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Gramedia Pustaka Utama"
+year: 2020
+isbn13: "9786020385945"
+pages: 368
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL20664011W"
+  edition: "OL27943324M"
+  coverId: 14541759

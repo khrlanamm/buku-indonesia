@@ -1,0 +1,21 @@
+id: "bk_dc0f98d459e636c7"
+title: "Adam Ma'rifat"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Danarto"
+publisher: "Matahari"
+year: 2004
+isbn13: "9789793618043"
+pages: 87
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1030417W"
+  edition: "OL3355660M"
+  coverId: null

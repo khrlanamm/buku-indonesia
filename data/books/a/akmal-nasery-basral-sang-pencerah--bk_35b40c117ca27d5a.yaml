@@ -1,0 +1,24 @@
+id: "bk_35b40c117ca27d5a"
+title: "Sang Pencerah"
+subtitle: "Novelisasi Kehidupan K.H. Ahmad Dahlan dan Perjuangannya Mendirikan Muhammadiyah"
+authors:
+  - "Akmal Nasery Basral"
+publisher: "Mizan"
+year: 2010
+isbn13: "9789794335963"
+pages: 461
+language: "id"
+categories:
+  - "Novel"
+  - "Biografi"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+  - "hand-checked"
+openLibrary:
+  work: "OL15447992W"
+  edition: "OL24415548M"
+  coverId: 6715230

@@ -1,0 +1,22 @@
+id: "bk_5cfe1f51d5ddbe19"
+title: "Nyanyian Maldoror dan Poésies"
+subtitle: null
+authors:
+  - "Isidore Lucien Ducasse"
+publisher: "Nyorangan Books"
+year: 2026
+isbn13: null
+pages: 406
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+  - "hand-checked"
+openLibrary:
+  work: "OL45590763W"
+  edition: "OL62087615M"
+  coverId: 15230108

@@ -1,0 +1,23 @@
+id: "bk_932b143960c0f0b4"
+title: "9 Summers 10 Autumns"
+subtitle: null
+authors:
+  - "Iwan Setyawan"
+publisher: "Gramedia Pustaka Utama"
+year: 2011
+isbn13: "9789792267662"
+pages: 221
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "year"
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16495877W"
+  edition: "OL25194729M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_8f111cdac85944db"
+title: "Pulang"
+subtitle: "Sebuah Kompilasi Komik"
+authors:
+  - "Matto Haq"
+publisher: "Gramedia Pustaka Utama"
+year: 2017
+isbn13: "9786024284770"
+pages: 176
+language: "id"
+categories:
+  - "Komik"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL32133099W"
+  edition: "OL43867804M"
+  coverId: 13792757

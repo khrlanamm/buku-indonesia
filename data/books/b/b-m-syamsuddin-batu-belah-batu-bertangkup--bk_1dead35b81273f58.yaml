@@ -1,0 +1,21 @@
+id: "bk_1dead35b81273f58"
+title: "Batu Belah Batu Bertangkup"
+subtitle: "Cerita Rakyat di Kepulauan Siantan"
+authors:
+  - "B. M. Syamsuddin"
+publisher: "Balai Pustaka"
+year: 1983
+isbn13: null
+pages: 48
+language: "id"
+categories:
+  - "Anak"
+reviewed: true
+needsCheck:
+  - "isbn13"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4950668W"
+  edition: "OL3016518M"
+  coverId: null

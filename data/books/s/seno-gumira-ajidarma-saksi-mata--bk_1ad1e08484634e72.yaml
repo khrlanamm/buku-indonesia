@@ -1,0 +1,24 @@
+id: "bk_1ad1e08484634e72"
+title: "Saksi Mata"
+subtitle: null
+authors:
+  - "Seno Gumira Ajidarma"
+publisher: "Yayasan Bentang Budaya"
+year: 1994
+isbn13: null
+pages: 116
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  - "publisher"
+  - "year"
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL946284W"
+  edition: "OL1262055M"
+  coverId: null

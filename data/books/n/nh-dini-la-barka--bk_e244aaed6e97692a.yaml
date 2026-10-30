@@ -1,0 +1,22 @@
+id: "bk_e244aaed6e97692a"
+title: "La Barka"
+subtitle: null
+authors:
+  - "Nh. Dini"
+publisher: "Gramedia Pustaka Utama"
+year: 2019
+isbn13: null
+pages: 248
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL945837W"
+  edition: "OL51567421M"
+  coverId: 14613281

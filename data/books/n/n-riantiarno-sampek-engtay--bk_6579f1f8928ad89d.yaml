@@ -1,0 +1,21 @@
+id: "bk_6579f1f8928ad89d"
+title: "Sampek Engtay"
+subtitle: null
+authors:
+  - "N. Riantiarno"
+publisher: "Pustaka Jaya"
+year: 1999
+isbn13: "9789794192504"
+pages: 128
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL952069W"
+  edition: "OL129223M"
+  coverId: null

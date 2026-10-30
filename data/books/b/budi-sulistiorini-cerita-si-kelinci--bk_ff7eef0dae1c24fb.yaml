@@ -1,0 +1,22 @@
+id: "bk_ff7eef0dae1c24fb"
+title: "Cerita Si Kelinci"
+subtitle: null
+authors:
+  - "Budi Sulistiorini"
+publisher: "Gema Insani"
+year: 2019
+isbn13: "9786022506577"
+pages: 24
+language: "id"
+categories:
+  - "Anak"
+  - "Agama"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL36962286W"
+  edition: "OL49908866M"
+  coverId: 14544406

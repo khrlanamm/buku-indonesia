@@ -1,0 +1,22 @@
+id: "bk_a24a9ac8168247e8"
+title: "Akuntansi Biaya"
+subtitle: null
+authors:
+  - "Ibnu Subiyanto"
+  - "Bambang Suripto"
+publisher: "Gunadarma"
+year: 1993
+isbn13: null
+pages: 301
+language: "id"
+categories:
+  - "Bisnis"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL28603615W"
+  edition: "OL39218293M"
+  coverId: 12855320

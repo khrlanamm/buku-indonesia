@@ -1,0 +1,21 @@
+id: "bk_019e9f87c56a5d58"
+title: "Origami Tanks"
+subtitle: null
+authors:
+  - "Hadi Tahir"
+publisher: "Hadi Tahir"
+year: 2020
+isbn13: null
+pages: 55
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24509709W"
+  edition: "OL32479562M"
+  coverId: 11135130

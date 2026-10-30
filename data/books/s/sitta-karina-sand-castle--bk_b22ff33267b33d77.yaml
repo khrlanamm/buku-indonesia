@@ -1,0 +1,21 @@
+id: "bk_b22ff33267b33d77"
+title: "Sand Castle"
+subtitle: "Magical Seira: Sebuah Novella"
+authors:
+  - "Sitta Karina"
+publisher: "Buah Hati"
+year: 2013
+isbn13: "9786027652408"
+pages: 152
+language: "id"
+categories:
+  - "Remaja"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23139876W"
+  edition: "OL30979237M"
+  coverId: null

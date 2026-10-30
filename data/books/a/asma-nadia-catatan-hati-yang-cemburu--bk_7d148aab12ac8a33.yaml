@@ -1,0 +1,22 @@
+id: "bk_7d148aab12ac8a33"
+title: "Catatan Hati yang Cemburu"
+subtitle: null
+authors:
+  - "Asma Nadia"
+publisher: "Asma Nadia Publishing House"
+year: 2014
+isbn13: null
+pages: 247
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16638010W"
+  edition: "OL25942051M"
+  coverId: 7441494

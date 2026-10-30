@@ -1,0 +1,21 @@
+id: "bk_74d43455b8d3e87f"
+title: "Ruang Jingga"
+subtitle: "Antologi Puisi 12 Penyair Jingga"
+authors:
+  - "Rini Intama"
+publisher: "Q Publisher"
+year: 2010
+isbn13: "9789799979773"
+pages: 98
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22380792W"
+  edition: "OL30466621M"
+  coverId: null

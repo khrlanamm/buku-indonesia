@@ -1,0 +1,21 @@
+id: "bk_79ebe2ef30d4ccad"
+title: "Suluk"
+subtitle: "Sebuah Novel Religi"
+authors:
+  - "Bamton"
+publisher: "Transpustaka"
+year: 2012
+isbn13: "9789793907185"
+pages: 411
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23207141W"
+  edition: "OL31041567M"
+  coverId: 14317459

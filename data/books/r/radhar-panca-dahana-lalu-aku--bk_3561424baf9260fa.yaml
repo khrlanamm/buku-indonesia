@@ -1,0 +1,21 @@
+id: "bk_3561424baf9260fa"
+title: "Lalu Aku"
+subtitle: "Sekumpulan Puisi"
+authors:
+  - "Radhar Panca Dahana"
+publisher: "Gramedia Pustaka Utama"
+year: 2011
+isbn13: "9789792270976"
+pages: 109
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22610968W"
+  edition: "OL30638025M"
+  coverId: null

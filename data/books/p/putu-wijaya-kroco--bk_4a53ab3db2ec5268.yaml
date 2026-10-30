@@ -1,0 +1,21 @@
+id: "bk_4a53ab3db2ec5268"
+title: "Kroco"
+subtitle: null
+authors:
+  - "Putu Wijaya"
+publisher: "Pustaka Firdaus"
+year: 1995
+isbn13: "9789795410676"
+pages: 124
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1032252W"
+  edition: "OL957451M"
+  coverId: null

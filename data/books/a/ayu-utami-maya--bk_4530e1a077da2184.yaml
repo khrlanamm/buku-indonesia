@@ -1,0 +1,21 @@
+id: "bk_4530e1a077da2184"
+title: "Maya"
+subtitle: null
+authors:
+  - "Ayu Utami"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2013
+isbn13: "9789799106261"
+pages: 249
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23233993W"
+  edition: "OL31070195M"
+  coverId: null

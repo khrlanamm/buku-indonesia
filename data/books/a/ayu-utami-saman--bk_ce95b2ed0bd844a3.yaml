@@ -1,0 +1,21 @@
+id: "bk_ce95b2ed0bd844a3"
+title: "Saman"
+subtitle: "Fragmen dari Novel Laila Tak Mampir di New York"
+authors:
+  - "Ayu Utami"
+publisher: "Kalam"
+year: 1998
+isbn13: "9789799023179"
+pages: 197
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL2325374W"
+  edition: "OL518941M"
+  coverId: null

@@ -1,0 +1,23 @@
+id: "bk_88d6a943599290a6"
+title: "Mohammad Hatta"
+subtitle: "Beberapa Pokok Pikiran"
+authors:
+  - "Mohammad Hatta"
+publisher: "Penerbit Universitas Indonesia"
+year: 1992
+isbn13: "9789794560969"
+pages: 245
+language: "id"
+categories:
+  - "Sejarah"
+  - "Nonfiksi Umum"
+  - "Biografi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL311831W"
+  edition: "OL1386816M"
+  coverId: null

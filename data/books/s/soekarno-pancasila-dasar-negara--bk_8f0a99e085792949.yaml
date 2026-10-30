@@ -1,0 +1,21 @@
+id: "bk_8f0a99e085792949"
+title: "Pancasila Dasar Negara"
+subtitle: "Kursus Presiden Soekarno tentang Pancasila"
+authors:
+  - "Soekarno"
+publisher: "PSP UGM"
+year: 2008
+isbn13: "9789793984278"
+pages: 200
+language: "id"
+categories:
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15640583W"
+  edition: "OL24586269M"
+  coverId: null

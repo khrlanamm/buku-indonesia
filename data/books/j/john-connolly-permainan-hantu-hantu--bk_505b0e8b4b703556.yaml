@@ -1,0 +1,21 @@
+id: "bk_505b0e8b4b703556"
+title: "Permainan Hantu-Hantu"
+subtitle: "A Game of Ghosts"
+authors:
+  - "John Connolly"
+publisher: "Gramedia Pustaka Utama"
+year: 2021
+isbn13: "9786020643465"
+pages: 600
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL20059200W"
+  edition: "OL62084023M"
+  coverId: 15255394

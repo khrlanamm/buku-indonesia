@@ -1,0 +1,22 @@
+id: "bk_f19ed1b7e899a502"
+title: "VOC"
+subtitle: null
+authors:
+  - "Ferdian Udiyanto"
+publisher: "Pro-U Media"
+year: 2022
+isbn13: "9786027820067"
+pages: 191
+language: "id"
+categories:
+  - "Remaja"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL28963190W"
+  edition: "OL39822814M"
+  coverId: 12947552

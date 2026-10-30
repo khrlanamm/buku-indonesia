@@ -1,0 +1,21 @@
+id: "bk_b5f178db996b50a3"
+title: "Dialog"
+subtitle: null
+authors:
+  - "Umar Kayam"
+publisher: "Metafor Pub"
+year: 2005
+isbn13: "9789793019253"
+pages: 325
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23976991W"
+  edition: "OL31678748M"
+  coverId: null

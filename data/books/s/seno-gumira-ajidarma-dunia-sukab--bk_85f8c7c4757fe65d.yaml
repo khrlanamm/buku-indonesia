@@ -1,0 +1,21 @@
+id: "bk_85f8c7c4757fe65d"
+title: "Dunia Sukab"
+subtitle: "Sejumlah Cerita"
+authors:
+  - "Seno Gumira Ajidarma"
+publisher: "Penerbit Buku Kompas"
+year: 2001
+isbn13: "9789799251664"
+pages: 160
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL946261W"
+  edition: "OL4005653M"
+  coverId: null

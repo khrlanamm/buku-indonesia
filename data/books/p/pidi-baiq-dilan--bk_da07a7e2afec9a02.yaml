@@ -1,0 +1,22 @@
+id: "bk_da07a7e2afec9a02"
+title: "Dilan"
+subtitle: null
+authors:
+  - "Pidi Baiq"
+publisher: "DAR! Mizan"
+year: 2015
+isbn13: "9786027870413"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+  - "Remaja"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22841222W"
+  edition: "OL30780507M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_66f7ad6b924a7ceb"
+title: "Si Mas"
+subtitle: null
+authors:
+  - "Tukirno Hadi"
+publisher: "Elex Media Komputindo"
+year: 1997
+isbn13: "9789796379408"
+pages: 125
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL2326087W"
+  edition: "OL519727M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_bcf02d59c85925aa"
+title: "Buruan"
+subtitle: null
+authors:
+  - "Putu Oka Sukanta"
+publisher: "Jaringan Kerja Kebudayaan Rakyat"
+year: 2009
+isbn13: "9789791895040"
+pages: 150
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15088415W"
+  edition: "OL23997509M"
+  coverId: null

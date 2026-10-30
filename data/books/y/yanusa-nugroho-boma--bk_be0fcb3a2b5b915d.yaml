@@ -1,0 +1,21 @@
+id: "bk_be0fcb3a2b5b915d"
+title: "Boma"
+subtitle: null
+authors:
+  - "Yanusa Nugroho"
+publisher: "Gramedia Widiasarana Indonesia"
+year: 2005
+isbn13: "9789797329716"
+pages: 238
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4604753W"
+  edition: "OL3450595M"
+  coverId: null

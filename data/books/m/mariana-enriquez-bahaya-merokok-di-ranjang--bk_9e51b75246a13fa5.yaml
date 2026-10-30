@@ -1,0 +1,21 @@
+id: "bk_9e51b75246a13fa5"
+title: "Bahaya Merokok di Ranjang"
+subtitle: null
+authors:
+  - "Mariana Enríquez"
+publisher: "Labirin Buku"
+year: 2023
+isbn13: "9786239298357"
+pages: 216
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL17638650W"
+  edition: "OL61554143M"
+  coverId: 15210961

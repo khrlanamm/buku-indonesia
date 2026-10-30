@@ -1,0 +1,22 @@
+id: "bk_7a2fd401722c145a"
+title: "Malaikat & Iblis"
+subtitle: null
+authors:
+  - "Dan Brown"
+publisher: "Serambi Ilmu Semesta"
+year: 2006
+isbn13: "9789791600293"
+pages: 651
+language: "id"
+categories:
+  - "Novel"
+  - "Agama"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL76833W"
+  edition: "OL40228555M"
+  coverId: 12983273

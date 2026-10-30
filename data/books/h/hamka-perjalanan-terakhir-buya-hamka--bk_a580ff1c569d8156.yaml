@@ -1,0 +1,21 @@
+id: "bk_a580ff1c569d8156"
+title: "Perjalanan Terakhir Buya Hamka"
+subtitle: null
+authors:
+  - "Hamka"
+publisher: "Jejak Tarbiah Publication"
+year: 2020
+isbn13: "9789671754337"
+pages: 318
+language: "id"
+categories:
+  - "Biografi"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL18313158W"
+  edition: "OL32173316M"
+  coverId: 10832830

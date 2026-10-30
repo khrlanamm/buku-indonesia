@@ -1,0 +1,22 @@
+id: "bk_d6a200a5a3da2c61"
+title: "Sekayu"
+subtitle: "Cerita Kenangan"
+authors:
+  - "Nh. Dini"
+publisher: "Gramedia"
+year: 1988
+isbn13: "9789794034118"
+pages: 181
+language: "id"
+categories:
+  - "Biografi"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL38835651W"
+  edition: "OL52877748M"
+  coverId: null

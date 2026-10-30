@@ -1,0 +1,21 @@
+id: "bk_ae642f77b7d89cde"
+title: "Lukisan Kaligrafi"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "A. Mustofa Bisri"
+publisher: "Penerbit Buku Kompas"
+year: 2003
+isbn13: "9789797091019"
+pages: 134
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1030965W"
+  edition: "OL3775211M"
+  coverId: null

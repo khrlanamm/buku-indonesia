@@ -1,0 +1,21 @@
+id: "bk_9a0a52fb9226c761"
+title: "Jelajah Cakrawala"
+subtitle: "Seratus Lima Belas Sajak Idrus Tintin"
+authors:
+  - "Idrus Tintin"
+publisher: "Gurindam Press"
+year: 2003
+isbn13: "9789799782403"
+pages: 166
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4604470W"
+  edition: "OL3774591M"
+  coverId: null

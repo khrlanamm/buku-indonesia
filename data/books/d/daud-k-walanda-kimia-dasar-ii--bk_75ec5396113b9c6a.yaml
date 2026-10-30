@@ -1,0 +1,21 @@
+id: "bk_75ec5396113b9c6a"
+title: "Kimia Dasar II"
+subtitle: null
+authors:
+  - "Daud K. Walanda"
+publisher: "DP (Dian Persada)"
+year: 2007
+isbn13: "9789791744904"
+pages: 123
+language: "id"
+categories:
+  - "Sains"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL17902473W"
+  edition: "OL26479161M"
+  coverId: 8217699

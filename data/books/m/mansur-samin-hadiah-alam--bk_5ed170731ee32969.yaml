@@ -1,0 +1,22 @@
+id: "bk_5ed170731ee32969"
+title: "Hadiah Alam"
+subtitle: null
+authors:
+  - "Mansur Samin"
+publisher: "Balai Pustaka"
+year: 2008
+isbn13: null
+pages: null
+language: "id"
+categories:
+  - "Anak"
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL37492327W"
+  edition: "OL50514132M"
+  coverId: 14557749

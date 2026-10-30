@@ -1,0 +1,21 @@
+id: "bk_17972ee62901aa24"
+title: "Baju Bulan"
+subtitle: "Seuntai Puisi Pilihan"
+authors:
+  - "Joko Pinurbo"
+publisher: "Gramedia Pustaka Utama"
+year: 2013
+isbn13: "9789792294705"
+pages: 82
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23406881W"
+  edition: "OL31263400M"
+  coverId: null

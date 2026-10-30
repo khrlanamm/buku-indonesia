@@ -1,0 +1,21 @@
+id: "bk_5d6d2f4df7eeaef1"
+title: "Urban Sensation"
+subtitle: null
+authors:
+  - "Bre Redana"
+publisher: "SHU Pub. and Nalar"
+year: 2008
+isbn13: "9789792690149"
+pages: 168
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1034630W"
+  edition: "OL17106939M"
+  coverId: null

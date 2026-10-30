@@ -1,0 +1,21 @@
+id: "bk_c1ee38d119dd1b93"
+title: "Labyrinth"
+subtitle: null
+authors:
+  - "Nalendra"
+publisher: "Yayasan Kata"
+year: 2002
+isbn13: "9789799580627"
+pages: 153
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL6007544W"
+  edition: "OL3643238M"
+  coverId: null

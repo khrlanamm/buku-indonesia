@@ -1,0 +1,22 @@
+id: "bk_4a0baf890122ef3c"
+title: "Kambing Jantan"
+subtitle: "Sebuah Catatan Harian Pelajar Bodoh"
+authors:
+  - "Raditya Dika"
+publisher: "GagasMedia"
+year: 2005
+isbn13: "9789793600697"
+pages: 237
+language: "id"
+categories:
+  - "Novel"
+  - "Remaja"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16600393W"
+  edition: "OL31678030M"
+  coverId: null

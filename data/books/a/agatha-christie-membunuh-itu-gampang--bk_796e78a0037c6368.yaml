@@ -1,0 +1,21 @@
+id: "bk_796e78a0037c6368"
+title: "Membunuh Itu Gampang"
+subtitle: null
+authors:
+  - "Agatha Christie"
+publisher: "Gramedia Pustaka Utama"
+year: 1999
+isbn13: "9789794030820"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL472582W"
+  edition: "OL39223314M"
+  coverId: 12858503

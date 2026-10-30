@@ -1,0 +1,21 @@
+id: "bk_f3cfbd73b7b182aa"
+title: "Tea for Two"
+subtitle: null
+authors:
+  - "Clara Ng"
+publisher: "Gramedia Pustaka Utama"
+year: 2009
+isbn13: "9789792243321"
+pages: 312
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5867587W"
+  edition: "OL23689282M"
+  coverId: null

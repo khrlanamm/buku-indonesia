@@ -1,0 +1,21 @@
+id: "bk_7e5c90ab6c4ac562"
+title: "Hikayat Jakarta"
+subtitle: null
+authors:
+  - "Willard Anderson Hanna"
+publisher: "Yayasan Obor Indonesia"
+year: 1988
+isbn13: "9789794610190"
+pages: 67
+language: "id"
+categories:
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23059395W"
+  edition: "OL2175370M"
+  coverId: null

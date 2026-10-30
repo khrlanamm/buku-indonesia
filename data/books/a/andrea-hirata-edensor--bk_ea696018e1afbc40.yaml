@@ -1,0 +1,21 @@
+id: "bk_ea696018e1afbc40"
+title: "Edensor"
+subtitle: null
+authors:
+  - "Andrea Hirata"
+publisher: "Bentang Pustaka"
+year: 2008
+isbn13: "9789791227025"
+pages: 294
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15302002W"
+  edition: "OL23714626M"
+  coverId: 15218354

@@ -1,0 +1,21 @@
+id: "bk_e7cd0a0d8201c60d"
+title: "Pergi"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Penerbit Republika"
+year: 2018
+isbn13: "9786025734052"
+pages: 460
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL28941549W"
+  edition: "OL39794776M"
+  coverId: 12905873

@@ -1,0 +1,21 @@
+id: "bk_e755693fc567d005"
+title: "Lanteung"
+subtitle: "Tak Berguna!"
+authors:
+  - "Saut Poltak Tambunan"
+publisher: "Bestari"
+year: 2004
+isbn13: "9789799140920"
+pages: 160
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4951044W"
+  edition: "OL3376926M"
+  coverId: null

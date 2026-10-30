@@ -1,0 +1,23 @@
+id: "bk_fa5850ef71d52163"
+title: "Jalan Rel"
+subtitle: null
+authors:
+  - "Suryo Hapsoro Tri Utomo"
+publisher: "Beta Offset"
+year: 2009
+isbn13: null
+pages: null
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+  - "Sains"
+reviewed: true
+needsCheck:
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL27771347W"
+  edition: "OL37919956M"
+  coverId: 12749477

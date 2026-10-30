@@ -1,0 +1,21 @@
+id: "bk_ae0cf4a4882432a4"
+title: "Topeng"
+subtitle: "Sebuah Cerita Panjang"
+authors:
+  - "Wing Kardjo"
+publisher: "Yayasan Obor Indonesia"
+year: 2002
+isbn13: "9789794614181"
+pages: 158
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1782122W"
+  edition: "OL3611337M"
+  coverId: null

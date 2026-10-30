@@ -1,0 +1,22 @@
+id: "bk_ba22bf217a87a1b1"
+title: "Grey & Jingga"
+subtitle: "The Twilight"
+authors:
+  - "Sweta Kartika"
+publisher: "Gramedia"
+year: 2017
+isbn13: "9786024285241"
+pages: null
+language: "id"
+categories:
+  - "Komik"
+  - "Remaja"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL32299040W"
+  edition: "OL44048208M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_1f256e53a55f655a"
+title: "Darah"
+subtitle: null
+authors:
+  - "Putu Wijaya"
+publisher: "Balai Pustaka"
+year: 1995
+isbn13: "9789794077726"
+pages: 222
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1032242W"
+  edition: "OL648479M"
+  coverId: null

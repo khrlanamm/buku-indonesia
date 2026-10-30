@@ -1,0 +1,21 @@
+id: "bk_8cd5c073b5cff55a"
+title: "T(w)itit!"
+subtitle: "Kumpulan Cerita"
+authors:
+  - "Djenar Maesa Ayu"
+publisher: "Gramedia Pustaka Utama"
+year: 2012
+isbn13: "9789792279672"
+pages: 99
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16665262W"
+  edition: "OL25340627M"
+  coverId: null

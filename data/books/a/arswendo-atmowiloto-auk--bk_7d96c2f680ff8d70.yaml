@@ -1,0 +1,21 @@
+id: "bk_7d96c2f680ff8d70"
+title: "Auk"
+subtitle: null
+authors:
+  - "Arswendo Atmowiloto"
+publisher: "Pustaka Utama Grafiti"
+year: 1994
+isbn13: "9789794443040"
+pages: 170
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL2609383W"
+  edition: "OL1261166M"
+  coverId: null

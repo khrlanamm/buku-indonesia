@@ -1,0 +1,22 @@
+id: "bk_7a91b036cba2fbf0"
+title: "Harimau! Harimau!"
+subtitle: null
+authors:
+  - "Mochtar Lubis"
+publisher: "Yayasan Obor Indonesia"
+year: 2003
+isbn13: "9789794611098"
+pages: 214
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16702129W"
+  edition: "OL25374441M"
+  coverId: null

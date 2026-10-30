@@ -1,0 +1,22 @@
+id: "bk_01e1e2ab03ab6ecc"
+title: "Cerita Azra"
+subtitle: "Biografi Cendekiawan Muslim Azyumardi Azra"
+authors:
+  - "Andina Dwifatma"
+publisher: "Erlangga"
+year: 2011
+isbn13: "9789790993136"
+pages: 248
+language: "id"
+categories:
+  - "Agama"
+  - "Biografi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16016110W"
+  edition: "OL24919646M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_1ac56c792771d6ec"
+title: "Angin Timoer-Angin Barat"
+subtitle: null
+authors:
+  - "Pearl S. Buck"
+publisher: "Balai Poestaka"
+year: 1930
+isbn13: null
+pages: 166
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1140133W"
+  edition: "OL32173402M"
+  coverId: 10832863

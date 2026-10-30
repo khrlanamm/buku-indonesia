@@ -1,0 +1,22 @@
+id: "bk_0ef83234e25db4c1"
+title: "Sainspedia"
+subtitle: null
+authors:
+  - "National Geographic Kids"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2017
+isbn13: "9786024243722"
+pages: 304
+language: "id"
+categories:
+  - "Sains"
+  - "Anak"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL20473721W"
+  edition: "OL39794781M"
+  coverId: 12905877

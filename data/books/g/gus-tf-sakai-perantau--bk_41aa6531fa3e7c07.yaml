@@ -1,0 +1,21 @@
+id: "bk_41aa6531fa3e7c07"
+title: "Perantau"
+subtitle: "Kumpulan Cerita Pendek"
+authors:
+  - "Gus tf Sakai"
+publisher: "Gramedia Pustaka Utama"
+year: 2007
+isbn13: "9789792227352"
+pages: 130
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24067041W"
+  edition: "OL31764833M"
+  coverId: null

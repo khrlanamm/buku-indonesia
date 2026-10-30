@@ -1,0 +1,21 @@
+id: "bk_a28fd68f7df6a752"
+title: "Rumah Tanpa Jendela"
+subtitle: null
+authors:
+  - "Asma Nadia"
+publisher: "Penerbit Buku Kompas"
+year: 2011
+isbn13: "9789797095468"
+pages: 180
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15934499W"
+  edition: "OL24840581M"
+  coverId: null

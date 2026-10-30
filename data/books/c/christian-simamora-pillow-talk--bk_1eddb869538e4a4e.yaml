@@ -1,0 +1,21 @@
+id: "bk_1eddb869538e4a4e"
+title: "Pillow Talk"
+subtitle: "Setiap Hati Punya Rahasia"
+authors:
+  - "Christian Simamora"
+publisher: "GagasMedia"
+year: 2010
+isbn13: "9789797803933"
+pages: 459
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL18792376W"
+  edition: "OL24041166M"
+  coverId: null

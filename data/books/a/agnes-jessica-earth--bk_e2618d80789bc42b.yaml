@@ -1,0 +1,21 @@
+id: "bk_e2618d80789bc42b"
+title: "Earth"
+subtitle: null
+authors:
+  - "Agnes Jessica"
+publisher: "Pustaka Hermon"
+year: 2012
+isbn13: "9789793755175"
+pages: 512
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16568974W"
+  edition: "OL25256659M"
+  coverId: null

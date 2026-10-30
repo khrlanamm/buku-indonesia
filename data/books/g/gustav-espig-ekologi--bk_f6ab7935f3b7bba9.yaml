@@ -1,0 +1,21 @@
+id: "bk_f6ab7935f3b7bba9"
+title: "Ekologi"
+subtitle: null
+authors:
+  - "Gustav Espig"
+publisher: "Yayasan Obor Indonesia"
+year: 1988
+isbn13: "9789794610091"
+pages: 208
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL19194820W"
+  edition: "OL2175167M"
+  coverId: null

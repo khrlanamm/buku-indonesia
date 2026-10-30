@@ -1,0 +1,21 @@
+id: "bk_0fd62bf212315450"
+title: "De Liefde"
+subtitle: "Memoar Sekar Prembajoen"
+authors:
+  - "Afifah Afra"
+publisher: "Afra Pub"
+year: 2010
+isbn13: "9786028277167"
+pages: 454
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23367084W"
+  edition: "OL31220388M"
+  coverId: null

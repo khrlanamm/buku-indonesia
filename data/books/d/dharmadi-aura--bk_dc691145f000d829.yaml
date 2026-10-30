@@ -1,0 +1,21 @@
+id: "bk_dc691145f000d829"
+title: "Aura"
+subtitle: "Buku Kumpulan Puisi Dharmadi"
+authors:
+  - "Dharmadi"
+publisher: "Kosa Kata Kita"
+year: 2011
+isbn13: "9786028966146"
+pages: 69
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16177551W"
+  edition: "OL25055531M"
+  coverId: null

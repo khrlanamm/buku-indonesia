@@ -1,0 +1,23 @@
+id: "bk_34687533efa207b8"
+title: "Karmila"
+subtitle: null
+authors:
+  - "Marga T."
+publisher: "Gramedia Pustaka Utama"
+year: 1977
+isbn13: null
+pages: 238
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "year"
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4266697W"
+  edition: "OL61921282M"
+  coverId: null

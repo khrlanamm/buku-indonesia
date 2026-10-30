@@ -1,0 +1,21 @@
+id: "bk_5dc5856b9b008da1"
+title: "Lenka"
+subtitle: null
+authors:
+  - "Andina Dwifatma"
+publisher: "Banana"
+year: 2011
+isbn13: "9789791079259"
+pages: 262
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16080331W"
+  edition: "OL24976856M"
+  coverId: null

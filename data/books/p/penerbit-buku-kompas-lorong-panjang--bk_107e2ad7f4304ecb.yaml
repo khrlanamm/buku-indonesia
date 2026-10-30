@@ -1,0 +1,22 @@
+id: "bk_107e2ad7f4304ecb"
+title: "Lorong Panjang"
+subtitle: "Laporan Akhir Tahun Kompas 2001"
+authors:
+  - "Penerbit Buku Kompas"
+publisher: "Penerbit Buku Kompas"
+year: 2002
+isbn13: "9789797090128"
+pages: 621
+language: "id"
+categories:
+  - "Bisnis"
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL19417728W"
+  edition: "OL3605074M"
+  coverId: null

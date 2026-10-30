@@ -1,0 +1,21 @@
+id: "bk_ea1852fc06289c06"
+title: "Dokumen Jibril"
+subtitle: "Kumpulan Cerpen Republika"
+authors:
+  - "Dee Lestari"
+publisher: "Penerbit Republika"
+year: 2005
+isbn13: "9789793210483"
+pages: 176
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL18838778W"
+  edition: "OL3450633M"
+  coverId: null

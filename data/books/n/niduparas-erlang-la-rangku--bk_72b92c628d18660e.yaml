@@ -1,0 +1,21 @@
+id: "bk_72b92c628d18660e"
+title: "La Rangku"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Niduparas Erlang"
+publisher: "Selasar Pub"
+year: 2011
+isbn13: "9789792594201"
+pages: 128
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16665242W"
+  edition: "OL25340607M"
+  coverId: null

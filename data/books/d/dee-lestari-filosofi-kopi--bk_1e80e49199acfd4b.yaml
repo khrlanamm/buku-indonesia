@@ -1,0 +1,24 @@
+id: "bk_1e80e49199acfd4b"
+title: "Filosofi Kopi"
+subtitle: null
+authors:
+  - "Dee Lestari"
+publisher: "Bentang Pustaka"
+year: 2006
+isbn13: "9789799625731"
+pages: 134
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "year"
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22841587W"
+  edition: "OL31697442M"
+  coverId: null

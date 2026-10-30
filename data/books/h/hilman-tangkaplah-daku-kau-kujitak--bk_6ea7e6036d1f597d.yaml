@@ -1,0 +1,22 @@
+id: "bk_6ea7e6036d1f597d"
+title: "Tangkaplah Daku, Kau Kujitak!"
+subtitle: null
+authors:
+  - "Hilman"
+publisher: "Gramedia"
+year: 1990
+isbn13: "9789794030295"
+pages: 100
+language: "id"
+categories:
+  - "Remaja"
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3891139W"
+  edition: "OL2017419M"
+  coverId: 4053728

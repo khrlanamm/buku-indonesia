@@ -1,0 +1,22 @@
+id: "bk_48e0784d66bc9530"
+title: "Untuk Negeriku"
+subtitle: "Sebuah Otobiografi"
+authors:
+  - "Mohammad Hatta"
+publisher: "Penerbit Buku Kompas"
+year: 2011
+isbn13: "9789797095406"
+pages: null
+language: "id"
+categories:
+  - "Biografi"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15952727W"
+  edition: "OL24858776M"
+  coverId: null

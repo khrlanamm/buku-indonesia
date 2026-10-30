@@ -1,0 +1,21 @@
+id: "bk_4cad586c50f10a68"
+title: "Airmata Membara"
+subtitle: "Kumpulan Puisi"
+authors:
+  - "Juniarso Ridwan"
+publisher: "Kelir"
+year: 2004
+isbn13: "9789799771766"
+pages: 74
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3223975W"
+  edition: "OL3450540M"
+  coverId: null

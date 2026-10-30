@@ -1,0 +1,24 @@
+id: "bk_e62030b4f123f8d5"
+title: "Ziarah"
+subtitle: null
+authors:
+  - "Iwan Simatupang"
+publisher: "Gramedia Widiasarana Indonesia"
+year: 1993
+isbn13: "9789795532699"
+pages: 66
+language: "id"
+categories:
+  - "Sastra Klasik"
+reviewed: true
+needsCheck:
+  - "publisher"
+  - "year"
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL394272W"
+  edition: "OL1259770M"
+  coverId: null

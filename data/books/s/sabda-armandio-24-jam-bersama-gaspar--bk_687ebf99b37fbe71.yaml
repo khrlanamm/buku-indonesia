@@ -1,0 +1,21 @@
+id: "bk_687ebf99b37fbe71"
+title: "24 Jam Bersama Gaspar"
+subtitle: "Sebuah Cerita Detektif"
+authors:
+  - "Sabda Armandio"
+publisher: "Buku Mojok"
+year: 2017
+isbn13: "9786237284178"
+pages: 228
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL38005381W"
+  edition: "OL51566762M"
+  coverId: 14613007

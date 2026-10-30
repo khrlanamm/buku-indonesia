@@ -1,0 +1,21 @@
+id: "bk_d36528d5e6ce6dbb"
+title: "Semanyun Senyuman Mahasiswa"
+subtitle: "Kumpulan Cerpen yang Bukan Sastra Koran"
+authors:
+  - "Brahmanto Anindito"
+publisher: "Lulu"
+year: 2010
+isbn13: "9780557451456"
+pages: null
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16794867W"
+  edition: "OL25415434M"
+  coverId: 7238488

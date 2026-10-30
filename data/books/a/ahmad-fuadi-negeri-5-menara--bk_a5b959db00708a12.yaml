@@ -1,0 +1,21 @@
+id: "bk_a5b959db00708a12"
+title: "Negeri 5 Menara"
+subtitle: "Sebuah Novel yang Terinspirasi Kisah Nyata"
+authors:
+  - "Ahmad Fuadi"
+publisher: "Gramedia Pustaka Utama"
+year: 2009
+isbn13: "9789792248616"
+pages: 420
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15630282W"
+  edition: "OL24577931M"
+  coverId: 14303993

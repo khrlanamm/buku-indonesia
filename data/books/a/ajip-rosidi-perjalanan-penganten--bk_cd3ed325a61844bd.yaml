@@ -1,0 +1,21 @@
+id: "bk_cd3ed325a61844bd"
+title: "Perjalanan Penganten"
+subtitle: "Sebuah Kisah"
+authors:
+  - "Ajip Rosidi"
+publisher: "Pustaka Jaya"
+year: 1998
+isbn13: "9789794192382"
+pages: 171
+language: "id"
+categories:
+  - "Sastra Klasik"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL322350W"
+  edition: "OL336653M"
+  coverId: null

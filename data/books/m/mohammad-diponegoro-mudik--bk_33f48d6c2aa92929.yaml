@@ -1,0 +1,21 @@
+id: "bk_33f48d6c2aa92929"
+title: "Mudik"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Mohammad Diponegoro"
+publisher: "Yayasan Bentang Budaya"
+year: 1996
+isbn13: "9789798793134"
+pages: 179
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL19373298W"
+  edition: "OL648265M"
+  coverId: null

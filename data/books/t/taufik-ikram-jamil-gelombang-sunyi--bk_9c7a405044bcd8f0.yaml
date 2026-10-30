@@ -1,0 +1,21 @@
+id: "bk_9c7a405044bcd8f0"
+title: "Gelombang Sunyi"
+subtitle: "Sebuah Roman"
+authors:
+  - "Taufik Ikram Jamil"
+publisher: "Penerbit Buku Kompas"
+year: 2001
+isbn13: "9789799251640"
+pages: 164
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1031215W"
+  edition: "OL3982751M"
+  coverId: null

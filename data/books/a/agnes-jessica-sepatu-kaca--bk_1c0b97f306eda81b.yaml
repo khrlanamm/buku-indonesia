@@ -1,0 +1,21 @@
+id: "bk_1c0b97f306eda81b"
+title: "Sepatu Kaca"
+subtitle: null
+authors:
+  - "Agnes Jessica"
+publisher: "Gramedia Pustaka Utama"
+year: 2008
+isbn13: "9789792234909"
+pages: 240
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5795982W"
+  edition: "OL16800580M"
+  coverId: null

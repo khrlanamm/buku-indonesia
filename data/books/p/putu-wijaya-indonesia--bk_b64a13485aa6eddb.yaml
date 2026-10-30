@@ -1,0 +1,21 @@
+id: "bk_b64a13485aa6eddb"
+title: "Indonesia"
+subtitle: null
+authors:
+  - "Putu Wijaya"
+publisher: "Basabasi"
+year: 2017
+isbn13: "9786026651365"
+pages: 400
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL43459110W"
+  edition: "OL59227401M"
+  coverId: null

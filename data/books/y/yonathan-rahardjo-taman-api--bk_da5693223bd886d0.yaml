@@ -1,0 +1,21 @@
+id: "bk_da5693223bd886d0"
+title: "Taman Api"
+subtitle: null
+authors:
+  - "Yonathan Rahardjo"
+publisher: "Pustaka Alvabet"
+year: 2011
+isbn13: "9786029193015"
+pages: 201
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22604190W"
+  edition: "OL30631613M"
+  coverId: null

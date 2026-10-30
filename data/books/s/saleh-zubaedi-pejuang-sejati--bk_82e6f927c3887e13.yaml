@@ -1,0 +1,22 @@
+id: "bk_82e6f927c3887e13"
+title: "Pejuang Sejati"
+subtitle: null
+authors:
+  - "Saleh Zubaedi"
+publisher: "Pustaka Al-Diab"
+year: 2001
+isbn13: "9789799653604"
+pages: 217
+language: "id"
+categories:
+  - "Novel"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5985738W"
+  edition: "OL3606010M"
+  coverId: 6591500

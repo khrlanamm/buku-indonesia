@@ -1,0 +1,25 @@
+id: "bk_7d2c072a6d2809bb"
+title: "Rumah Kaca"
+subtitle: null
+authors:
+  - "Pramoedya Ananta Toer"
+publisher: "Hasta Mitra"
+year: 1988
+isbn13: null
+pages: 359
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Sejarah"
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "year"
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL307195W"
+  edition: "OL61790225M"
+  coverId: null

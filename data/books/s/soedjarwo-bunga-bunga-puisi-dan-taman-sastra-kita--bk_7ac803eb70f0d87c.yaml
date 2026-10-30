@@ -1,0 +1,22 @@
+id: "bk_7ac803eb70f0d87c"
+title: "Bunga-Bunga Puisi dan Taman Sastra Kita"
+subtitle: "Suatu Penjelajahan Aspirasi"
+authors:
+  - "Soedjarwo"
+publisher: "Duta Wacana University Press"
+year: 1993
+isbn13: "9789798139277"
+pages: 123
+language: "id"
+categories:
+  - "Puisi"
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3443654W"
+  edition: "OL1071000M"
+  coverId: null

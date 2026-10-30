@@ -1,0 +1,21 @@
+id: "bk_839cd25aca73da15"
+title: "Kesetiaan"
+subtitle: "Suatu Tantangan"
+authors:
+  - "St Darmawijaya"
+publisher: "Penerbit Kanisius"
+year: 1989
+isbn13: "9789794130186"
+pages: 131
+language: "id"
+categories:
+  - "Agama"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4604333W"
+  edition: "OL2015287M"
+  coverId: null

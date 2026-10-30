@@ -1,0 +1,21 @@
+id: "bk_edaa4a4826cf479c"
+title: "Melisa"
+subtitle: null
+authors:
+  - "S. Mara Gd"
+publisher: "Gramedia Pustaka Utama"
+year: 2007
+isbn13: "9789792229851"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3891305W"
+  edition: "OL23145554M"
+  coverId: null

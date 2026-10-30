@@ -1,0 +1,22 @@
+id: "bk_8c221607cb772665"
+title: "Summer Breeze"
+subtitle: "Cinta Nggak Pernah Salah--"
+authors:
+  - "Orizuka"
+publisher: "Puspa Swara"
+year: 2008
+isbn13: "9789792448627"
+pages: 216
+language: "id"
+categories:
+  - "Remaja"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL13760205W"
+  edition: "OL23150895M"
+  coverId: null

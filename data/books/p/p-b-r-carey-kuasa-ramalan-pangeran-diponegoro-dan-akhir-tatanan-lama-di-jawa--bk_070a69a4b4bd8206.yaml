@@ -1,0 +1,24 @@
+id: "bk_070a69a4b4bd8206"
+title: "Kuasa Ramalan: Pangeran Diponegoro dan Akhir Tatanan Lama di Jawa, 1785-1855"
+subtitle: null
+authors:
+  - "P. B. R. Carey"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2011
+isbn13: "9789799103956"
+pages: 1146
+language: "id"
+categories:
+  - "Sejarah"
+  - "Biografi"
+reviewed: true
+needsCheck:
+  - "authors"
+  - "publisher"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22654334W"
+  edition: "OL30673275M"
+  coverId: null

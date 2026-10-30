@@ -1,0 +1,21 @@
+id: "bk_454fee0587bccdc0"
+title: "Linguae"
+subtitle: "Sejumlah Cerita"
+authors:
+  - "Seno Gumira Ajidarma"
+publisher: "Gramedia Pustaka Utama"
+year: 2007
+isbn13: "9789792227710"
+pages: 130
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL946273W"
+  edition: "OL16303049M"
+  coverId: 5334290

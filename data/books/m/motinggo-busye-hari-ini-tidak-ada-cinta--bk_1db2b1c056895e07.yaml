@@ -1,0 +1,22 @@
+id: "bk_1db2b1c056895e07"
+title: "Hari Ini Tidak Ada Cinta"
+subtitle: null
+authors:
+  - "Motinggo Busye"
+publisher: "Balai Pustaka"
+year: 1999
+isbn13: "9789796662814"
+pages: 78
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL287423W"
+  edition: "OL154498M"
+  coverId: null

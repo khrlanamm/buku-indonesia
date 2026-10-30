@@ -1,0 +1,18 @@
+id: "bk_e750ddc4aeaa49b5"
+title: "Project Hail Mary"
+subtitle: "Proyek Hail Mary"
+authors:
+  - "Andy Weir"
+publisher: "Gramedia Pustaka Utama"
+year: 2026
+isbn13: "9786020687742"
+pages: 592
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "hand-checked"
+openLibrary: null

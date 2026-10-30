@@ -1,0 +1,21 @@
+id: "bk_4bed6b22cccb3433"
+title: "Berita Aneh"
+subtitle: "Kumpulan Puisi, 1973-1977"
+authors:
+  - "Muchwardi Muchtar"
+publisher: "Puisi Indonesia"
+year: 1980
+isbn13: null
+pages: 31
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL6435991W"
+  edition: "OL4252444M"
+  coverId: 6742151

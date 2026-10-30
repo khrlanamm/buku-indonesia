@@ -1,0 +1,21 @@
+id: "bk_87fc3a8bdce760d2"
+title: "Mengekalkan Jarak"
+subtitle: "Sebuah Kumpulan Puisi"
+authors:
+  - "Atma"
+publisher: "Mushaf Nol Putih"
+year: 1995
+isbn13: "9789798743009"
+pages: 112
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3223595W"
+  edition: "OL956961M"
+  coverId: null

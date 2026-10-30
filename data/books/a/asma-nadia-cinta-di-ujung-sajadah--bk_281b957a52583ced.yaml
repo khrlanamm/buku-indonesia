@@ -1,0 +1,22 @@
+id: "bk_281b957a52583ced"
+title: "Cinta di Ujung Sajadah"
+subtitle: null
+authors:
+  - "Asma Nadia"
+publisher: "Asma Nadia Publishing House"
+year: 2015
+isbn13: null
+pages: null
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL11729519W"
+  edition: "OL25942052M"
+  coverId: 7441495

@@ -1,0 +1,22 @@
+id: "bk_5c2e22ab03d71c37"
+title: "Petualangan Huckleberry Finn"
+subtitle: null
+authors:
+  - "Mark Twain"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2016
+isbn13: "9786024240691"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+  - "Anak"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL53908W"
+  edition: "OL26485870M"
+  coverId: 8230359

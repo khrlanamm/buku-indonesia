@@ -1,0 +1,23 @@
+id: "bk_8bf3d0db45a80c8b"
+title: "Negeri Senja"
+subtitle: null
+authors:
+  - "Seno Gumira Ajidarma"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2003
+isbn13: "9789799023964"
+pages: 243
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "year"
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL946277W"
+  edition: "OL3774426M"
+  coverId: null

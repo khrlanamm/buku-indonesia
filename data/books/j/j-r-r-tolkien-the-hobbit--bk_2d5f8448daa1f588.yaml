@@ -1,0 +1,19 @@
+id: "bk_2d5f8448daa1f588"
+title: "The Hobbit"
+subtitle: null
+authors:
+  - "J.R.R. Tolkien"
+publisher: "Gramedia Pustaka Utama"
+year: 2017
+isbn13: "9789792286335"
+pages: 352
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "hand-checked"
+openLibrary: null

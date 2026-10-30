@@ -1,0 +1,21 @@
+id: "bk_6b8858107247e88b"
+title: "Nineteen Eighty-Four"
+subtitle: null
+authors:
+  - "George Orwell"
+publisher: "Gramedia Pustaka Utama"
+year: 2022
+isbn13: "9786020661988"
+pages: 408
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1168083W"
+  edition: "OL58373101M"
+  coverId: 14857956

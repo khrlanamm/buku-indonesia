@@ -1,0 +1,21 @@
+id: "bk_3da26dd3578febda"
+title: "Aotar"
+subtitle: "Amuk Ombak Tanah Rencong: Novel Sejarah"
+authors:
+  - "Chavchay Syaifullah"
+publisher: "Indonesian Literary Garden"
+year: 2006
+isbn13: "9789791556705"
+pages: 161
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24090508W"
+  edition: "OL31787008M"
+  coverId: null

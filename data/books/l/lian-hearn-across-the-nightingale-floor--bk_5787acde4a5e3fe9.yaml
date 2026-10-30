@@ -1,0 +1,24 @@
+id: "bk_5787acde4a5e3fe9"
+title: "Across the Nightingale Floor"
+subtitle: null
+authors:
+  - "Lian Hearn"
+  - "Mercedes Nunez"
+publisher: "Riverhead Books"
+year: 2002
+isbn13: "9781573222259"
+pages: 287
+language: "id"
+categories:
+  - "Novel"
+  - "Remaja"
+reviewed: true
+needsCheck:
+  - "authors"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5786084W"
+  edition: "OL3559663M"
+  coverId: 824090

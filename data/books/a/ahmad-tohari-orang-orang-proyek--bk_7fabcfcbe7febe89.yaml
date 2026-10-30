@@ -1,0 +1,24 @@
+id: "bk_7fabcfcbe7febe89"
+title: "Orang-Orang Proyek"
+subtitle: null
+authors:
+  - "Ahmad Tohari"
+publisher: "Jendela"
+year: 2002
+isbn13: null
+pages: 288
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "publisher"
+  - "year"
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1780567W"
+  edition: "OL3611331M"
+  coverId: null

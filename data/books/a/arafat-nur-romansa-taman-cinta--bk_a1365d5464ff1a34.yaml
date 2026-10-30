@@ -1,0 +1,21 @@
+id: "bk_a1365d5464ff1a34"
+title: "Romansa Taman Cinta"
+subtitle: null
+authors:
+  - "Arafat Nur"
+publisher: null
+year: 2007
+isbn13: "9789792522211"
+pages: 127
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  - "publisher"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24090408W"
+  edition: "OL31786918M"
+  coverId: null

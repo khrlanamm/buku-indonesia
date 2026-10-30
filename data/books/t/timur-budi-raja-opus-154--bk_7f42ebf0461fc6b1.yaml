@@ -1,0 +1,21 @@
+id: "bk_7f42ebf0461fc6b1"
+title: "Opus 154"
+subtitle: "Sehimpun Puisi"
+authors:
+  - "Timur Budi Raja"
+publisher: "Akarhujan Press"
+year: 2012
+isbn13: "9786029415421"
+pages: 144
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22648674W"
+  edition: "OL30667406M"
+  coverId: null

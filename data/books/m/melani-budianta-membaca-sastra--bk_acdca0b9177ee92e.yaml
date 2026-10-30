@@ -1,0 +1,21 @@
+id: "bk_acdca0b9177ee92e"
+title: "Membaca Sastra"
+subtitle: "Pengantar Memahami Sastra untuk Perguruan Tinggi"
+authors:
+  - "Melani Budianta"
+publisher: "IndonesiaTera"
+year: 2002
+isbn13: "9789799375841"
+pages: 247
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23801322W"
+  edition: "OL3611516M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_b65d373ccac8e814"
+title: "Pride & Prejudice"
+subtitle: null
+authors:
+  - "Jane Austen"
+publisher: "Qanita"
+year: 2014
+isbn13: "9786027870840"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL66554W"
+  edition: "OL26402298M"
+  coverId: 8101033

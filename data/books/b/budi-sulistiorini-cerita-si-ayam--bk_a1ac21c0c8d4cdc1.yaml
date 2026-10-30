@@ -1,0 +1,22 @@
+id: "bk_a1ac21c0c8d4cdc1"
+title: "Cerita Si Ayam"
+subtitle: null
+authors:
+  - "Budi Sulistiorini"
+publisher: "Gema Insani"
+year: 2012
+isbn13: "9789790772885"
+pages: 24
+language: "id"
+categories:
+  - "Anak"
+  - "Agama"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL36962530W"
+  edition: "OL49909160M"
+  coverId: 14544407

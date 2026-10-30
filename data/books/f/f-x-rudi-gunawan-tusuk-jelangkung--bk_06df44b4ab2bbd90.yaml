@@ -1,0 +1,21 @@
+id: "bk_06df44b4ab2bbd90"
+title: "Tusuk Jelangkung"
+subtitle: "The Novel"
+authors:
+  - "F. X. Rudi Gunawan"
+publisher: "GagasMedia"
+year: 2004
+isbn13: "9789793600178"
+pages: 173
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1028796W"
+  edition: "OL3377082M"
+  coverId: null

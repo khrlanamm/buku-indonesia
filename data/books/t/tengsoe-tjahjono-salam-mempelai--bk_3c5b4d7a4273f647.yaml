@@ -1,0 +1,21 @@
+id: "bk_3c5b4d7a4273f647"
+title: "Salam Mempelai"
+subtitle: "Kumpulan Puisi"
+authors:
+  - "Tengsoe Tjahjono"
+publisher: "Pustaka Ilalang"
+year: 2010
+isbn13: "9789792582536"
+pages: 262
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16506365W"
+  edition: "OL25202840M"
+  coverId: null

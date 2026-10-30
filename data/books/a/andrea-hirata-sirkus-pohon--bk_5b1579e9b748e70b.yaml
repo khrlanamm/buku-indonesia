@@ -1,0 +1,21 @@
+id: "bk_5b1579e9b748e70b"
+title: "Sirkus Pohon"
+subtitle: null
+authors:
+  - "Andrea Hirata"
+publisher: "Bentang Belia"
+year: 2017
+isbn13: "9786022914099"
+pages: 338
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL29632125W"
+  edition: "OL40767655M"
+  coverId: 13008076

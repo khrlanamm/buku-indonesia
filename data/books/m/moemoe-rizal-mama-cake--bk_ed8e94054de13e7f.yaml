@@ -1,0 +1,21 @@
+id: "bk_ed8e94054de13e7f"
+title: "Mama Cake"
+subtitle: null
+authors:
+  - "Moemoe Rizal"
+publisher: "Pastel Books"
+year: 2012
+isbn13: "9786028994880"
+pages: 269
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23213901W"
+  edition: "OL31048707M"
+  coverId: null

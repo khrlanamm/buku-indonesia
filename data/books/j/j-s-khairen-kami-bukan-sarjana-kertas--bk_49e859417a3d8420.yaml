@@ -1,0 +1,21 @@
+id: "bk_49e859417a3d8420"
+title: "Kami (Bukan) Sarjana Kertas"
+subtitle: null
+authors:
+  - "J.S. Khairen"
+publisher: null
+year: null
+isbn13: null
+pages: 355
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "authors"
+  - "publisher"
+  - "year"
+  - "pages"
+sources:
+  - "hand-checked"
+openLibrary: null

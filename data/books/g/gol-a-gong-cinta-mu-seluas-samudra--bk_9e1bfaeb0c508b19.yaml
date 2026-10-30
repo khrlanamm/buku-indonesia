@@ -1,0 +1,22 @@
+id: "bk_9e1bfaeb0c508b19"
+title: "Cinta-Mu Seluas Samudra"
+subtitle: null
+authors:
+  - "Gol A Gong"
+publisher: "Mizania"
+year: 2008
+isbn13: "9789798394997"
+pages: 481
+language: "id"
+categories:
+  - "Remaja"
+reviewed: true
+needsCheck:
+  - "publisher"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3442640W"
+  edition: "OL22845124M"
+  coverId: null

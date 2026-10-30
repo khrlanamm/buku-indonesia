@@ -1,0 +1,21 @@
+id: "bk_553a97bdddc60306"
+title: "Eliana"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Penerbit Republika"
+year: 2010
+isbn13: "9786028987042"
+pages: 519
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15917833W"
+  edition: "OL24824232M"
+  coverId: 14541758

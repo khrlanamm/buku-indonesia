@@ -1,0 +1,22 @@
+id: "bk_27c9d8d1d3d249c6"
+title: "Hujan Kepagian"
+subtitle: "Kumpulan Cerita Pendek"
+authors:
+  - "Nugroho Notosusanto"
+publisher: "Balai Pustaka"
+year: 2011
+isbn13: "9789794070642"
+pages: 62
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL292897W"
+  edition: "OL26224515M"
+  coverId: 7899037

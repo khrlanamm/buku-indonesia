@@ -1,0 +1,22 @@
+id: "bk_d44da576aa2e6c11"
+title: "Puisi Indonesia Modern"
+subtitle: "Sebuah Pengantar"
+authors:
+  - "Mas Budi"
+publisher: "Pustaka Jaya"
+year: 2010
+isbn13: "9789794190517"
+pages: 114
+language: "id"
+categories:
+  - "Puisi"
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL322352W"
+  edition: "OL2173255M"
+  coverId: null

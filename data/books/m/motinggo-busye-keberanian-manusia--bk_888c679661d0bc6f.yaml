@@ -1,0 +1,22 @@
+id: "bk_888c679661d0bc6f"
+title: "Keberanian Manusia"
+subtitle: "Kumpulan Cerita Pendek"
+authors:
+  - "Motinggo Busye"
+publisher: "Balai Pustaka"
+year: 1988
+isbn13: "9789794071557"
+pages: 91
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL287444W"
+  edition: "OL1841085M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_af640af21e8aa5c8"
+title: "Catatan Mahasiswa Gila!"
+subtitle: "Kumpulan Blog Post Tahun 2002-2005 dari Www.suamigila.com"
+authors:
+  - "Adhitya Mulya"
+publisher: "Mahaka Publishing"
+year: 2011
+isbn13: "9786029888300"
+pages: 181
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15948333W"
+  edition: "OL24854388M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_8fd978af95009c5f"
+title: "Maut di Udara"
+subtitle: null
+authors:
+  - "Agatha Christie"
+publisher: "Gramedia Pustaka Utama"
+year: 2000
+isbn13: "9789794030714"
+pages: 351
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL472324W"
+  edition: "OL26645675M"
+  coverId: 10251686

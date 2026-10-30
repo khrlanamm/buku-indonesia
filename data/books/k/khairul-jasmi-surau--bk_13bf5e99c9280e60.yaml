@@ -1,0 +1,21 @@
+id: "bk_13bf5e99c9280e60"
+title: "Surau"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Khairul Jasmi"
+publisher: "Penerbit Republika"
+year: 2005
+isbn13: "9789793210490"
+pages: 162
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5867989W"
+  edition: "OL3450632M"
+  coverId: null

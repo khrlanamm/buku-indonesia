@@ -1,0 +1,22 @@
+id: "bk_d38ce0067a885f19"
+title: "Drainase Perkotaan"
+subtitle: null
+authors:
+  - "Universitas Gunadarma"
+publisher: "Gunadarma"
+year: 1997
+isbn13: "9789798382499"
+pages: null
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+  - "Sains"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL28602945W"
+  edition: "OL39216997M"
+  coverId: 12854320

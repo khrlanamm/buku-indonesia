@@ -1,0 +1,21 @@
+id: "bk_a993b794bb650a3f"
+title: "Hikayat Nahkoda Muda"
+subtitle: null
+authors:
+  - "Anas Nafis"
+publisher: "Pusat Pengkajian Islam dan Minangkabau"
+year: 2004
+isbn13: "9789799740786"
+pages: 68
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24001798W"
+  edition: "OL31700311M"
+  coverId: null

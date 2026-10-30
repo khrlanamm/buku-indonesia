@@ -1,0 +1,25 @@
+id: "bk_369b8c4e58d72e53"
+title: "Buku Pintar Kepabeanan"
+subtitle: null
+authors:
+  - "Abdul Sani"
+  - "R. Isis Ismail"
+  - "Fx. Suwito Marsam"
+publisher: "Gramedia Pustaka Utama"
+year: 2007
+isbn13: "9789792230437"
+pages: 293
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+  - "Bisnis"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+  - "hand-checked"
+openLibrary:
+  work: "OL11988341W"
+  edition: "OL16956720M"
+  coverId: 5359069

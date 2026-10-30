@@ -1,0 +1,21 @@
+id: "bk_e1a922cdf2e7b288"
+title: "Alamak!"
+subtitle: null
+authors:
+  - "Fira Basuki"
+publisher: "Gramedia Widiasarana Indonesia"
+year: 2005
+isbn13: "9789797329150"
+pages: 143
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5766395W"
+  edition: "OL3450464M"
+  coverId: 4266613

@@ -1,0 +1,21 @@
+id: "bk_7d5390c51ba25701"
+title: "Wajah Cinta"
+subtitle: "Kumpulan Puisi"
+authors:
+  - "Fridolin Ukur"
+publisher: "BPK Gunung Mulia"
+year: 2000
+isbn13: "9789799290892"
+pages: 160
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL19575092W"
+  edition: "OL128948M"
+  coverId: 3713387

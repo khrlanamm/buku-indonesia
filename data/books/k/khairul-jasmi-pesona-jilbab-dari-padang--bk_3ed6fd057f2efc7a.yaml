@@ -1,0 +1,21 @@
+id: "bk_3ed6fd057f2efc7a"
+title: "Pesona Jilbab dari Padang"
+subtitle: "Sebuah Laporan Empiris tentang Busana Muslimah"
+authors:
+  - "Khairul Jasmi"
+publisher: "Pemerintah Kota Padang"
+year: 2012
+isbn13: "9786029623017"
+pages: 204
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16727482W"
+  edition: "OL25394421M"
+  coverId: null

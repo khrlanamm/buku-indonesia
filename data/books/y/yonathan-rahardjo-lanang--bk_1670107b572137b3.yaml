@@ -1,0 +1,21 @@
+id: "bk_1670107b572137b3"
+title: "Lanang"
+subtitle: null
+authors:
+  - "Yonathan Rahardjo"
+publisher: "Pustaka Alvabet"
+year: 2008
+isbn13: "9789793064598"
+pages: 416
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL11720083W"
+  edition: "OL22845129M"
+  coverId: null

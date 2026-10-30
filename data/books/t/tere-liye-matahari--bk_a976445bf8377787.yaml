@@ -1,0 +1,21 @@
+id: "bk_a976445bf8377787"
+title: "Matahari"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Gramedia Pustaka Utama"
+year: 2016
+isbn13: "9786020332116"
+pages: 400
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24412371W"
+  edition: "OL32334423M"
+  coverId: 10956534

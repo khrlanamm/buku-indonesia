@@ -1,0 +1,21 @@
+id: "bk_2b90118d40e3661c"
+title: "Sang Aktris"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Sori Siregar"
+publisher: "Penerbit Buku Kompas"
+year: 2004
+isbn13: null
+pages: 148
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  - "isbn13"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3892209W"
+  edition: "OL3377003M"
+  coverId: null

@@ -1,0 +1,22 @@
+id: "bk_87c0aed83a3e8566"
+title: "Sunan Kalijaga"
+subtitle: null
+authors:
+  - "Umar Hasyim"
+publisher: "Menara Kudus"
+year: 1974
+isbn13: null
+pages: 72
+language: "id"
+categories:
+  - "Biografi"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3442883W"
+  edition: "OL1069858M"
+  coverId: 5615532

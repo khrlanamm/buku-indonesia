@@ -1,0 +1,21 @@
+id: "bk_11ae76b8e444757d"
+title: "Serat Centhini"
+subtitle: "Warisan Sastra Dunia"
+authors:
+  - "Munarsih"
+publisher: "Gelombang Pasang"
+year: 2005
+isbn13: "9789799838544"
+pages: 389
+language: "id"
+categories:
+  - "Sastra Klasik"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5875319W"
+  edition: "OL3459595M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_db8bc3b430f877a1"
+title: "Delapan Peri"
+subtitle: "Sebuah Kumpulan Cerpen"
+authors:
+  - "Sitta Karina"
+publisher: "Terrant Books"
+year: 2010
+isbn13: "9789793750392"
+pages: 172
+language: "id"
+categories:
+  - "Remaja"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22381432W"
+  edition: "OL30467321M"
+  coverId: null

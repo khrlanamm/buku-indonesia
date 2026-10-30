@@ -1,0 +1,21 @@
+id: "bk_55abec32e8032ea3"
+title: "Kebanggaan Abadi"
+subtitle: "Puisi-Puisi"
+authors:
+  - "Idrus Tintin"
+publisher: "Gurindam Press"
+year: 2006
+isbn13: "9789791186001"
+pages: 194
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24090026W"
+  edition: "OL31786656M"
+  coverId: null

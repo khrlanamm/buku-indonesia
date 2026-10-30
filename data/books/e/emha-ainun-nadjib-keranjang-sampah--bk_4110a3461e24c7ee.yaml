@@ -1,0 +1,21 @@
+id: "bk_4110a3461e24c7ee"
+title: "Keranjang Sampah"
+subtitle: null
+authors:
+  - "Emha Ainun Nadjib"
+publisher: "Zaituna"
+year: 1998
+isbn13: "9789799010063"
+pages: 180
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL946106W"
+  edition: "OL151025M"
+  coverId: null

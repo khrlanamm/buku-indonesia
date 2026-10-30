@@ -1,0 +1,22 @@
+id: "bk_e7dda183ed624c6f"
+title: "Pangeran Antasari"
+subtitle: null
+authors:
+  - "H. Hamlan Arpan"
+publisher: "Mutiara"
+year: 1988
+isbn13: null
+pages: 80
+language: "id"
+categories:
+  - "Biografi"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4761115W"
+  edition: "OL2172154M"
+  coverId: 6683790

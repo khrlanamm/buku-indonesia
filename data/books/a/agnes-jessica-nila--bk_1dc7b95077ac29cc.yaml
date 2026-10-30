@@ -1,0 +1,21 @@
+id: "bk_1dc7b95077ac29cc"
+title: "Nila"
+subtitle: null
+authors:
+  - "Agnes Jessica"
+publisher: "Pustaka Hermon"
+year: 2011
+isbn13: "9789793755144"
+pages: 512
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15917854W"
+  edition: "OL24824253M"
+  coverId: null

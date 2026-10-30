@@ -1,0 +1,21 @@
+id: "bk_a677e1a473fbcd25"
+title: "Travelers' Tales"
+subtitle: "Belok Kanan, Barcelona!"
+authors:
+  - "Adhitya Mulya"
+publisher: "GagasMedia"
+year: 2007
+isbn13: "9789797800949"
+pages: 228
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL18636831W"
+  edition: "OL16269396M"
+  coverId: 5331176

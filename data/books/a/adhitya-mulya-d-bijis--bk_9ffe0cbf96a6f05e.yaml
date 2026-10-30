@@ -1,0 +1,22 @@
+id: "bk_9ffe0cbf96a6f05e"
+title: "D'Bijis"
+subtitle: "Sebuah-- Lagi"
+authors:
+  - "Adhitya Mulya"
+publisher: "GagasMedia"
+year: 2007
+isbn13: "9789797800970"
+pages: 116
+language: "id"
+categories:
+  - "Novel"
+  - "Remaja"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL11726950W"
+  edition: "OL16296075M"
+  coverId: 5333907

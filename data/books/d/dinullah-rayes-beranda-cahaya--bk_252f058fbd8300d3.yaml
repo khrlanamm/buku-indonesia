@@ -1,0 +1,21 @@
+id: "bk_252f058fbd8300d3"
+title: "Beranda Cahaya"
+subtitle: "Pilihan Sajak 1976-2000"
+authors:
+  - "Dinullah Rayes"
+publisher: "Yayasan Mitra Sastra Mataram"
+year: 2001
+isbn13: "9789799644305"
+pages: 212
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3223597W"
+  edition: "OL3604513M"
+  coverId: null

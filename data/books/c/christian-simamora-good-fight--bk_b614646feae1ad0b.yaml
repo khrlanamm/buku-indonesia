@@ -1,0 +1,21 @@
+id: "bk_b614646feae1ad0b"
+title: "Good Fight"
+subtitle: null
+authors:
+  - "Christian Simamora"
+publisher: "GagasMedia"
+year: 2012
+isbn13: "9789797805456"
+pages: 512
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16600153W"
+  edition: "OL25283527M"
+  coverId: null

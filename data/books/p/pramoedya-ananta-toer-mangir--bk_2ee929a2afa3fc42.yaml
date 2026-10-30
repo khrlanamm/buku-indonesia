@@ -1,0 +1,22 @@
+id: "bk_2ee929a2afa3fc42"
+title: "Mangir"
+subtitle: null
+authors:
+  - "Pramoedya Ananta Toer"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2000
+isbn13: "9789799023407"
+pages: 114
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL307217W"
+  edition: "OL6856250M"
+  coverId: null

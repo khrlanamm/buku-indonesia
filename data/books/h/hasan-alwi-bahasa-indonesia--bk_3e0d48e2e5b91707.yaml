@@ -1,0 +1,21 @@
+id: "bk_3e0d48e2e5b91707"
+title: "Bahasa Indonesia"
+subtitle: "Pemakai dan Pemakaiannya"
+authors:
+  - "Hasan Alwi"
+publisher: "Pusat Bahasa, Departemen Pendidikan Nasional"
+year: 2000
+isbn13: "9789796851256"
+pages: 169
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3891609W"
+  edition: "OL3604528M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_f01aa83d161868f7"
+title: "Jakarta Senja Hari"
+subtitle: "Antologi Puisi"
+authors:
+  - "Medy Loekito"
+publisher: "Angkasa"
+year: 1998
+isbn13: "9789796651917"
+pages: 88
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1029359W"
+  edition: "OL151115M"
+  coverId: null

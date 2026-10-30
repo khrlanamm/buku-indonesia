@@ -1,0 +1,21 @@
+id: "bk_0a0e66fd50a6b85b"
+title: "Bulan Celurit Api"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Benny Arnas"
+publisher: "Penerbit Koekoesan"
+year: 2010
+isbn13: "9789791442367"
+pages: 129
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15898829W"
+  edition: "OL24805892M"
+  coverId: null

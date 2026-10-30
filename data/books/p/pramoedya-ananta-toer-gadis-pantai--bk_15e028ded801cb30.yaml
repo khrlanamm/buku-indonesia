@@ -1,0 +1,22 @@
+id: "bk_15e028ded801cb30"
+title: "Gadis Pantai"
+subtitle: null
+authors:
+  - "Pramoedya Ananta Toer"
+publisher: "Lentera Dipantara"
+year: 2003
+isbn13: null
+pages: 271
+language: "id"
+categories:
+  - "Novel"
+  - "Sastra Klasik"
+reviewed: true
+needsCheck:
+  - "isbn13"
+sources:
+  - "hand-checked"
+openLibrary:
+  work: "OL307197W"
+  edition: "OL31697436M"
+  coverId: null

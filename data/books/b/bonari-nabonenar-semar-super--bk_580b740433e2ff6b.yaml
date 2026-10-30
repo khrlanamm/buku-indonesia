@@ -1,0 +1,21 @@
+id: "bk_580b740433e2ff6b"
+title: "Semar Super"
+subtitle: null
+authors:
+  - "Bonari Nabonenar"
+publisher: "Alfina Primatama"
+year: 2006
+isbn13: "9789792567410"
+pages: 75
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24090332W"
+  edition: "OL31786853M"
+  coverId: null

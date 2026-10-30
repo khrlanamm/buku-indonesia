@@ -1,0 +1,21 @@
+id: "bk_42c7fd02c35e0c8c"
+title: "Yang Liu"
+subtitle: null
+authors:
+  - "Lan Fang"
+publisher: "Bentang Pustaka"
+year: 2006
+isbn13: "9789793062983"
+pages: 180
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5867962W"
+  edition: "OL16259809M"
+  coverId: 5330161

@@ -1,0 +1,22 @@
+id: "bk_6cdf859e640ef2ad"
+title: "Harta Bumi Indonesian"
+subtitle: "Biografi J.A. Katili"
+authors:
+  - "Anna Fauziah Diponegoro"
+publisher: "Gramedia Widiasarana Indonesia"
+year: 2007
+isbn13: "9789797598150"
+pages: 421
+language: "id"
+categories:
+  - "Biografi"
+  - "Sains"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL11966738W"
+  edition: "OL16898761M"
+  coverId: 5356631

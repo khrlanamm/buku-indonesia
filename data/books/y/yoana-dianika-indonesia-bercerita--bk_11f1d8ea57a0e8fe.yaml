@@ -1,0 +1,23 @@
+id: "bk_11f1d8ea57a0e8fe"
+title: "Indonesia Bercerita"
+subtitle: "Kisah-Kisah Rakyat yang Terlupakan"
+authors:
+  - "Yoana Dianika"
+  - "Redy Kuswanto"
+  - "Ruwi Meita"
+publisher: "Pustaka Alvabet"
+year: 2017
+isbn13: "9786026577078"
+pages: 520
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL43925611W"
+  edition: "OL59893006M"
+  coverId: null

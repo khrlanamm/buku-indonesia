@@ -1,0 +1,22 @@
+id: "bk_96918e2d7ac863f0"
+title: "Tuan Direktur"
+subtitle: null
+authors:
+  - "Hamka"
+publisher: "Gema Insani"
+year: 2021
+isbn13: "9786022503880"
+pages: 148
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL35482055W"
+  edition: "OL49943828M"
+  coverId: 14544828

@@ -1,0 +1,21 @@
+id: "bk_4d4a90ae850dd97c"
+title: "Sam Po Kong"
+subtitle: "Perjalanan Pertama"
+authors:
+  - "Remy Sylado"
+publisher: "Gramedia Pustaka Utama"
+year: 2004
+isbn13: "9789792206852"
+pages: 1111
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1030111W"
+  edition: "OL3339337M"
+  coverId: null

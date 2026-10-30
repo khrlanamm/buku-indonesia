@@ -1,0 +1,21 @@
+id: "bk_e2e1ae32c05ca413"
+title: "Nyi Rambut Kasih"
+subtitle: null
+authors:
+  - "Sumartha"
+publisher: "Balai Pustaka"
+year: 1988
+isbn13: "9789794071564"
+pages: 59
+language: "id"
+categories:
+  - "Anak"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4762689W"
+  edition: "OL2175629M"
+  coverId: null

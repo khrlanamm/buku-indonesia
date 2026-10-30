@@ -1,0 +1,22 @@
+id: "bk_fb734fa45d71115a"
+title: "Di Kaki Bukit Cibalak"
+subtitle: null
+authors:
+  - "Ahmad Tohari"
+publisher: "Pustaka Jaya"
+year: 1986
+isbn13: null
+pages: 191
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1780570W"
+  edition: "OL2366062M"
+  coverId: null

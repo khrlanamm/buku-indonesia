@@ -1,0 +1,21 @@
+id: "bk_1d7734a447bfeef7"
+title: "Puisi Mbeling"
+subtitle: "Kitsch dan Sastra Sepintas"
+authors:
+  - "Soedjarwo"
+publisher: "IndonesiaTera"
+year: 2001
+isbn13: "9789799375094"
+pages: 156
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3443660W"
+  edition: "OL3982034M"
+  coverId: 4349375

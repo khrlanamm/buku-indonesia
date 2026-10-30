@@ -1,0 +1,21 @@
+id: "bk_91ad3a4b5d4dffb0"
+title: "Kunci Republik"
+subtitle: "Antologi Cerpen"
+authors:
+  - "Hendri Teja"
+publisher: "LeutikaPrio"
+year: 2001
+isbn13: "9786022250661"
+pages: 111
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16725089W"
+  edition: "OL25392370M"
+  coverId: null

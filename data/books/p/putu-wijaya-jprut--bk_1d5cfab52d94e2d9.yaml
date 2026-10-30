@@ -1,0 +1,21 @@
+id: "bk_1d5cfab52d94e2d9"
+title: "Jprut"
+subtitle: null
+authors:
+  - "Putu Wijaya"
+publisher: "Basabasi"
+year: 2017
+isbn13: "9786026651242"
+pages: 184
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL44936905W"
+  edition: "OL61320418M"
+  coverId: null

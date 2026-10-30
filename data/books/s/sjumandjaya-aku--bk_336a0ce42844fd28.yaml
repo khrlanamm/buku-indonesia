@@ -1,0 +1,22 @@
+id: "bk_336a0ce42844fd28"
+title: "Aku"
+subtitle: "Berdasarkan Perjalanan Hidup dan Karya Penyair Chairil Anwar"
+authors:
+  - "Sjumandjaya"
+publisher: "Grafitipers"
+year: 1987
+isbn13: "9789794440407"
+pages: 120
+language: "id"
+categories:
+  - "Biografi"
+  - "Sastra Klasik"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3891545W"
+  edition: "OL2171717M"
+  coverId: 6597781

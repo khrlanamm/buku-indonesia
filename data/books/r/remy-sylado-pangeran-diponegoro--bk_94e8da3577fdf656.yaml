@@ -1,0 +1,22 @@
+id: "bk_94e8da3577fdf656"
+title: "Pangeran Diponegoro"
+subtitle: "Menggagas Ratu Adil"
+authors:
+  - "Remy Sylado"
+publisher: "Tiga Serangkai"
+year: 2007
+isbn13: "9789790180642"
+pages: 339
+language: "id"
+categories:
+  - "Novel"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1030113W"
+  edition: "OL16423908M"
+  coverId: null

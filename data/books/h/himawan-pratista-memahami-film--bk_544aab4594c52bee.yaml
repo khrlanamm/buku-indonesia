@@ -1,0 +1,21 @@
+id: "bk_544aab4594c52bee"
+title: "Memahami Film"
+subtitle: null
+authors:
+  - "Himawan Pratista"
+publisher: "Montase Press"
+year: 2017
+isbn13: null
+pages: 336
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15922290W"
+  edition: "OL51516025M"
+  coverId: 14605126

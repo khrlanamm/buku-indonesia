@@ -1,0 +1,21 @@
+id: "bk_1281d2cd300cbb14"
+title: "Kemayoran"
+subtitle: "Cerita Kenangan"
+authors:
+  - "Nh. Dini"
+publisher: "Gramedia Pustaka Utama"
+year: 2000
+isbn13: "9789796554386"
+pages: 310
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL945836W"
+  edition: "OL126446M"
+  coverId: null

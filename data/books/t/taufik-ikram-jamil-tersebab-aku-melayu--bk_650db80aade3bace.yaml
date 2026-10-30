@@ -1,0 +1,21 @@
+id: "bk_650db80aade3bace"
+title: "Tersebab Aku Melayu"
+subtitle: "Buku Sajak Penggal Kedua"
+authors:
+  - "Taufik Ikram Jamil"
+publisher: "Yayasan Pusaka Riau"
+year: 2010
+isbn13: "9789793757766"
+pages: 113
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22379743W"
+  edition: "OL30465537M"
+  coverId: null

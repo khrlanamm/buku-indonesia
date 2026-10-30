@@ -1,0 +1,18 @@
+id: "bk_983feac365b07dfa"
+title: "Welcome to the Hyunam-dong Bookshop"
+subtitle: "Selamat Datang di Toko Buku Hyunam-dong"
+authors:
+  - "Hwang Bo-reum"
+publisher: "Gramedia Widiasarana Indonesia"
+year: 2024
+isbn13: "9786020530444"
+pages: 408
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "hand-checked"
+openLibrary: null

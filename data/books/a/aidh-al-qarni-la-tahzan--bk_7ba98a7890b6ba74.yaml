@@ -1,0 +1,23 @@
+id: "bk_7ba98a7890b6ba74"
+title: "La Tahzan"
+subtitle: "Jangan Bersedih!"
+authors:
+  - "Aidh al-Qarni"
+publisher: "Qisthi Press"
+year: 2006
+isbn13: "9789793715056"
+pages: 571
+language: "id"
+categories:
+  - "Agama"
+  - "Pengembangan Diri"
+reviewed: true
+needsCheck:
+  - "year"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL19884832W"
+  edition: "OL27071915M"
+  coverId: null

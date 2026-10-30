@@ -1,0 +1,22 @@
+id: "bk_500b447dbef0adea"
+title: "Api Sejarah"
+subtitle: null
+authors:
+  - "Ahmad Mansur Suryanegara"
+publisher: "Salamadani"
+year: 2009
+isbn13: "9786028458245"
+pages: 584
+language: "id"
+categories:
+  - "Sejarah"
+  - "Agama"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15974196W"
+  edition: "OL23955216M"
+  coverId: 6287807

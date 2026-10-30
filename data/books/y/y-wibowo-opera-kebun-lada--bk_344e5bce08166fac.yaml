@@ -1,0 +1,21 @@
+id: "bk_344e5bce08166fac"
+title: "Opera Kebun Lada"
+subtitle: null
+authors:
+  - "Y. Wibowo"
+publisher: "Mata Kata"
+year: 2005
+isbn13: "9789792529302"
+pages: 91
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23998452W"
+  edition: "OL31697559M"
+  coverId: null

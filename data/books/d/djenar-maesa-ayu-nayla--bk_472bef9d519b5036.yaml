@@ -1,0 +1,21 @@
+id: "bk_472bef9d519b5036"
+title: "Nayla"
+subtitle: null
+authors:
+  - "Djenar Maesa Ayu"
+publisher: "Gramedia Pustaka Utama"
+year: 2005
+isbn13: "9789792214130"
+pages: 180
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5779594W"
+  edition: "OL3459596M"
+  coverId: 4267890

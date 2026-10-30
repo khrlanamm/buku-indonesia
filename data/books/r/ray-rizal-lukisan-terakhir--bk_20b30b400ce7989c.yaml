@@ -1,0 +1,21 @@
+id: "bk_20b30b400ce7989c"
+title: "Lukisan Terakhir"
+subtitle: "Kumpulan Cerita Pendek"
+authors:
+  - "Ray Rizal"
+publisher: "Grafikatama Jaya"
+year: 1992
+isbn13: "9789794940303"
+pages: 120
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1780653W"
+  edition: "OL1387109M"
+  coverId: null

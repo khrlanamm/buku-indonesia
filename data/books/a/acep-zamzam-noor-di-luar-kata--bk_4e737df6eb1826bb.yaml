@@ -1,0 +1,21 @@
+id: "bk_4e737df6eb1826bb"
+title: "Di Luar Kata"
+subtitle: "Kumpulan Puisi"
+authors:
+  - "Acep Zamzam Noor"
+publisher: "Pustaka Firdaus"
+year: 1996
+isbn13: "9789795410720"
+pages: 64
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL2609988W"
+  edition: "OL648937M"
+  coverId: null

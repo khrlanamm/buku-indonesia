@@ -1,0 +1,22 @@
+id: "bk_b7a61352bd8c1b11"
+title: "Api Perjuangan Rakyat"
+subtitle: "Kumpulan Tulisan Terpilih Bung Karno"
+authors:
+  - "Soekarno"
+publisher: "Lembaga Kajian Ekonomi Politik"
+year: 2002
+isbn13: "9789799672001"
+pages: 272
+language: "id"
+categories:
+  - "Sejarah"
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL343444W"
+  edition: "OL3605109M"
+  coverId: null

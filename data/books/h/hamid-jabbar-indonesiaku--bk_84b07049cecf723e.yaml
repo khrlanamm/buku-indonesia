@@ -1,0 +1,21 @@
+id: "bk_84b07049cecf723e"
+title: "Indonesiaku"
+subtitle: "Sepilihan Sajak"
+authors:
+  - "Hamid Jabbar"
+publisher: "Yayasan Indonesia"
+year: 2004
+isbn13: "9789799822024"
+pages: 232
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23914422W"
+  edition: "OL31620948M"
+  coverId: null

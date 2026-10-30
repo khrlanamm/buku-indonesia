@@ -1,0 +1,21 @@
+id: "bk_d246606112233603"
+title: "Emma"
+subtitle: "Emma, Indonesian Edition"
+authors:
+  - "Jane Austen"
+publisher: "Sunflower Press"
+year: 2019
+isbn13: "9789792655681"
+pages: 624
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL66513W"
+  edition: "OL29830870M"
+  coverId: null

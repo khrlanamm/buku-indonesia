@@ -1,0 +1,21 @@
+id: "bk_ece8545fbaee6de1"
+title: "Trilogi Opera Kecoa"
+subtitle: null
+authors:
+  - "N. Riantiarno"
+publisher: "Matahari"
+year: 2004
+isbn13: "9789793618012"
+pages: 446
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL952068W"
+  edition: "OL3449089M"
+  coverId: null

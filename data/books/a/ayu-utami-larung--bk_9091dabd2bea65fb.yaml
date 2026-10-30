@@ -1,0 +1,21 @@
+id: "bk_9091dabd2bea65fb"
+title: "Larung"
+subtitle: null
+authors:
+  - "Ayu Utami"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2001
+isbn13: "9789799023636"
+pages: 259
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL2325371W"
+  edition: "OL9192711M"
+  coverId: 11665198

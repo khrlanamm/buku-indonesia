@@ -1,0 +1,21 @@
+id: "bk_e350805e05e647b5"
+title: "Kitab Al-Hikam"
+subtitle: "Untaian Hikmah Ibnu ‘Athaillah"
+authors:
+  - "Imam Sibawaih Al-Hasany"
+publisher: "Zaman"
+year: 2015
+isbn13: "9786021687147"
+pages: 283
+language: "id"
+categories:
+  - "Agama"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24230907W"
+  edition: "OL32035630M"
+  coverId: 10702054

@@ -1,0 +1,22 @@
+id: "bk_9d6bc565c4e45522"
+title: "Padang Bulan"
+subtitle: null
+authors:
+  - "Andrea Hirata"
+publisher: "Bentang Pustaka"
+year: 2010
+isbn13: null
+pages: 270
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+  - "isbn13"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16990336W"
+  edition: "OL30465481M"
+  coverId: null

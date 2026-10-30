@@ -1,0 +1,22 @@
+id: "bk_658b10fa31dd1aef"
+title: "Lupus"
+subtitle: "Cinta Olimpiade"
+authors:
+  - "Hilman"
+publisher: "Gramedia"
+year: 1987
+isbn13: "9789794030875"
+pages: 123
+language: "id"
+categories:
+  - "Remaja"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16042516W"
+  edition: "OL24943558M"
+  coverId: 6963064

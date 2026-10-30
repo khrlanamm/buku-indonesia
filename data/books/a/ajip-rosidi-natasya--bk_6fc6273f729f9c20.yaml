@@ -1,0 +1,21 @@
+id: "bk_6fc6273f729f9c20"
+title: "Natasya"
+subtitle: null
+authors:
+  - "Ajip Rosidi"
+publisher: "Pustaka Jaya"
+year: 1988
+isbn13: "9789794190623"
+pages: 96
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL322344W"
+  edition: "OL1838366M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_11f2b8152dba0197"
+title: "Cerita di Balik Noda"
+subtitle: "42 Kisah Inspirasi Jiwa"
+authors:
+  - "Fira Basuki"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2013
+isbn13: "9789799105257"
+pages: 234
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "publisher"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22649026W"
+  edition: "OL30667754M"
+  coverId: null

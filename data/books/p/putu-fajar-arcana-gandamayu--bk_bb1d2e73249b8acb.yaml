@@ -1,0 +1,21 @@
+id: "bk_bb1d2e73249b8acb"
+title: "Gandamayu"
+subtitle: null
+authors:
+  - "Putu Fajar Arcana"
+publisher: "Penerbit Buku Kompas"
+year: 2012
+isbn13: "9789797096229"
+pages: 189
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16518346W"
+  edition: "OL25211580M"
+  coverId: null

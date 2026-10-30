@@ -1,0 +1,21 @@
+id: "bk_4fc8393d51bc6df2"
+title: "Puisi Mbeling"
+subtitle: null
+authors:
+  - "Remy Sylado"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2004
+isbn13: "9789799100122"
+pages: 254
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1030110W"
+  edition: "OL3448881M"
+  coverId: null

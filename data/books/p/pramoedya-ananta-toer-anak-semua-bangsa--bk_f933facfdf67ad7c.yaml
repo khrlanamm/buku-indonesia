@@ -1,0 +1,24 @@
+id: "bk_f933facfdf67ad7c"
+title: "Anak Semua Bangsa"
+subtitle: "Sebuah Roman"
+authors:
+  - "Pramoedya Ananta Toer"
+publisher: "Hasta Mitra"
+year: 1980
+isbn13: null
+pages: 353
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL307178W"
+  edition: "OL3934006M"
+  coverId: 6635926

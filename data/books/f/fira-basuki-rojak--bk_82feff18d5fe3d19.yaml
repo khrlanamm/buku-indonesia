@@ -1,0 +1,21 @@
+id: "bk_82feff18d5fe3d19"
+title: "Rojak"
+subtitle: null
+authors:
+  - "Fira Basuki"
+publisher: "Gramedia Widiasarana Indonesia"
+year: 2004
+isbn13: "9789797323431"
+pages: 174
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5766404W"
+  edition: "OL3339530M"
+  coverId: null

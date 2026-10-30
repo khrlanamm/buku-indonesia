@@ -1,0 +1,21 @@
+id: "bk_ec77b20f8eeb1ec9"
+title: "Buku Abjad ABC Binatang"
+subtitle: null
+authors:
+  - "Murti Bunanta"
+publisher: "Kelompok Pencinta Bacaan Anak"
+year: 2001
+isbn13: "9789799391070"
+pages: null
+language: "id"
+categories:
+  - "Anak"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1780378W"
+  edition: "OL3542211M"
+  coverId: 6389700

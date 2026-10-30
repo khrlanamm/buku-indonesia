@@ -1,0 +1,21 @@
+id: "bk_d6814761bb8db1c6"
+title: "Pengantar Novel Indonesia"
+subtitle: null
+authors:
+  - "Yakob Sumarjo"
+publisher: "Citra Aditya Bakti"
+year: 1991
+isbn13: "9789794145760"
+pages: 328
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1032183W"
+  edition: "OL1692277M"
+  coverId: null

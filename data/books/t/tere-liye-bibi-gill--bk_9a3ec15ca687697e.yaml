@@ -1,0 +1,21 @@
+id: "bk_9a3ec15ca687697e"
+title: "Bibi Gill"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Sabak Grip Nusantara"
+year: 2022
+isbn13: "9786239726249"
+pages: 368
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL36895086W"
+  edition: "OL49831760M"
+  coverId: 14541794

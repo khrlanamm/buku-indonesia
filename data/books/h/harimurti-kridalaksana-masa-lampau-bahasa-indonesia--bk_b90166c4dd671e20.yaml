@@ -1,0 +1,21 @@
+id: "bk_b90166c4dd671e20"
+title: "Masa Lampau Bahasa Indonesia"
+subtitle: "Sebuah Bunga Rampai"
+authors:
+  - "Harimurti Kridalaksana"
+publisher: "Penerbit Kanisius"
+year: 1991
+isbn13: "9789794134764"
+pages: 411
+language: "id"
+categories:
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL18850473W"
+  edition: "OL1691889M"
+  coverId: null

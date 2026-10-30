@@ -1,0 +1,21 @@
+id: "bk_85a7c2ef4d22ac54"
+title: "Mencintaimu"
+subtitle: "Puisi"
+authors:
+  - "Evi Idawati"
+publisher: "Isac Book"
+year: 2010
+isbn13: "9789791808156"
+pages: 86
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15475348W"
+  edition: "OL24440139M"
+  coverId: null

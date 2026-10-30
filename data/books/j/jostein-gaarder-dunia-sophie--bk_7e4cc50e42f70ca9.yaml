@@ -1,0 +1,19 @@
+id: "bk_7e4cc50e42f70ca9"
+title: "Dunia Sophie"
+subtitle: "Sebuah Novel Filsafat"
+authors:
+  - "Jostein Gaarder"
+publisher: "Mizan"
+year: 2025
+isbn13: "9786024413668"
+pages: 800
+language: "id"
+categories:
+  - "Novel"
+  - "Remaja"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "hand-checked"
+openLibrary: null

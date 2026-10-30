@@ -1,0 +1,22 @@
+id: "bk_1e2facee54f8bf6b"
+title: "Zig Zag"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Putu Wijaya"
+publisher: "Pustaka Firdaus"
+year: 1996
+isbn13: "9789795410874"
+pages: 456
+language: "id"
+categories:
+  - "Novel"
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1032277W"
+  edition: "OL334440M"
+  coverId: null

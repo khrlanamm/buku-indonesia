@@ -1,0 +1,22 @@
+id: "bk_ddf281e48596d34e"
+title: "Manajemen Kesehatan"
+subtitle: null
+authors:
+  - "Sulastomo"
+publisher: "Gramedia Pustaka Utama"
+year: 2000
+isbn13: "9789796559558"
+pages: 324
+language: "id"
+categories:
+  - "Bisnis"
+  - "Sains"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4427396W"
+  edition: "OL3773666M"
+  coverId: 4321904

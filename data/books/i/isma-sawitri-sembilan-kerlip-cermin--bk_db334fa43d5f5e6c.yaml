@@ -1,0 +1,21 @@
+id: "bk_db334fa43d5f5e6c"
+title: "Sembilan Kerlip Cermin"
+subtitle: "Antologi Puisi 9 Penyair"
+authors:
+  - "Isma Sawitri"
+publisher: "Pustaka Jaya"
+year: 2000
+isbn13: "9789794192580"
+pages: 198
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL18274154W"
+  edition: "OL129221M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_bdf89d48ee80fdf9"
+title: "Rampok"
+subtitle: "Kumpulan Cerita Pendek"
+authors:
+  - "Sunaryono Basuki"
+publisher: "Balai Pustaka"
+year: 2002
+isbn13: "9789796900893"
+pages: 302
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3222670W"
+  edition: "OL3742175M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_7445a12b73c2924b"
+title: "Terusir"
+subtitle: null
+authors:
+  - "Hamka"
+publisher: "Gema Insani"
+year: 2020
+isbn13: "9786022502920"
+pages: 140
+language: "id"
+categories:
+  - "Sastra Klasik"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL33229712W"
+  edition: "OL49906995M"
+  coverId: 14544401

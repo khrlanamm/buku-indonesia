@@ -1,0 +1,21 @@
+id: "bk_7ec0e00ae691ecfa"
+title: "Kabin Pateh"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Weni Suryandari"
+publisher: "QAF Books"
+year: 2013
+isbn13: "9786021823149"
+pages: 156
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22646971W"
+  edition: "OL30665831M"
+  coverId: null

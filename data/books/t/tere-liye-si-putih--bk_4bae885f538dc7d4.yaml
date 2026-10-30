@@ -1,0 +1,21 @@
+id: "bk_4bae885f538dc7d4"
+title: "Si Putih"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Gramedia Pustaka Utama"
+year: 2021
+isbn13: "9786020652252"
+pages: 376
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL36895081W"
+  edition: "OL49831755M"
+  coverId: 14541788

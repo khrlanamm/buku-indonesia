@@ -1,0 +1,24 @@
+id: "bk_03dfd1eb1c8cd019"
+title: "Perahu Kertas"
+subtitle: null
+authors:
+  - "Dee Lestari"
+publisher: "Bentang Pustaka"
+year: 2009
+isbn13: "9789791227780"
+pages: 444
+language: "id"
+categories:
+  - "Novel"
+  - "Remaja"
+reviewed: true
+needsCheck:
+  - "year"
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15315222W"
+  edition: "OL23911502M"
+  coverId: null

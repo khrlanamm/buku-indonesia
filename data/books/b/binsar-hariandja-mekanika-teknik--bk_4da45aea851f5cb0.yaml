@@ -1,0 +1,21 @@
+id: "bk_4da45aea851f5cb0"
+title: "Mekanika Teknik"
+subtitle: "Statika dalam Analisis Struktur Berbentuk Rangka"
+authors:
+  - "Binsar Hariandja"
+publisher: "Erlangga"
+year: 1996
+isbn13: "9789794112113"
+pages: 238
+language: "id"
+categories:
+  - "Sains"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL28598660W"
+  edition: "OL39212468M"
+  coverId: 12847280

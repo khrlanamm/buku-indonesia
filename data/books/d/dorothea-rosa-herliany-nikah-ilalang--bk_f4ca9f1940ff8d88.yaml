@@ -1,0 +1,21 @@
+id: "bk_f4ca9f1940ff8d88"
+title: "Nikah Ilalang"
+subtitle: "Kumpulan Sajak"
+authors:
+  - "Dorothea Rosa Herliany"
+publisher: "Yayasan Pustaka Nusatama"
+year: 1995
+isbn13: "9789798628511"
+pages: 133
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: true
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL2609739W"
+  edition: "OL648610M"
+  coverId: null

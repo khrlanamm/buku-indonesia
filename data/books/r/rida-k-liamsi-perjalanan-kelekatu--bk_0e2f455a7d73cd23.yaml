@@ -1,0 +1,21 @@
+id: "bk_0e2f455a7d73cd23"
+title: "Perjalanan Kelekatu"
+subtitle: "Sebuah Kumpulan Sajak"
+authors:
+  - "Rida K. Liamsi"
+publisher: "Yayasan Sagang"
+year: 2008
+isbn13: "9789792481051"
+pages: 96
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3442772W"
+  edition: "OL23181525M"
+  coverId: null

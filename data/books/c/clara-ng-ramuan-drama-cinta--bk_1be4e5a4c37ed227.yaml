@@ -1,0 +1,21 @@
+id: "bk_1be4e5a4c37ed227"
+title: "Ramuan Drama Cinta"
+subtitle: null
+authors:
+  - "Clara Ng"
+publisher: "Gramedia Pustaka Utama"
+year: 2011
+isbn13: "9789792271980"
+pages: 266
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16192282W"
+  edition: "OL25068260M"
+  coverId: 13224881

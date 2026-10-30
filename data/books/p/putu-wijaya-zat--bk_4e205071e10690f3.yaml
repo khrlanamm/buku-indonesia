@@ -1,0 +1,21 @@
+id: "bk_4e205071e10690f3"
+title: "Zat"
+subtitle: null
+authors:
+  - "Putu Wijaya"
+publisher: "Pustaka Firdaus"
+year: 1996
+isbn13: "9789795410669"
+pages: 224
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1032276W"
+  edition: "OL960581M"
+  coverId: null

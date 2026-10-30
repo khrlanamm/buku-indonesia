@@ -1,0 +1,24 @@
+id: "bk_af3b2e032c1dc43d"
+title: "Bumi Cinta"
+subtitle: null
+authors:
+  - "Habiburrahman El Shirazy"
+publisher: "Basmala"
+year: 2010
+isbn13: "9789793604350"
+pages: 546
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "publisher"
+  - "year"
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23367330W"
+  edition: "OL31220631M"
+  coverId: null

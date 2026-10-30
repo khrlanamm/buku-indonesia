@@ -1,0 +1,21 @@
+id: "bk_40f3d9932b193361"
+title: "Lampuki"
+subtitle: null
+authors:
+  - "Arafat Nur"
+publisher: "Serambi Ilmu Semesta"
+year: 2011
+isbn13: "9789790243545"
+pages: 433
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16003398W"
+  edition: "OL24907581M"
+  coverId: null

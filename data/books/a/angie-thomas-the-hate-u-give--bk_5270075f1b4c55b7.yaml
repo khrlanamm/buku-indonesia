@@ -1,0 +1,23 @@
+id: "bk_5270075f1b4c55b7"
+title: "The Hate U Give"
+subtitle: "Benci Yang Kautanam"
+authors:
+  - "Angie Thomas"
+publisher: "Gramedia"
+year: 2018
+isbn13: "9786020381305"
+pages: 488
+language: "id"
+categories:
+  - "Novel"
+  - "Remaja"
+reviewed: true
+needsCheck:
+  - "authors"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL17714701W"
+  edition: "OL26496882M"
+  coverId: 8250024

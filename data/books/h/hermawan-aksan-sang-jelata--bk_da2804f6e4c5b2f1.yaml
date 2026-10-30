@@ -1,0 +1,21 @@
+id: "bk_da2804f6e4c5b2f1"
+title: "Sang Jelata"
+subtitle: null
+authors:
+  - "Hermawan Aksan"
+publisher: "Gramedia Widiasarana Indonesia"
+year: 2004
+isbn13: "9789797328627"
+pages: 130
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5867945W"
+  edition: "OL3450563M"
+  coverId: null

@@ -1,0 +1,23 @@
+id: "bk_291532f915cd4c3e"
+title: "Tanah Tabu"
+subtitle: null
+authors:
+  - "Anindita S. Thayf"
+publisher: "Gramedia Pustaka Utama"
+year: 2009
+isbn13: "9789792245677"
+pages: 237
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "year"
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL13855027W"
+  edition: "OL23689424M"
+  coverId: null

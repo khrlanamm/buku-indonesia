@@ -1,0 +1,22 @@
+id: "bk_e5b2eec310769470"
+title: "Kitab Ketenteraman"
+subtitle: "Dari Khasanah Emha Ainun Nadjib"
+authors:
+  - "Emha Ainun Nadjib"
+publisher: "PT Penjuru Ilmu Sejati"
+year: 2014
+isbn13: "9786020967073"
+pages: 296
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+  - "Agama"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23252790W"
+  edition: "OL31090427M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_635d3dcd2d07c39b"
+title: "Dalam Bayangan Cinta"
+subtitle: "Semacam Novel"
+authors:
+  - "Soni Farid Maulana"
+publisher: "Pustaka Latifah"
+year: 2005
+isbn13: "9789799825971"
+pages: 188
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL2325349W"
+  edition: "OL3464881M"
+  coverId: null

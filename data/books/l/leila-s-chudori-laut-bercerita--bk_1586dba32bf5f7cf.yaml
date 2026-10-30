@@ -1,0 +1,21 @@
+id: "bk_1586dba32bf5f7cf"
+title: "Laut Bercerita"
+subtitle: null
+authors:
+  - "Leila S. Chudori"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2017
+isbn13: "9786024246945"
+pages: 390
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24205033W"
+  edition: "OL31970031M"
+  coverId: 13770713

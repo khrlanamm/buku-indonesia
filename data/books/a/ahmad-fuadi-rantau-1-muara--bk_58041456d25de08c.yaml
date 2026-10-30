@@ -1,0 +1,21 @@
+id: "bk_58041456d25de08c"
+title: "Rantau 1 Muara"
+subtitle: null
+authors:
+  - "Ahmad Fuadi"
+publisher: "Gramedia Pustaka Utama"
+year: 2013
+isbn13: "9789792294736"
+pages: 407
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23140159W"
+  edition: "OL30979476M"
+  coverId: null

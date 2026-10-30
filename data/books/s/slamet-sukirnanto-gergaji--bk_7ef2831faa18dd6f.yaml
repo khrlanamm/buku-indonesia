@@ -1,0 +1,21 @@
+id: "bk_7ef2831faa18dd6f"
+title: "Gergaji"
+subtitle: "Kumpulan Puisi"
+authors:
+  - "Slamet Sukirnanto"
+publisher: "Balai Pustaka"
+year: 2001
+isbn13: "9789796666799"
+pages: 101
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4267046W"
+  edition: "OL3605248M"
+  coverId: null

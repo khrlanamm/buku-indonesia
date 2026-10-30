@@ -1,0 +1,21 @@
+id: "bk_5444deae8c9a17cf"
+title: "Aruna & Lidahnya"
+subtitle: "Sebuah Novel tentang Makanan, Perjalanan, dan Konspirasi"
+authors:
+  - "Laksmi Pamuntjak"
+publisher: "Gramedia Pustaka Utama"
+year: 2014
+isbn13: "9786020308524"
+pages: 427
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23251831W"
+  edition: "OL31089222M"
+  coverId: null

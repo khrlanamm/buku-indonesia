@@ -1,0 +1,21 @@
+id: "bk_a6d25e067076e8f3"
+title: "Sastra Jawa"
+subtitle: "Suatu Tinjauan Umum"
+authors:
+  - "Edi Sedyawati"
+publisher: "Pusat Bahasa"
+year: 2001
+isbn13: "9789796666522"
+pages: 592
+language: "id"
+categories:
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL19574225W"
+  edition: "OL4019617M"
+  coverId: null

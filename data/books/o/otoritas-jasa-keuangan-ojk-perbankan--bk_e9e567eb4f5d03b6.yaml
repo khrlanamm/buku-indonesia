@@ -1,0 +1,21 @@
+id: "bk_e9e567eb4f5d03b6"
+title: "Perbankan"
+subtitle: null
+authors:
+  - "Otoritas Jasa Keuangan (OJK)"
+publisher: "Otoritas Jasa Keuangan (OJK)"
+year: 2019
+isbn13: null
+pages: 98
+language: "id"
+categories:
+  - "Bisnis"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL43555695W"
+  edition: "OL59368291M"
+  coverId: 15096347

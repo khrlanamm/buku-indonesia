@@ -1,0 +1,21 @@
+id: "bk_1bba2be389b0087d"
+title: "Tentang Kamu"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Pt. Putra Bangsa"
+year: 2016
+isbn13: "9786020822341"
+pages: 524
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL36895009W"
+  edition: "OL49831677M"
+  coverId: 14541664

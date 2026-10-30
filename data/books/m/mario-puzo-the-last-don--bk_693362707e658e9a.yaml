@@ -1,0 +1,21 @@
+id: "bk_693362707e658e9a"
+title: "The Last Don"
+subtitle: "Godfather Terakhir"
+authors:
+  - "Mario Puzo"
+publisher: "Gramedia Pustaka Utama"
+year: 2004
+isbn13: "9789796056156"
+pages: 774
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1673258W"
+  edition: "OL25563820M"
+  coverId: 9475398

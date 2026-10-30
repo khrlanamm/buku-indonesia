@@ -1,0 +1,21 @@
+id: "bk_ea092de41921e1fa"
+title: "Hujan"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Gramedia Pustaka Utama"
+year: 2018
+isbn13: "9786020324784"
+pages: 320
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24348253W"
+  edition: "OL32240310M"
+  coverId: 10872657

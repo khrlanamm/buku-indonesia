@@ -1,0 +1,21 @@
+id: "bk_6aa80f0228219f06"
+title: "Uap"
+subtitle: null
+authors:
+  - "Putu Wijaya"
+publisher: "Yayasan Bentang Budaya"
+year: 1999
+isbn13: "9789798793776"
+pages: 235
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1032274W"
+  edition: "OL154385M"
+  coverId: null

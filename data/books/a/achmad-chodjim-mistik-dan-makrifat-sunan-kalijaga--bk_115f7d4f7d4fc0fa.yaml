@@ -1,0 +1,22 @@
+id: "bk_115f7d4f7d4fc0fa"
+title: "Mistik dan Makrifat Sunan Kalijaga"
+subtitle: null
+authors:
+  - "Achmad Chodjim"
+publisher: "Serambi Ilmu Semesta"
+year: 2003
+isbn13: "9789793335308"
+pages: 310
+language: "id"
+categories:
+  - "Agama"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5987617W"
+  edition: "OL3773496M"
+  coverId: 4321835

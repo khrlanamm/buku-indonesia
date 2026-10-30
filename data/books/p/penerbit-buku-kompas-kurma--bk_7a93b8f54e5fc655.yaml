@@ -1,0 +1,21 @@
+id: "bk_7a93b8f54e5fc655"
+title: "Kurma"
+subtitle: "Kumpulan Cerita Puasa-Lebaran Kompas"
+authors:
+  - "Penerbit Buku Kompas"
+publisher: "Penerbit Buku Kompas"
+year: 2002
+isbn13: "9789797090500"
+pages: 107
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23802191W"
+  edition: "OL3614000M"
+  coverId: null

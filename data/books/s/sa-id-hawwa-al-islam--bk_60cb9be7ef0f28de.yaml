@@ -1,0 +1,21 @@
+id: "bk_60cb9be7ef0f28de"
+title: "Al Islam"
+subtitle: null
+authors:
+  - "Saʻīd Ḥawwá"
+publisher: "Gema Insani"
+year: 2018
+isbn13: "9786022504764"
+pages: 704
+language: "id"
+categories:
+  - "Agama"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL10996701W"
+  edition: "OL49829780M"
+  coverId: 14541436

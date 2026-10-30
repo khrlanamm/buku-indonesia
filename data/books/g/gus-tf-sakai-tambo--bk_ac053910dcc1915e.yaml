@@ -1,0 +1,21 @@
+id: "bk_ac053910dcc1915e"
+title: "Tambo"
+subtitle: "Sebuah Pertemuan"
+authors:
+  - "Gus tf Sakai"
+publisher: "Gramedia Widiasarana Indonesia"
+year: 2000
+isbn13: "9789796698028"
+pages: 170
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1782146W"
+  edition: "OL6813405M"
+  coverId: null

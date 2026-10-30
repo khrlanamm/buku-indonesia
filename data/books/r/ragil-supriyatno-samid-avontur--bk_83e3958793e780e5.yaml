@@ -1,0 +1,21 @@
+id: "bk_83e3958793e780e5"
+title: "Avontur"
+subtitle: "Sekumpulan Puisi"
+authors:
+  - "Ragil Supriyatno Samid"
+publisher: "Mozaik Books"
+year: 2012
+isbn13: "9786029149739"
+pages: 99
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22654374W"
+  edition: "OL30673317M"
+  coverId: 15034873

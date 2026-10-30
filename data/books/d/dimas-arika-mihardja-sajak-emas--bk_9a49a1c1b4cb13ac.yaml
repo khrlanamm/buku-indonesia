@@ -1,0 +1,21 @@
+id: "bk_9a49a1c1b4cb13ac"
+title: "Sajak Emas"
+subtitle: "200 Puisi Sexy"
+authors:
+  - "Dimas Arika Mihardja"
+publisher: "Kosa Kata Kita"
+year: 2010
+isbn13: "9786028966030"
+pages: 208
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22381095W"
+  edition: "OL30466940M"
+  coverId: null

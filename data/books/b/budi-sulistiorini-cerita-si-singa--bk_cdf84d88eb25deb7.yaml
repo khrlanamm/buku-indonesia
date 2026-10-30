@@ -1,0 +1,22 @@
+id: "bk_cdf84d88eb25deb7"
+title: "Cerita Si Singa"
+subtitle: null
+authors:
+  - "Budi Sulistiorini"
+publisher: "Gema Insani"
+year: 2021
+isbn13: "9786022509790"
+pages: 24
+language: "id"
+categories:
+  - "Anak"
+  - "Agama"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL36426706W"
+  edition: "OL49219338M"
+  coverId: 14395684

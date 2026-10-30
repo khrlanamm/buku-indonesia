@@ -1,0 +1,21 @@
+id: "bk_682358c868e89ea6"
+title: "Ayat-Ayat Api"
+subtitle: "Kumpulan Sajak"
+authors:
+  - "Sapardi Djoko Damono"
+publisher: "Pustaka Firdaus"
+year: 2000
+isbn13: "9789795411215"
+pages: 149
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1030297W"
+  edition: "OL6813220M"
+  coverId: null

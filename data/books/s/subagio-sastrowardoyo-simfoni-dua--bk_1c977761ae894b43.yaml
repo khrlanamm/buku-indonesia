@@ -1,0 +1,21 @@
+id: "bk_1c977761ae894b43"
+title: "Simfoni Dua"
+subtitle: "Sajak-Sajak"
+authors:
+  - "Subagio Sastrowardoyo"
+publisher: "Balai Pustaka"
+year: 1990
+isbn13: "9789794072646"
+pages: 103
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL392415W"
+  edition: "OL2017350M"
+  coverId: null

@@ -1,0 +1,22 @@
+id: "bk_1d23b0ebccb6492e"
+title: "In Memoriam"
+subtitle: "Mengenang yang Wafat"
+authors:
+  - "Rosihan Anwar"
+publisher: "Penerbit Buku Kompas"
+year: 2002
+isbn13: "9789797090296"
+pages: 432
+language: "id"
+categories:
+  - "Sejarah"
+  - "Biografi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL386460W"
+  edition: "OL3606856M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_b5192eb5b822c0dc"
+title: "Penyair Midas"
+subtitle: null
+authors:
+  - "Nanang Suryadi"
+publisher: "Penerbit Hastasurya"
+year: 2013
+isbn13: "9786021599051"
+pages: 168
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23139698W"
+  edition: "OL30979092M"
+  coverId: null

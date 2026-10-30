@@ -1,0 +1,23 @@
+id: "bk_c55d52eef4ccbaf3"
+title: "The Two Towers"
+subtitle: "Dua Menara"
+authors:
+  - "J.R.R. Tolkien"
+publisher: "Gramedia Pustaka Utama"
+year: 2016
+isbn13: "9786020332277"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+  - "Sains"
+  - "Anak"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL27479W"
+  edition: "OL26447986M"
+  coverId: 8170123

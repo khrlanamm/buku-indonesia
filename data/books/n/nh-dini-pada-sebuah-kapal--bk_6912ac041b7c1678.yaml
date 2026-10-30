@@ -1,0 +1,21 @@
+id: "bk_6912ac041b7c1678"
+title: "Pada Sebuah Kapal"
+subtitle: null
+authors:
+  - "Nh. Dini"
+publisher: "Gramedia Pustaka Utama"
+year: 1985
+isbn13: "9789792249729"
+pages: 351
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL945842W"
+  edition: "OL5038283M"
+  coverId: 14613004

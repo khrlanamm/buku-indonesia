@@ -1,0 +1,21 @@
+id: "bk_0b7d0bfcd4646e2d"
+title: "Teater"
+subtitle: "Buku Pelajaran Seni Budaya"
+authors:
+  - "Putu Wijaya"
+publisher: "Pendidikan Seni Nusantara"
+year: 2007
+isbn13: "9789793679099"
+pages: 216
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24109796W"
+  edition: "OL31804538M"
+  coverId: null

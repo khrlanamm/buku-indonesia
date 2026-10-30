@@ -1,0 +1,21 @@
+id: "bk_d6bd3513446e353f"
+title: "Hunus"
+subtitle: null
+authors:
+  - "Sunaryono Basuki"
+publisher: "Balai Pustaka"
+year: 1991
+isbn13: "9789794073537"
+pages: 205
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3222668W"
+  edition: "OL1385786M"
+  coverId: null

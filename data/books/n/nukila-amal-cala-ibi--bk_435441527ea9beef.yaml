@@ -1,0 +1,24 @@
+id: "bk_435441527ea9beef"
+title: "Cala Ibi"
+subtitle: null
+authors:
+  - "Nukila Amal"
+publisher: "Pena Gaia Klasik"
+year: 2003
+isbn13: "9789799708311"
+pages: 271
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "publisher"
+  - "year"
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5881630W"
+  edition: "OL3742383M"
+  coverId: null

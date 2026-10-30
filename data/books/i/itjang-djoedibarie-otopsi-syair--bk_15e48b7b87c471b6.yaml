@@ -1,0 +1,21 @@
+id: "bk_15e48b7b87c471b6"
+title: "Otopsi Syair"
+subtitle: "Antologi Puisi Itjang Djoedibarie"
+authors:
+  - "Itjang Djoedibarie"
+publisher: "Muslihat Press"
+year: 2025
+isbn13: "9786579347333"
+pages: 112
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL43407069W"
+  edition: "OL59124584M"
+  coverId: 15097123

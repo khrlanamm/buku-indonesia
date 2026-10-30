@@ -1,0 +1,26 @@
+id: "bk_f565098068727b23"
+title: "Antologi Drama Indonesia, Jilid 1"
+subtitle: null
+authors:
+  - "H. Krafft"
+  - "F. Wiggers"
+  - "Kwee Tek Hoay"
+  - "Lie Kim Hok"
+  - "Rustam Effendi"
+publisher: "Amanah"
+year: 2006
+isbn13: "9789799985828"
+pages: null
+language: "id"
+categories:
+  - "Sastra Klasik"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+  - "hand-checked"
+openLibrary:
+  work: "OL15380092W"
+  edition: "OL24365016M"
+  coverId: 6595908

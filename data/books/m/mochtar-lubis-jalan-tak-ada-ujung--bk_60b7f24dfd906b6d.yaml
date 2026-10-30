@@ -1,0 +1,22 @@
+id: "bk_60b7f24dfd906b6d"
+title: "Jalan Tak Ada Ujung"
+subtitle: null
+authors:
+  - "Mochtar Lubis"
+publisher: "Yayasan Obor Indonesia"
+year: 1992
+isbn13: "9789794611067"
+pages: 167
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL38765210W"
+  edition: "OL52777173M"
+  coverId: null

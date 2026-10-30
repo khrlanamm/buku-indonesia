@@ -1,0 +1,21 @@
+id: "bk_94bb2af3271eed1a"
+title: "Utukki"
+subtitle: "Sayap Para Dewa"
+authors:
+  - "Clara Ng"
+publisher: "Gramedia Pustaka Utama"
+year: 2011
+isbn13: "9789792269833"
+pages: 402
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16003393W"
+  edition: "OL24907576M"
+  coverId: null

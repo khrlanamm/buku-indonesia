@@ -1,0 +1,21 @@
+id: "bk_af9cc8fa7e748dc7"
+title: "Gema Secuil Batu"
+subtitle: "Serpihan Puisi"
+authors:
+  - "Iswadi Pratama"
+publisher: "Akar Indonesia"
+year: 2008
+isbn13: "9789791684866"
+pages: 95
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL13759335W"
+  edition: "OL23148320M"
+  coverId: null

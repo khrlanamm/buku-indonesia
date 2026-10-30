@@ -1,0 +1,23 @@
+id: "bk_623615d2f3fc9701"
+title: "Half of a Yellow Sun"
+subtitle: null
+authors:
+  - "Chimamanda Ngozi Adichie"
+publisher: "Hikmah"
+year: 2008
+isbn13: "9789791142106"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+  - "Sejarah"
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5731542W"
+  edition: "OL26387772M"
+  coverId: 8081782

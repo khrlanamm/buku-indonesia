@@ -1,0 +1,22 @@
+id: "bk_5f60f3f4338e1161"
+title: "Nyanyi Sunyi"
+subtitle: null
+authors:
+  - "Amir Hamzah"
+publisher: "Dian Rakyat"
+year: 1991
+isbn13: "9789795230472"
+pages: 30
+language: "id"
+categories:
+  - "Puisi"
+  - "Sastra Klasik"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL45403973W"
+  edition: "OL61886776M"
+  coverId: null

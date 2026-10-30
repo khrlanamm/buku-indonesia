@@ -1,0 +1,21 @@
+id: "bk_3bd69a5bb68f4d5b"
+title: "Cinta Abadi"
+subtitle: null
+authors:
+  - "Metsy Hingle"
+publisher: "Gramedia Pustaka Utama"
+year: 2007
+isbn13: "9789792227208"
+pages: 239
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5803508W"
+  edition: "OL40295804M"
+  coverId: 15035002

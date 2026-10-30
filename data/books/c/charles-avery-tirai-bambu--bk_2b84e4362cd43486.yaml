@@ -1,0 +1,22 @@
+id: "bk_2b84e4362cd43486"
+title: "Tirai Bambu"
+subtitle: "Kumpulan Puisi Baru Tiongkok"
+authors:
+  - "Charles Avery"
+publisher: "Titian"
+year: 2006
+isbn13: "9781234567897"
+pages: 258
+language: "id"
+categories:
+  - "Sejarah"
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL27962961W"
+  edition: "OL16286829M"
+  coverId: null

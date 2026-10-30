@@ -1,0 +1,21 @@
+id: "bk_0782412a520f6490"
+title: "A Game of Thrones"
+subtitle: "Perebutan Takhta"
+authors:
+  - "George R. R. Martin"
+publisher: "Fantasious"
+year: 2015
+isbn13: "9786020900292"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL257943W"
+  edition: "OL26425705M"
+  coverId: 8134236

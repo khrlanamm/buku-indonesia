@@ -1,0 +1,21 @@
+id: "bk_9dd16364aaf984a9"
+title: "Diksi Para Pendendam"
+subtitle: "Kumpulan Puisi"
+authors:
+  - "Badruddin Emce"
+publisher: "Akar Indonesia"
+year: 2012
+isbn13: "9789799983961"
+pages: 173
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22648623W"
+  edition: "OL30667354M"
+  coverId: null

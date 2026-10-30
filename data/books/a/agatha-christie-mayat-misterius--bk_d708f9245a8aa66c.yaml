@@ -1,0 +1,21 @@
+id: "bk_d708f9245a8aa66c"
+title: "Mayat Misterius"
+subtitle: null
+authors:
+  - "Agatha Christie"
+publisher: "Gramedia"
+year: 2001
+isbn13: "9789794034552"
+pages: 406
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL471670W"
+  edition: "OL26375975M"
+  coverId: 10251681

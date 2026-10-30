@@ -1,0 +1,22 @@
+id: "bk_c53cef1ffe57f1c8"
+title: "Cerita Cinta Enrico"
+subtitle: null
+authors:
+  - "Ayu Utami"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2012
+isbn13: "9789799104137"
+pages: 244
+language: "id"
+categories:
+  - "Novel"
+  - "Biografi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16518348W"
+  edition: "OL25211582M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_58f59e5c0cb763f2"
+title: "The Fellowship of the Ring"
+subtitle: "Sembilan Pembawa Cincin"
+authors:
+  - "J.R.R. Tolkien"
+publisher: "Gramedia Pustaka Utama"
+year: 2016
+isbn13: "9786020332260"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL27513W"
+  edition: "OL26452664M"
+  coverId: 8178155

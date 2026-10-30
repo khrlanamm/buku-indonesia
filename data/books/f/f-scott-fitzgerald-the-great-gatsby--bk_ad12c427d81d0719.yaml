@@ -1,0 +1,23 @@
+id: "bk_ad12c427d81d0719"
+title: "The Great Gatsby"
+subtitle: null
+authors:
+  - "F. Scott Fitzgerald"
+publisher: "Kompas Gramedia"
+year: 2014
+isbn13: "9786020308807"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+  - "Komik"
+  - "Remaja"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL468431W"
+  edition: "OL26495507M"
+  coverId: 8248058

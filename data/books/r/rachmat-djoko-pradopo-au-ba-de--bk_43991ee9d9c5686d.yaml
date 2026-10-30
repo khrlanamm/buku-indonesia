@@ -1,0 +1,21 @@
+id: "bk_43991ee9d9c5686d"
+title: "Au Ba De"
+subtitle: "Aubade"
+authors:
+  - "Rachmat Djoko Pradopo"
+publisher: "Pustaka Pelajar"
+year: 1999
+isbn13: "9789799075895"
+pages: 78
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1033377W"
+  edition: "OL153605M"
+  coverId: null

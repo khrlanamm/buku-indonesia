@@ -1,0 +1,21 @@
+id: "bk_16ed936fa45137fb"
+title: "Lingkaran Hidup"
+subtitle: null
+authors:
+  - "La Rose"
+publisher: "Balai Pustaka"
+year: 1996
+isbn13: "9789794079874"
+pages: 492
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1030070W"
+  edition: "OL333710M"
+  coverId: null

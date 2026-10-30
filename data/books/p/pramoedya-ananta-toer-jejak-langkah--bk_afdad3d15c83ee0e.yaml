@@ -1,0 +1,25 @@
+id: "bk_afdad3d15c83ee0e"
+title: "Jejak Langkah"
+subtitle: null
+authors:
+  - "Pramoedya Ananta Toer"
+publisher: "Hasta Mitra"
+year: 1985
+isbn13: null
+pages: 464
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  - "year"
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL307189W"
+  edition: "OL26897062M"
+  coverId: null

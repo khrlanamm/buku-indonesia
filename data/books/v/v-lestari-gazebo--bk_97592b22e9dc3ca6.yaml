@@ -1,0 +1,21 @@
+id: "bk_97592b22e9dc3ca6"
+title: "Gazebo"
+subtitle: null
+authors:
+  - "V. Lestari"
+publisher: "Gramedia Pustaka Utama"
+year: 2003
+isbn13: "9789792203189"
+pages: 552
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL2609616W"
+  edition: "OL3772668M"
+  coverId: 4321826

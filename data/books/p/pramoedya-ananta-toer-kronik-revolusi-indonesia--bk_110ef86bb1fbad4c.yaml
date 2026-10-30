@@ -1,0 +1,22 @@
+id: "bk_110ef86bb1fbad4c"
+title: "Kronik Revolusi Indonesia"
+subtitle: null
+authors:
+  - "Pramoedya Ananta Toer"
+  - "Koesalah Soebagyo Toer"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 1999
+isbn13: "9789799023278"
+pages: null
+language: "id"
+categories:
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23739438W"
+  edition: "OL153060M"
+  coverId: null

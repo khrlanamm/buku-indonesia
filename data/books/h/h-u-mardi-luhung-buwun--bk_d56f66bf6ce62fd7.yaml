@@ -1,0 +1,21 @@
+id: "bk_d56f66bf6ce62fd7"
+title: "Buwun"
+subtitle: "Kumpulan Puisi"
+authors:
+  - "H. U. Mardi Luhung"
+publisher: "Pustaka Pujangga"
+year: 2010
+isbn13: "9786028669337"
+pages: 66
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23371354W"
+  edition: "OL31225050M"
+  coverId: null

@@ -1,0 +1,23 @@
+id: "bk_cc335bf38c890f9b"
+title: "Berangkat dari Pesantren"
+subtitle: null
+authors:
+  - "Saifuddin Zuhri"
+publisher: "LKiS"
+year: 2013
+isbn13: "9789791677660"
+pages: 776
+language: "id"
+categories:
+  - "Biografi"
+  - "Agama"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL304969W"
+  edition: "OL30978900M"
+  coverId: 10832859

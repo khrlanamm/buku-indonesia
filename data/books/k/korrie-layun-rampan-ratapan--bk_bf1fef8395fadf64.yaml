@@ -1,0 +1,22 @@
+id: "bk_bf1fef8395fadf64"
+title: "Ratapan"
+subtitle: "Kumpulan Cerita Pendek"
+authors:
+  - "Korrie Layun Rampan"
+publisher: "Balai Pustaka"
+year: 1989
+isbn13: "9789794072035"
+pages: 142
+language: "id"
+categories:
+  - "Novel"
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1031472W"
+  edition: "OL2015130M"
+  coverId: null

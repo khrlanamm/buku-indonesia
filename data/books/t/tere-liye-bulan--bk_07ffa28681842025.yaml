@@ -1,0 +1,21 @@
+id: "bk_07ffa28681842025"
+title: "Bulan"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Gramedia Pustaka Utama"
+year: 2015
+isbn13: "9786020314112"
+pages: 396
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22841340W"
+  edition: "OL30780605M"
+  coverId: 14640031

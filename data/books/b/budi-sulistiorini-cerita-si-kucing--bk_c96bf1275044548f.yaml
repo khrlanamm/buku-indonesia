@@ -1,0 +1,22 @@
+id: "bk_c96bf1275044548f"
+title: "Cerita Si Kucing"
+subtitle: null
+authors:
+  - "Budi Sulistiorini"
+publisher: "Gema Insani"
+year: 2022
+isbn13: "9786022506522"
+pages: 25
+language: "id"
+categories:
+  - "Anak"
+  - "Agama"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL36960648W"
+  edition: "OL49906927M"
+  coverId: 14544400

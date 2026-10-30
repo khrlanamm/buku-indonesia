@@ -1,0 +1,21 @@
+id: "bk_6c105dc5d5fa9dd1"
+title: "Tasauf Modern"
+subtitle: null
+authors:
+  - "Hamka"
+publisher: "Yayasan Nurul islam"
+year: 1982
+isbn13: null
+pages: 246
+language: "id"
+categories:
+  - "Agama"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL292736W"
+  edition: "OL32173382M"
+  coverId: 10832841

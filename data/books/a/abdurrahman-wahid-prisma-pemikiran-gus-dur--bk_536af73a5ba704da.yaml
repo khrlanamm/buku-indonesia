@@ -1,0 +1,22 @@
+id: "bk_536af73a5ba704da"
+title: "Prisma Pemikiran Gus Dur"
+subtitle: null
+authors:
+  - "Abdurrahman Wahid"
+publisher: "LKiS"
+year: 1999
+isbn13: "9789798966385"
+pages: 238
+language: "id"
+categories:
+  - "Agama"
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL948934W"
+  edition: "OL151517M"
+  coverId: null

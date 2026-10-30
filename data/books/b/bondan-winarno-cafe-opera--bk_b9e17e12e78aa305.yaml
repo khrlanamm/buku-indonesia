@@ -1,0 +1,21 @@
+id: "bk_b9e17e12e78aa305"
+title: "Cafe Opera"
+subtitle: "Kumpulan Cerita Pendek"
+authors:
+  - "Bondan Winarno"
+publisher: "Grafiti Pers"
+year: 1986
+isbn13: "9789794440018"
+pages: 97
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1029252W"
+  edition: "OL2366829M"
+  coverId: null

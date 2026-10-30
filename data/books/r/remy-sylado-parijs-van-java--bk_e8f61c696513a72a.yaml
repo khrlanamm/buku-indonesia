@@ -1,0 +1,21 @@
+id: "bk_e8f61c696513a72a"
+title: "Parijs Van Java"
+subtitle: "Darah, Keringat, Airmata"
+authors:
+  - "Remy Sylado"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2003
+isbn13: "9789799023896"
+pages: 595
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1030108W"
+  edition: "OL3740331M"
+  coverId: null

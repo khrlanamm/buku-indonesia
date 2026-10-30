@@ -1,0 +1,21 @@
+id: "bk_6c69c97158a80a6c"
+title: "Manyura"
+subtitle: null
+authors:
+  - "Yanusa Nugroho"
+publisher: "Penerbit Buku Kompas"
+year: 2004
+isbn13: "9789797091156"
+pages: 255
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4604757W"
+  edition: "OL3339116M"
+  coverId: null

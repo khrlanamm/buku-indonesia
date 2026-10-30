@@ -1,0 +1,21 @@
+id: "bk_c2b5ef61f34ea21a"
+title: "Tungku"
+subtitle: null
+authors:
+  - "Salman Yoga S."
+publisher: "Aneuk Mulieng Pub"
+year: 2006
+isbn13: "9789792567533"
+pages: 167
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL11710005W"
+  edition: "OL16259801M"
+  coverId: null

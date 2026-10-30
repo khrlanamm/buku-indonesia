@@ -1,0 +1,22 @@
+id: "bk_8fe3b175a7592866"
+title: "Soedirman"
+subtitle: "Seorang Panglima, Seorang Martir"
+authors:
+  - "Tim Buku Tempo"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2012
+isbn13: "9789799105240"
+pages: 160
+language: "id"
+categories:
+  - "Sejarah"
+  - "Biografi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22648567W"
+  edition: "OL30667305M"
+  coverId: 13706374

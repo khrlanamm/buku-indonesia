@@ -1,0 +1,21 @@
+id: "bk_0184d076295d3cb9"
+title: "Rasa"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Sabak Grip Nusantara"
+year: 2022
+isbn13: "9786239726232"
+pages: 420
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL36896696W"
+  edition: "OL49833528M"
+  coverId: 14542360

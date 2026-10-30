@@ -1,0 +1,21 @@
+id: "bk_2eb36128a64ea3f4"
+title: "Lalita"
+subtitle: null
+authors:
+  - "Ayu Utami"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2012
+isbn13: "9789799104939"
+pages: 251
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23213895W"
+  edition: "OL31048701M"
+  coverId: null

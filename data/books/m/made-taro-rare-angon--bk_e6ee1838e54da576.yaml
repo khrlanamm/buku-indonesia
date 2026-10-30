@@ -1,0 +1,21 @@
+id: "bk_e6ee1838e54da576"
+title: "Rare Angon"
+subtitle: null
+authors:
+  - "Made Taro"
+publisher: "Graha Bandung Kencana"
+year: 2010
+isbn13: "9786028363792"
+pages: 64
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23242584W"
+  edition: "OL31079257M"
+  coverId: null

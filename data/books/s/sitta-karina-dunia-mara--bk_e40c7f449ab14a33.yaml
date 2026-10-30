@@ -1,0 +1,21 @@
+id: "bk_e40c7f449ab14a33"
+title: "Dunia Mara"
+subtitle: "Sebuah Novella Keluarga Hanafiah"
+authors:
+  - "Sitta Karina"
+publisher: "Literati"
+year: 2013
+isbn13: "9786028740364"
+pages: 189
+language: "id"
+categories:
+  - "Remaja"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23244241W"
+  edition: "OL31080969M"
+  coverId: null

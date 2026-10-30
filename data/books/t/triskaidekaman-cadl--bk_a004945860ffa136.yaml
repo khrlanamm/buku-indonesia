@@ -1,0 +1,21 @@
+id: "bk_a004945860ffa136"
+title: "Cadl"
+subtitle: "Sebuah Novel Tanpa Huruf E"
+authors:
+  - "Triskaidekaman"
+publisher: "Gramedia Pustaka Utama"
+year: 2020
+isbn13: "9786020639574"
+pages: 282
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL38005383W"
+  edition: "OL51566780M"
+  coverId: 14613011

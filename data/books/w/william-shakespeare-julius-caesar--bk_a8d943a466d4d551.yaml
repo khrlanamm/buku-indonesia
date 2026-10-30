@@ -1,0 +1,21 @@
+id: "bk_a8d943a466d4d551"
+title: "Julius Caesar"
+subtitle: null
+authors:
+  - "William Shakespeare"
+publisher: "Pustaka Jaya"
+year: 1992
+isbn13: "9789794190999"
+pages: 130
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL362702W"
+  edition: "OL27065967M"
+  coverId: 10183390

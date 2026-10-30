@@ -1,0 +1,21 @@
+id: "bk_89164c658caa93ad"
+title: "Si Juki"
+subtitle: "Lika-Liku Anak Kos!"
+authors:
+  - "Faza Meonk"
+publisher: "Elex Media Komputindo"
+year: 2016
+isbn13: "9786020287140"
+pages: 144
+language: "id"
+categories:
+  - "Komik"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL32017213W"
+  edition: "OL44446021M"
+  coverId: 13881548

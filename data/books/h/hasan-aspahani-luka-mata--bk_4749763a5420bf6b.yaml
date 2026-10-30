@@ -1,0 +1,21 @@
+id: "bk_4749763a5420bf6b"
+title: "Luka Mata"
+subtitle: "Buku Sajak"
+authors:
+  - "Hasan Aspahani"
+publisher: "Penerbit Koekoesan"
+year: 2010
+isbn13: "9789791442350"
+pages: 81
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22380618W"
+  edition: "OL30466442M"
+  coverId: null

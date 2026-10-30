@@ -1,0 +1,21 @@
+id: "bk_6db10baee2f78aa7"
+title: "Pelajaran Pertama bagi Calon Politisi"
+subtitle: "Kumpulan Cerpen Kompas"
+authors:
+  - "Kuntowijoyo"
+publisher: "Penerbit Buku Kompas"
+year: 2013
+isbn13: "9789797097424"
+pages: 150
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23139823W"
+  edition: "OL30979192M"
+  coverId: null

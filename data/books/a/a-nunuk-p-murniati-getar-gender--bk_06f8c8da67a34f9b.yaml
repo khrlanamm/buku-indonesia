@@ -1,0 +1,22 @@
+id: "bk_06f8c8da67a34f9b"
+title: "Getar Gender"
+subtitle: null
+authors:
+  - "A. Nunuk P. Murniati"
+publisher: "IndonesiaTera"
+year: 2004
+isbn13: "9789799375278"
+pages: null
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+  - "Agama"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL2304014W"
+  edition: "OL3448896M"
+  coverId: 4266268

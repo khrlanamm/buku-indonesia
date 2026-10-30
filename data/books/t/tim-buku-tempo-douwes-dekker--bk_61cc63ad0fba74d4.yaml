@@ -1,0 +1,21 @@
+id: "bk_61cc63ad0fba74d4"
+title: "Douwes Dekker"
+subtitle: "Sang Inspirator Revolusi"
+authors:
+  - "Tim Buku Tempo"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2012
+isbn13: "9789799105134"
+pages: 168
+language: "id"
+categories:
+  - "Biografi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23215556W"
+  edition: "OL31050432M"
+  coverId: 13459398

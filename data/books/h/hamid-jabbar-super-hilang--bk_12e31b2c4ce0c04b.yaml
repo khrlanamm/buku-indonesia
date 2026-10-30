@@ -1,0 +1,21 @@
+id: "bk_12e31b2c4ce0c04b"
+title: "Super Hilang"
+subtitle: "Segerobak Sajak Hamid Jabbar"
+authors:
+  - "Hamid Jabbar"
+publisher: "Balai Pustaka"
+year: 1998
+isbn13: "9789796662562"
+pages: 397
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5586147W"
+  edition: "OL6857295M"
+  coverId: null

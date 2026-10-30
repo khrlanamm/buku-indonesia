@@ -1,0 +1,22 @@
+id: "bk_2f477cc44e00f6ef"
+title: "Hatta"
+subtitle: null
+authors:
+  - "Tim Buku Tempo"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2010
+isbn13: "9789799102676"
+pages: 172
+language: "id"
+categories:
+  - "Biografi"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22380648W"
+  edition: "OL30466473M"
+  coverId: 13706337

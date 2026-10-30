@@ -1,0 +1,21 @@
+id: "bk_99b4651887ac1ad9"
+title: "Melihat Api Bekerja"
+subtitle: "Kumpulan Puisi"
+authors:
+  - "Aan Mansyur"
+publisher: "Gramedia Pustaka Utama"
+year: 2015
+isbn13: "9786020315577"
+pages: 155
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22841672W"
+  edition: "OL30780875M"
+  coverId: 13178143

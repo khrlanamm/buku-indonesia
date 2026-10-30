@@ -1,0 +1,21 @@
+id: "bk_fc4fb25892d7e2d3"
+title: "Kitab Omong Kosong"
+subtitle: null
+authors:
+  - "Seno Gumira Ajidarma"
+publisher: "Bentang Pustaka"
+year: 2004
+isbn13: "9789793062198"
+pages: 623
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL946270W"
+  edition: "OL3376945M"
+  coverId: 4256591

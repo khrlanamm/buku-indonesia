@@ -1,0 +1,21 @@
+id: "bk_79e869edbe253188"
+title: "Enak, Gila!"
+subtitle: null
+authors:
+  - "Martin Suhartono"
+publisher: "Penerbit Kanisius"
+year: 2002
+isbn13: "9789792105988"
+pages: 120
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5988249W"
+  edition: "OL3611631M"
+  coverId: 4297400

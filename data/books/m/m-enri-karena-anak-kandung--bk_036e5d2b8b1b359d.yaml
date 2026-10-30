@@ -1,0 +1,22 @@
+id: "bk_036e5d2b8b1b359d"
+title: "Karena Anak Kandung"
+subtitle: null
+authors:
+  - "M. Enri"
+publisher: "Balai Pustaka"
+year: 1981
+isbn13: null
+pages: 163
+language: "id"
+categories:
+  - "Anak"
+reviewed: true
+needsCheck:
+  - "isbn13"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5349139W"
+  edition: "OL2834598M"
+  coverId: null

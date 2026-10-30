@@ -1,0 +1,19 @@
+id: "bk_1f0d440dac6e9e5f"
+title: "Pangeran Cilik"
+subtitle: "Le Petit Prince"
+authors:
+  - "Antoine de Saint-Exupéry"
+publisher: "Gramedia Pustaka Utama"
+year: 2025
+isbn13: "9786020682051"
+pages: 120
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "hand-checked"
+openLibrary: null

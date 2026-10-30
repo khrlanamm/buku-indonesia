@@ -1,0 +1,21 @@
+id: "bk_126410d45cd39f43"
+title: "Nebula"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Gramedia Pustaka Utama"
+year: 2020
+isbn13: "9786020639536"
+pages: 376
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL36895076W"
+  edition: "OL49831750M"
+  coverId: 14541781

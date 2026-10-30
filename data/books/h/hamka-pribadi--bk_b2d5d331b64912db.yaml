@@ -1,0 +1,21 @@
+id: "bk_b2d5d331b64912db"
+title: "Pribadi"
+subtitle: null
+authors:
+  - "Hamka"
+publisher: "Bulan Bintang"
+year: 1978
+isbn13: null
+pages: 168
+language: "id"
+categories:
+  - "Agama"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL292728W"
+  edition: "OL32173391M"
+  coverId: 10832850

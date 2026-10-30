@@ -1,0 +1,21 @@
+id: "bk_a2cd753424350932"
+title: "Andika Cahaya"
+subtitle: null
+authors:
+  - "Darman Moenir"
+publisher: "Akar Indonesia"
+year: 2012
+isbn13: "9789799983954"
+pages: 233
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16695525W"
+  edition: "OL25368030M"
+  coverId: null

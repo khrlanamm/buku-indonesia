@@ -1,0 +1,22 @@
+id: "bk_39a1d35ac4d5c343"
+title: "Nadya"
+subtitle: "Kisah dari Negeri yang Menggigil"
+authors:
+  - "Abdurahman Faiz"
+publisher: "Lingkar Pena Publishing House"
+year: 2007
+isbn13: "9789791367035"
+pages: 54
+language: "id"
+categories:
+  - "Novel"
+  - "Anak"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL11901827W"
+  edition: "OL16723213M"
+  coverId: 5350147

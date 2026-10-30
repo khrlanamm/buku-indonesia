@@ -1,0 +1,21 @@
+id: "bk_3dc89c2e9ae1b319"
+title: "Komet"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Gramedia Pustaka Utama"
+year: 2018
+isbn13: "9786020385938"
+pages: 381
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL25306379W"
+  edition: "OL33890988M"
+  coverId: 12002396

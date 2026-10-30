@@ -1,0 +1,21 @@
+id: "bk_1aae6eb8376b3c66"
+title: "Laluba"
+subtitle: null
+authors:
+  - "Nukila Amal"
+publisher: "Pustaka Alvabet"
+year: 2005
+isbn13: "9789793064130"
+pages: 157
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5881631W"
+  edition: "OL3467814M"
+  coverId: null

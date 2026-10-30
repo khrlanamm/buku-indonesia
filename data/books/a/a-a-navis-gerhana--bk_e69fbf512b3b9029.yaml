@@ -1,0 +1,21 @@
+id: "bk_e69fbf512b3b9029"
+title: "Gerhana"
+subtitle: null
+authors:
+  - "A. A. Navis"
+publisher: "Penerbit Buku Kompas"
+year: 2004
+isbn13: "9789797091514"
+pages: 304
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL340949W"
+  edition: "OL3377052M"
+  coverId: null

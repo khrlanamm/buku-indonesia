@@ -1,0 +1,21 @@
+id: "bk_639a57ed00fef9a5"
+title: "Bumi"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Gramedia Pustaka Utama"
+year: 2014
+isbn13: "9786020301129"
+pages: 438
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23233727W"
+  edition: "OL31069915M"
+  coverId: 12810708

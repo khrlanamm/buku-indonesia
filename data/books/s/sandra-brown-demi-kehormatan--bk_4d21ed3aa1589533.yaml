@@ -1,0 +1,22 @@
+id: "bk_4d21ed3aa1589533"
+title: "Demi Kehormatan"
+subtitle: "Harlequin Koleksi Istimewa"
+authors:
+  - "Sandra Brown"
+publisher: "Gramedia Pustaka Utama"
+year: 2018
+isbn13: "9789792222371"
+pages: 320
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+  - "hand-checked"
+openLibrary:
+  work: "OL167288W"
+  edition: "OL40235694M"
+  coverId: 12993320

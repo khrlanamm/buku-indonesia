@@ -1,0 +1,21 @@
+id: "bk_d1ae7a12c00d800d"
+title: "Hello"
+subtitle: null
+authors:
+  - "Tere Liye"
+publisher: "Sabak Grip Nusantara"
+year: 2023
+isbn13: "9786238829682"
+pages: 320
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL36425581W"
+  edition: "OL49218052M"
+  coverId: 14395558

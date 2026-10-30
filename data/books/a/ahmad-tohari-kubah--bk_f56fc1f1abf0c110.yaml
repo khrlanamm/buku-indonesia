@@ -1,0 +1,19 @@
+id: "bk_f56fc1f1abf0c110"
+title: "Kubah"
+subtitle: null
+authors:
+  - "Ahmad Tohari"
+publisher: null
+year: 1980
+isbn13: "9789793780504"
+pages: 184
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: true
+needsCheck:
+  - "publisher"
+  - "categories"
+sources:
+  - "wikipedia"
+openLibrary: null

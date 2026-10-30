@@ -1,0 +1,21 @@
+id: "bk_713a68c19b237c68"
+title: "Sarabande"
+subtitle: null
+authors:
+  - "Bre Redana"
+publisher: "Yayasan Bentang Budaya"
+year: 2002
+isbn13: "9789793062327"
+pages: 139
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: true
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1034629W"
+  edition: "OL3611504M"
+  coverId: null

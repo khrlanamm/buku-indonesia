@@ -1,0 +1,21 @@
+id: "bk_094e2e751dad0b91"
+title: "Indiana Chronicle"
+subtitle: null
+authors:
+  - "Clara Ng"
+publisher: "Gramedia Pustaka Utama"
+year: 2004
+isbn13: "9789792209471"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5867586W"
+  edition: "OL3449977M"
+  coverId: 4930908

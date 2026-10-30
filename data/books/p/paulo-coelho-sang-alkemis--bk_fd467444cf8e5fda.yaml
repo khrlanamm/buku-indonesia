@@ -1,0 +1,23 @@
+id: "bk_fd467444cf8e5fda"
+title: "Sang Alkemis"
+subtitle: null
+authors:
+  - "Paulo Coelho"
+publisher: "Gramedia"
+year: 2005
+isbn13: "9789792216646"
+pages: 213
+language: "id"
+categories:
+  - "Novel"
+  - "Pengembangan Diri"
+  - "Komik"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL796465W"
+  edition: "OL27015767M"
+  coverId: 8616079

@@ -1,0 +1,22 @@
+id: "bk_49d5071a7cddd09f"
+title: "The Martian"
+subtitle: "Si Penghuni Mars"
+authors:
+  - "Andy Weir"
+publisher: "Gramedia Pustaka Utama"
+year: 2015
+isbn13: "9786020324395"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+  - "Sains"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL17091839W"
+  edition: "OL26427862M"
+  coverId: 8137357

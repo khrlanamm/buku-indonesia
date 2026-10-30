@@ -1,0 +1,21 @@
+id: "bk_4c737fb8ee0779ec"
+title: "Deadline"
+subtitle: "Tenggat Waktu"
+authors:
+  - "Sandra Brown"
+publisher: "Gramedia Pustaka Utama"
+year: 2015
+isbn13: "9786020314808"
+pages: 536
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL17675621W"
+  edition: "OL40220678M"
+  coverId: 12978158

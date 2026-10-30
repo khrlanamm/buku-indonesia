@@ -1,0 +1,21 @@
+id: "bk_ab5317c305a0abb8"
+title: "Kincir Api"
+subtitle: "Kumpulan Cerpen"
+authors:
+  - "Kurnia Effendi"
+publisher: "Gramedia Pustaka Utama"
+year: 2005
+isbn13: "9789792215571"
+pages: 154
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1784263W"
+  edition: "OL3467890M"
+  coverId: 4269410

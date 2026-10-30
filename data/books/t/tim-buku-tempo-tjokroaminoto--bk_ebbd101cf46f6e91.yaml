@@ -1,0 +1,22 @@
+id: "bk_ebbd101cf46f6e91"
+title: "Tjokroaminoto"
+subtitle: "Guru Para Pendiri Bangsa"
+authors:
+  - "Tim Buku Tempo"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2011
+isbn13: "9789799103994"
+pages: 146
+language: "id"
+categories:
+  - "Biografi"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  - "publisher"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16495907W"
+  edition: "OL25194759M"
+  coverId: 13189134

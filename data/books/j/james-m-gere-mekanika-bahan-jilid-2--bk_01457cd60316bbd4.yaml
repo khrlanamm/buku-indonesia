@@ -1,0 +1,22 @@
+id: "bk_01457cd60316bbd4"
+title: "Mekanika Bahan, Jilid 2"
+subtitle: null
+authors:
+  - "James M. Gere"
+  - "Stephen Timoshenko"
+publisher: "Erlangga"
+year: 2002
+isbn13: "9789796880577"
+pages: 400
+language: "id"
+categories:
+  - "Sains"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL28589731W"
+  edition: "OL39199705M"
+  coverId: 12831617

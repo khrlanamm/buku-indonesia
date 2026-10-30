@@ -1,0 +1,21 @@
+id: "bk_7bbcee171c1b3159"
+title: "Legiun Asing"
+subtitle: "Tiga Kumpulan Sajak"
+authors:
+  - "Beni Setia"
+publisher: "Balai Pustaka"
+year: 1987
+isbn13: "9789794070857"
+pages: 60
+language: "id"
+categories:
+  - "Puisi"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4761300W"
+  edition: "OL2172624M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_d2dec47f5170e38d"
+title: "Masa Depan"
+subtitle: "Mempelajari, Menyongsong, dan Mengubahnya"
+authors:
+  - "Jacob T."
+publisher: "Balai Pustaka"
+year: 1991
+isbn13: "9789794073636"
+pages: 178
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL396201W"
+  edition: "OL1386172M"
+  coverId: null

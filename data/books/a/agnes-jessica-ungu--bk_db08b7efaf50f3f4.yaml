@@ -1,0 +1,21 @@
+id: "bk_db08b7efaf50f3f4"
+title: "Ungu"
+subtitle: null
+authors:
+  - "Agnes Jessica"
+publisher: "Pustaka Hermon"
+year: 2011
+isbn13: "9789793755151"
+pages: 512
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15922316W"
+  edition: "OL24828706M"
+  coverId: null

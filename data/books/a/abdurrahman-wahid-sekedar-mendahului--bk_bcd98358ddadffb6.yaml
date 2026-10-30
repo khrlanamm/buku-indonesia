@@ -1,0 +1,21 @@
+id: "bk_bcd98358ddadffb6"
+title: "Sekedar Mendahului"
+subtitle: "Bunga Rampai Kata Pengantar"
+authors:
+  - "Abdurrahman Wahid"
+publisher: "Nuansa Cendekia"
+year: 2011
+isbn13: "9786028394420"
+pages: 343
+language: "id"
+categories:
+  - "Agama"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16016097W"
+  edition: "OL24919633M"
+  coverId: null

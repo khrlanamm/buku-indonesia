@@ -1,0 +1,22 @@
+id: "bk_df984f6efff8b9f0"
+title: "Salju di Paris"
+subtitle: "Pilihan Cerpen"
+authors:
+  - "Sitor Situmorang"
+publisher: "Gramedia Widiasarana Indonesia"
+year: 1994
+isbn13: "9789795534822"
+pages: 102
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL308359W"
+  edition: "OL1261681M"
+  coverId: null

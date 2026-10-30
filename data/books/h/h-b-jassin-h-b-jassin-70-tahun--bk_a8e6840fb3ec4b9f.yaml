@@ -1,0 +1,23 @@
+id: "bk_a8e6840fb3ec4b9f"
+title: "H.B. Jassin 70 Tahun"
+subtitle: "Kumpulan Karangan"
+authors:
+  - "H. B. Jassin"
+  - "Sapardi Djoko Damono"
+publisher: "Gramedia"
+year: 1987
+isbn13: "9789794031544"
+pages: 260
+language: "id"
+categories:
+  - "Biografi"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL18958822W"
+  edition: "OL2518321M"
+  coverId: null

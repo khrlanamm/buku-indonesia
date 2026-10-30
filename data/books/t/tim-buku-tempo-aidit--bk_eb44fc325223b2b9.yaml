@@ -1,0 +1,21 @@
+id: "bk_eb44fc325223b2b9"
+title: "Aidit"
+subtitle: "Dua Wajah Dipa Nusantara"
+authors:
+  - "Tim Buku Tempo"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2010
+isbn13: "9789799102799"
+pages: 143
+language: "id"
+categories:
+  - "Biografi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22380785W"
+  edition: "OL30466614M"
+  coverId: 13706427

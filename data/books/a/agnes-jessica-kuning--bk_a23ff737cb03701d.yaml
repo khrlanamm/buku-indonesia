@@ -1,0 +1,21 @@
+id: "bk_a23ff737cb03701d"
+title: "Kuning"
+subtitle: null
+authors:
+  - "Agnes Jessica"
+publisher: "Pustaka Hermon"
+year: 2010
+isbn13: "9789793755113"
+pages: 512
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23367918W"
+  edition: "OL31221245M"
+  coverId: null

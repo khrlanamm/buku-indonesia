@@ -1,0 +1,21 @@
+id: "bk_066b0d0d7210e5d5"
+title: "Sjam"
+subtitle: "Lelaki dengan Lima Alias"
+authors:
+  - "Tim Buku Tempo"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2010
+isbn13: "9789799102812"
+pages: 95
+language: "id"
+categories:
+  - "Biografi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL15989878W"
+  edition: "OL24894508M"
+  coverId: 13706479

@@ -1,0 +1,23 @@
+id: "bk_7e995fb424b94ce3"
+title: "Arok Dedes"
+subtitle: null
+authors:
+  - "Pramoedya Ananta Toer"
+publisher: "Hasta Mitra"
+year: 1999
+isbn13: "9789798659119"
+pages: 418
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Sejarah"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL307175W"
+  edition: "OL151535M"
+  coverId: null

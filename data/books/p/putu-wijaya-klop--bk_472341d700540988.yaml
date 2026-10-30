@@ -1,0 +1,21 @@
+id: "bk_472341d700540988"
+title: "Klop"
+subtitle: null
+authors:
+  - "Putu Wijaya"
+publisher: "Bentang Pustaka"
+year: 2010
+isbn13: "9789791227933"
+pages: 233
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22379557W"
+  edition: "OL30465339M"
+  coverId: null

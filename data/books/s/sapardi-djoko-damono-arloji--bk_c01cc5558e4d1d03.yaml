@@ -1,0 +1,21 @@
+id: "bk_c01cc5558e4d1d03"
+title: "Arloji"
+subtitle: null
+authors:
+  - "Sapardi Djoko Damono"
+publisher: "Yayasan Puisi"
+year: 1998
+isbn13: "9789798184338"
+pages: 39
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1030296W"
+  edition: "OL152073M"
+  coverId: null

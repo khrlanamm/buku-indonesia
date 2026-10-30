@@ -1,0 +1,21 @@
+id: "bk_cc73d892dad12d1c"
+title: "Libby"
+subtitle: null
+authors:
+  - "Langit Kresna Hariadi"
+publisher: "Tinta"
+year: 2003
+isbn13: "9789799440679"
+pages: 427
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5766660W"
+  edition: "OL3339838M"
+  coverId: null

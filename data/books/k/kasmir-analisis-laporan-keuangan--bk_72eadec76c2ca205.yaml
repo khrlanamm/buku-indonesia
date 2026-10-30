@@ -1,0 +1,21 @@
+id: "bk_72eadec76c2ca205"
+title: "Analisis Laporan Keuangan"
+subtitle: null
+authors:
+  - "Kasmir"
+publisher: "RajaGrafindo Presada"
+year: 2018
+isbn13: null
+pages: 368
+language: "id"
+categories:
+  - "Bisnis"
+reviewed: true
+needsCheck:
+  - "isbn13"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24150964W"
+  edition: "OL32773892M"
+  coverId: 11404768

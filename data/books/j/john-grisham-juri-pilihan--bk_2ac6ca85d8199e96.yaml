@@ -1,0 +1,21 @@
+id: "bk_2ac6ca85d8199e96"
+title: "Juri Pilihan"
+subtitle: null
+authors:
+  - "John Grisham"
+publisher: "Gramedia Pustaka Utama"
+year: 1996
+isbn13: "9789796054404"
+pages: 658
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL76984W"
+  edition: "OL27066043M"
+  coverId: 9324056

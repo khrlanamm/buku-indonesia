@@ -1,0 +1,19 @@
+id: "bk_c7b7a1835fdbb285"
+title: "Dune"
+subtitle: "Bagian 1"
+authors:
+  - "Frank Herbert"
+publisher: "POP (Kepustakaan Populer Gramedia)"
+year: 2023
+isbn13: "9786231340061"
+pages: 455
+language: "id"
+categories:
+  - "Novel"
+  - "Sastra Klasik"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "hand-checked"
+openLibrary: null

@@ -1,0 +1,21 @@
+id: "bk_d8b0536d76d9c5c3"
+title: "Sadar"
+subtitle: null
+authors:
+  - "Djamian"
+publisher: "Balai Pustaka"
+year: 1988
+isbn13: "9789794071182"
+pages: 104
+language: "id"
+categories:
+  - "Anak"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL4762487W"
+  edition: "OL2175143M"
+  coverId: null

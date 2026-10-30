@@ -1,0 +1,21 @@
+id: "bk_59375e3aaa7d079f"
+title: "Galigi"
+subtitle: null
+authors:
+  - "Gunawan Maryanto"
+publisher: "Penerbit Koekoesan"
+year: 2007
+isbn13: "9789799954558"
+pages: 158
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL11718470W"
+  edition: "OL16278561M"
+  coverId: null

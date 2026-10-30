@@ -1,0 +1,22 @@
+id: "bk_f9bc8bd60e8e622e"
+title: "Pak Harto"
+subtitle: "Pandangan dan Harapannya"
+authors:
+  - "Abdul Gafur"
+publisher: "Pustaka Kartini"
+year: 1987
+isbn13: "9789794540213"
+pages: 537
+language: "id"
+categories:
+  - "Biografi"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL952076W"
+  edition: "OL2171899M"
+  coverId: 11692000

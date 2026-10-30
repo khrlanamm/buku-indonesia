@@ -1,0 +1,22 @@
+id: "bk_4e61074121674d9f"
+title: "Salah Asuhan"
+subtitle: null
+authors:
+  - "Abdul Muis"
+publisher: "Balai Poestaka"
+year: 1948
+isbn13: null
+pages: 243
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL289066W"
+  edition: "OL47909598M"
+  coverId: null

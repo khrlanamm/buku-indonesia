@@ -1,0 +1,23 @@
+id: "bk_84673b4f228ea25d"
+title: "Arus Balik"
+subtitle: "Sebuah Novel Sejarah"
+authors:
+  - "Pramoedya Ananta Toer"
+publisher: "Hasta Mitra"
+year: 1995
+isbn13: "9789798659041"
+pages: 751
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Sejarah"
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL307256W"
+  edition: "OL956711M"
+  coverId: null

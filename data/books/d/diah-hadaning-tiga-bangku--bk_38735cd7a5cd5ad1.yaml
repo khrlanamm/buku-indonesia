@@ -1,0 +1,21 @@
+id: "bk_38735cd7a5cd5ad1"
+title: "Tiga Bangku"
+subtitle: "Buku Antologi Puisi"
+authors:
+  - "Diah Hadaning"
+publisher: "Kosa Kata Kita"
+year: 2013
+isbn13: "9786028966429"
+pages: 112
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22648953W"
+  edition: "OL30667682M"
+  coverId: null

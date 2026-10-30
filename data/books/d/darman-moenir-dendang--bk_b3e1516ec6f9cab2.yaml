@@ -1,0 +1,21 @@
+id: "bk_b3e1516ec6f9cab2"
+title: "Dendang"
+subtitle: null
+authors:
+  - "Darman Moenir"
+publisher: "Balai Pustaka"
+year: 1988
+isbn13: "9789794071311"
+pages: 183
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1781757W"
+  edition: "OL2175142M"
+  coverId: null

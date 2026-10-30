@@ -1,0 +1,21 @@
+id: "bk_d9131ee7cb37cc0d"
+title: "The Body"
+subtitle: "Tubuh"
+authors:
+  - "Bill Bryson"
+publisher: "Gramedia Pustaka Utama"
+year: 2021
+isbn13: "9786020652290"
+pages: null
+language: "id"
+categories:
+  - "Sains"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL20333471W"
+  edition: "OL50367046M"
+  coverId: 14553502

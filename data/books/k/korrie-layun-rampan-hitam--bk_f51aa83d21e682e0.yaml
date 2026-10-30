@@ -1,0 +1,21 @@
+id: "bk_f51aa83d21e682e0"
+title: "Hitam"
+subtitle: "Kumpulan Cerita Pendek"
+authors:
+  - "Korrie Layun Rampan"
+publisher: "Balai Pustaka"
+year: 1993
+isbn13: "9789794074596"
+pages: 186
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1031470W"
+  edition: "OL1259121M"
+  coverId: 7899022

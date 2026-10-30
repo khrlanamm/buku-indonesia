@@ -1,0 +1,21 @@
+id: "bk_c8a5604c0e595526"
+title: "Mustika Naga"
+subtitle: null
+authors:
+  - "Candra Malik"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2015
+isbn13: "9789799108951"
+pages: 193
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: false
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL22884920W"
+  edition: "OL30799185M"
+  coverId: null

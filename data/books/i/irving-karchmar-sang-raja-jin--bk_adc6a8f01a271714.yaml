@@ -1,0 +1,21 @@
+id: "bk_adc6a8f01a271714"
+title: "Sang Raja Jin"
+subtitle: "Sebuah Novel Spiritual"
+authors:
+  - "Irving Karchmar"
+publisher: "Kayla Pustaka"
+year: 2010
+isbn13: "9789791799768"
+pages: 297
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL8991701W"
+  edition: "OL40768391M"
+  coverId: 13008077

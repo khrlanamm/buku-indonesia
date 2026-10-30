@@ -1,0 +1,23 @@
+id: "bk_c9e5daa4ad9dbbd4"
+title: "Njoto"
+subtitle: "Peniup Saksofon di Tengah Prahara"
+authors:
+  - "Tim Buku Tempo"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2010
+isbn13: null
+pages: 108
+language: "id"
+categories:
+  - "Biografi"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+  - "hand-checked"
+openLibrary:
+  work: "OL15989877W"
+  edition: "OL24894507M"
+  coverId: 13702247

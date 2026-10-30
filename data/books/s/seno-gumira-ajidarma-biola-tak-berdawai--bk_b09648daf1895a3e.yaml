@@ -1,0 +1,21 @@
+id: "bk_b09648daf1895a3e"
+title: "Biola Tak Berdawai"
+subtitle: "Sebuah Roman"
+authors:
+  - "Seno Gumira Ajidarma"
+publisher: "Akur"
+year: 2004
+isbn13: "9789799822901"
+pages: 198
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL946258W"
+  edition: "OL3339908M"
+  coverId: null

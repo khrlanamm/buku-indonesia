@@ -1,0 +1,23 @@
+id: "bk_026fb11ed09815ef"
+title: "Bung Karno"
+subtitle: "Penyambung Lidah Rakyat Indonesia"
+authors:
+  - "Cindy Heller Adams"
+publisher: "Yayasan Bung Karno & Media Pressindo"
+year: 2011
+isbn13: "9789799110329"
+pages: 415
+language: "id"
+categories:
+  - "Biografi"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+  - "hand-checked"
+openLibrary:
+  work: "OL16143921W"
+  edition: "OL25026957M"
+  coverId: 12156097

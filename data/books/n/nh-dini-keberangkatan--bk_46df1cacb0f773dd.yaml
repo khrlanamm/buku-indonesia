@@ -1,0 +1,21 @@
+id: "bk_46df1cacb0f773dd"
+title: "Keberangkatan"
+subtitle: null
+authors:
+  - "Nh. Dini"
+publisher: "Gramedia Pustaka Utama"
+year: 1987
+isbn13: "9789792258363"
+pages: 184
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL945835W"
+  edition: "OL4709556M"
+  coverId: 14613015

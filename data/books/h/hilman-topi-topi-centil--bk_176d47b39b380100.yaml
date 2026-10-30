@@ -1,0 +1,22 @@
+id: "bk_176d47b39b380100"
+title: "Topi-Topi Centil"
+subtitle: null
+authors:
+  - "Hilman"
+publisher: "Gramedia"
+year: 1989
+isbn13: "9789794033166"
+pages: 124
+language: "id"
+categories:
+  - "Remaja"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3891140W"
+  edition: "OL2017305M"
+  coverId: 4053617

@@ -1,0 +1,21 @@
+id: "bk_7f9b32f16ca9c9ad"
+title: "De Winst"
+subtitle: "Sebuah Novel Pembangkit Idealisme: Karya Terbaik"
+authors:
+  - "Afifah Afra"
+publisher: "Afra Pub"
+year: 2008
+isbn13: "9789791397261"
+pages: 336
+language: "id"
+categories:
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL13841037W"
+  edition: "OL23629947M"
+  coverId: null

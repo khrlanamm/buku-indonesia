@@ -1,0 +1,22 @@
+id: "bk_f030e65a8bc91b6a"
+title: "Pasar"
+subtitle: null
+authors:
+  - "Kuntowijoyo"
+publisher: "Diva Press"
+year: 2017
+isbn13: "9786023913732"
+pages: 378
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+  - "hand-checked"
+openLibrary:
+  work: "OL45753407W"
+  edition: "OL62281369M"
+  coverId: null

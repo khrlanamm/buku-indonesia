@@ -1,0 +1,21 @@
+id: "bk_54351b28ba667ce0"
+title: "Sesuatu Indonesia"
+subtitle: "Personifikasi Pembaca yang Tak Bersih"
+authors:
+  - "Afrizal Malna"
+publisher: "Yayasan Bentang Budaya"
+year: 2000
+isbn13: "9789798793899"
+pages: 580
+language: "id"
+categories:
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL3226322W"
+  edition: "OL6813017M"
+  coverId: null

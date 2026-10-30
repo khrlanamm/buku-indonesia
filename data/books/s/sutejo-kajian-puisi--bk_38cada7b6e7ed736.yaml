@@ -1,0 +1,21 @@
+id: "bk_38cada7b6e7ed736"
+title: "Kajian Puisi"
+subtitle: "Teori dan Aplikasinya"
+authors:
+  - "Sutejo"
+publisher: "Pustaka Felicha"
+year: 2009
+isbn13: "9789791795494"
+pages: 256
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24124272W"
+  edition: "OL31816119M"
+  coverId: null

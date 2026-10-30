@@ -1,0 +1,21 @@
+id: "bk_a20b8075ab425657"
+title: "Gergasi"
+subtitle: "Kumpulan Cerita Pendek"
+authors:
+  - "Danarto"
+publisher: "Pustaka Firdaus"
+year: 1993
+isbn13: "9789795410379"
+pages: 228
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL1030418W"
+  edition: "OL1069974M"
+  coverId: null

@@ -1,0 +1,21 @@
+id: "bk_3eee6f503a635fe5"
+title: "Hikayat Kadiroen"
+subtitle: null
+authors:
+  - "Semaoen"
+publisher: "Yayasan Bentang Budaya"
+year: 2000
+isbn13: "9789798793950"
+pages: 236
+language: "id"
+categories:
+  - "Sastra Klasik"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL947846W"
+  edition: "OL127013M"
+  coverId: null

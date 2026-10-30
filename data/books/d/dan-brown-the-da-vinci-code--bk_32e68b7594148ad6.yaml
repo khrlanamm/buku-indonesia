@@ -1,0 +1,18 @@
+id: "bk_32e68b7594148ad6"
+title: "The Da Vinci Code"
+subtitle: null
+authors:
+  - "Dan Brown"
+publisher: "Bentang Pustaka"
+year: 2016
+isbn13: "9786022911845"
+pages: 680
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "hand-checked"
+openLibrary: null

@@ -1,0 +1,21 @@
+id: "bk_01722b64c42130b1"
+title: "Jakarta"
+subtitle: "Metropolis Tunggang Langgang"
+authors:
+  - "Marco Kusumawijaya"
+publisher: "GagasMedia"
+year: 2004
+isbn13: "9789793600239"
+pages: 233
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL5795999W"
+  edition: "OL3377074M"
+  coverId: 4256573

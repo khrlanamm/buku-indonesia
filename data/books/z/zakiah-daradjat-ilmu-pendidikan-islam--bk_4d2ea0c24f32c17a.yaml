@@ -1,0 +1,22 @@
+id: "bk_4d2ea0c24f32c17a"
+title: "Ilmu Pendidikan Islam"
+subtitle: null
+authors:
+  - "Zakiah Daradjat"
+publisher: null
+year: 1992
+isbn13: "9789795260851"
+pages: 152
+language: "id"
+categories:
+  - "Agama"
+  - "Nonfiksi Umum"
+reviewed: false
+needsCheck:
+  - "publisher"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23495336W"
+  edition: "OL1385172M"
+  coverId: null

@@ -1,0 +1,23 @@
+id: "bk_e5d16f6c6c5f0ab1"
+title: "Pelajaran Agama Islam"
+subtitle: null
+authors:
+  - "Hamka"
+publisher: "Bulan Bintang"
+year: 1996
+isbn13: "9789794180792"
+pages: 452
+language: "id"
+categories:
+  - "Agama"
+  - "Sastra Klasik"
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL292721W"
+  edition: "OL47962314M"
+  coverId: null

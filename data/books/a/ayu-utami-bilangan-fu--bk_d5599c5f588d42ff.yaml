@@ -1,0 +1,21 @@
+id: "bk_d5599c5f588d42ff"
+title: "Bilangan Fu"
+subtitle: null
+authors:
+  - "Ayu Utami"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2008
+isbn13: "9789799101228"
+pages: 536
+language: "id"
+categories:
+  - "Lainnya"
+reviewed: true
+needsCheck:
+  - "categories"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL2325370W"
+  edition: "OL23045314M"
+  coverId: null

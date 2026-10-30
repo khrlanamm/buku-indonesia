@@ -1,0 +1,21 @@
+id: "bk_653325b6fcb2cd4b"
+title: "Surga Sungsang"
+subtitle: "Buku Cerita"
+authors:
+  - "Triyanto Triwikromo"
+publisher: "Gramedia Pustaka Utama"
+year: 2014
+isbn13: "9786020303291"
+pages: 144
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23233468W"
+  edition: "OL31069645M"
+  coverId: null

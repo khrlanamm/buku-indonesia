@@ -1,0 +1,21 @@
+id: "bk_0b7fcd9ca2ccae06"
+title: "Ghirah Gatha"
+subtitle: "Kumpulan Puisi"
+authors:
+  - "Lan Fang"
+publisher: "Gramedia Pustaka Utama"
+year: 2011
+isbn13: "9789792281064"
+pages: 60
+language: "id"
+categories:
+  - "Puisi"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16585940W"
+  edition: "OL25270856M"
+  coverId: null

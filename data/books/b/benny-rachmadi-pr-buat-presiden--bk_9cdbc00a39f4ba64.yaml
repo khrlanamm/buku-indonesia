@@ -1,0 +1,21 @@
+id: "bk_9cdbc00a39f4ba64"
+title: "PR Buat Presiden"
+subtitle: null
+authors:
+  - "Benny Rachmadi"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2014
+isbn13: "9789799107220"
+pages: 155
+language: "id"
+categories:
+  - "Komik"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23243453W"
+  edition: "OL31080158M"
+  coverId: null

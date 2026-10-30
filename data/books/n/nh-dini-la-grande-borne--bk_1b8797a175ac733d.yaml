@@ -1,0 +1,22 @@
+id: "bk_1b8797a175ac733d"
+title: "La Grande Borne"
+subtitle: null
+authors:
+  - "Nh. Dini"
+publisher: "Gramedia Pustaka Utama"
+year: 2007
+isbn13: "9789792226171"
+pages: 285
+language: "id"
+categories:
+  - "Biografi"
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL945838W"
+  edition: "OL16321110M"
+  coverId: 5335168

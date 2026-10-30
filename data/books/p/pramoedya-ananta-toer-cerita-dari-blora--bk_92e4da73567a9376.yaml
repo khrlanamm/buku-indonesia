@@ -1,0 +1,23 @@
+id: "bk_92e4da73567a9376"
+title: "Cerita dari Blora"
+subtitle: "Kumpulan Cerita Pendek"
+authors:
+  - "Pramoedya Ananta Toer"
+publisher: "Hasta Mitra"
+year: 2001
+isbn13: "9789798659010"
+pages: 324
+language: "id"
+categories:
+  - "Sastra Klasik"
+  - "Kumpulan Cerpen"
+  - "Novel"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL307264W"
+  edition: "OL4019712M"
+  coverId: null

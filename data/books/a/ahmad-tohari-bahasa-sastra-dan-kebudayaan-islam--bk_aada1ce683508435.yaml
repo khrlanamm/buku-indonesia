@@ -1,0 +1,25 @@
+id: "bk_aada1ce683508435"
+title: "Bahasa, Sastra, dan Kebudayaan Islam"
+subtitle: "Bunga Rampai"
+authors:
+  - "Ahmad Tohari"
+  - "D. Zawawi Imron"
+  - "Faruk"
+publisher: "Fakultas Adab IAIN Sunan Kalijaga"
+year: 1993
+isbn13: "9789798548000"
+pages: 285
+language: "id"
+categories:
+  - "Agama"
+  - "Novel"
+  - "Sejarah"
+reviewed: false
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL18357070W"
+  edition: "OL1071083M"
+  coverId: null

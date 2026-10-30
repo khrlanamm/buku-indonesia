@@ -1,0 +1,21 @@
+id: "bk_8347f40cbabec400"
+title: "Istana Kedua"
+subtitle: null
+authors:
+  - "Asma Nadia"
+publisher: "Gramedia Pustaka Utama"
+year: 2007
+isbn13: "9789792230451"
+pages: 243
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL24090322W"
+  edition: "OL31786844M"
+  coverId: null

@@ -1,0 +1,22 @@
+id: "bk_c24f70018bdf00d5"
+title: "Wiji Thukul"
+subtitle: "Teka-Teki Orang Hilang"
+authors:
+  - "Tim Buku Tempo"
+publisher: "KPG (Kepustakaan Populer Gramedia)"
+year: 2013
+isbn13: "9789799105929"
+pages: 160
+language: "id"
+categories:
+  - "Biografi"
+  - "Sejarah"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL23404338W"
+  edition: "OL31260691M"
+  coverId: 13706274

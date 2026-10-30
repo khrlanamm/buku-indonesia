@@ -1,0 +1,23 @@
+id: "bk_115d35c6af82168c"
+title: "Firedom"
+subtitle: "Kisah Kemerdekaan Finansial Imigran Afrika"
+authors:
+  - "Olumide Ogunsanwo"
+  - "Achani Samon Biaou"
+publisher: "Indy Pub"
+year: 2023
+isbn13: "9781088141427"
+pages: null
+language: "id"
+categories:
+  - "Novel"
+reviewed: true
+needsCheck:
+  - "authors"
+  - "pages"
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL37871343W"
+  edition: "OL51432816M"
+  coverId: 14727998

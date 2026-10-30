@@ -1,0 +1,24 @@
+id: "bk_995962c59d558df7"
+title: "Pelarangan Buku di Indonesia"
+subtitle: "Sebuah Paradoks Demokrasi dan Kebebasan Berekspresi"
+authors:
+  - "Iwan Awaluddin Yusuf"
+  - "Wisnu Martha Adiputra"
+  - "Masduki"
+publisher: "Pemantau Regulasi dan Regulator Media (PR2Media)"
+year: 2010
+isbn13: "9786029783902"
+pages: 190
+language: "id"
+categories:
+  - "Nonfiksi Umum"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+  - "hand-checked"
+openLibrary:
+  work: "OL22381498W"
+  edition: "OL30467390M"
+  coverId: 12570820

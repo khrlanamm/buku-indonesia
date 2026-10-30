@@ -1,0 +1,21 @@
+id: "bk_9a2d77d31c3c8c48"
+title: "Kereta Tidur"
+subtitle: "Kumpulan Cerita"
+authors:
+  - "Avianti Armand"
+publisher: "Gramedia Pustaka Utama"
+year: 2011
+isbn13: "9789792270983"
+pages: 129
+language: "id"
+categories:
+  - "Kumpulan Cerpen"
+reviewed: true
+needsCheck:
+  []
+sources:
+  - "open-library"
+openLibrary:
+  work: "OL16216774W"
+  edition: "OL25079661M"
+  coverId: null
