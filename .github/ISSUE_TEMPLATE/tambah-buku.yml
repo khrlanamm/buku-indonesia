@@ -1,0 +1,71 @@
+name: Usulkan buku
+description: Ada buku Indonesia yang belum masuk katalog? Isi faktanya di sini, tidak perlu bisa coding.
+title: "Tambah buku: "
+labels: ["good first issue", "data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Terima kasih sudah membantu. Usulan ini terbuka untuk siapa saja yang mau mengubahnya menjadi pull request, jadi belum tentu langsung diproses.
+
+        Isi fakta saja. Tolong jangan menyalin sinopsis atau mengunggah gambar sampul.
+  - type: input
+    id: judul
+    attributes:
+      label: Judul
+      placeholder: Bumi Manusia
+    validations:
+      required: true
+  - type: input
+    id: penulis
+    attributes:
+      label: Penulis
+      description: Pisahkan dengan koma kalau lebih dari satu.
+      placeholder: Pramoedya Ananta Toer
+    validations:
+      required: true
+  - type: input
+    id: isbn
+    attributes:
+      label: ISBN
+      description: 13 angka di belakang buku atau di halaman hak cipta. Kosongkan kalau tidak ada.
+      placeholder: 978-602-03-2478-4
+  - type: input
+    id: penerbit
+    attributes:
+      label: Penerbit
+  - type: input
+    id: tahun
+    attributes:
+      label: Tahun terbit edisi ini
+  - type: input
+    id: halaman
+    attributes:
+      label: Jumlah halaman
+  - type: dropdown
+    id: kategori
+    attributes:
+      label: Kategori
+      options:
+        - Novel
+        - Sastra Klasik
+        - Remaja
+        - Puisi
+        - Kumpulan Cerpen
+        - Sejarah
+        - Biografi
+        - Agama
+        - Pengembangan Diri
+        - Sains
+        - Bisnis
+        - Komik
+        - Anak
+        - Nonfiksi Umum
+        - Lainnya
+  - type: input
+    id: sumber
+    attributes:
+      label: Sumber
+      description: Tautan halaman penerbit atau katalog perpustakaan, atau tulis "buku fisik" kalau kamu memegang bukunya.
+    validations:
+      required: true

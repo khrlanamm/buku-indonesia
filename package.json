@@ -1,0 +1,27 @@
+{
+  "name": "buku-indonesia",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Open dataset and static JSON API of Indonesian books. Facts only, no API key, no server.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "typecheck": "tsc",
+    "test": "node --test \"test/**/*.test.ts\"",
+    "validate": "node scripts/validate.ts",
+    "build": "node scripts/build.ts",
+    "add": "node scripts/add.ts",
+    "serve": "node scripts/serve.ts"
+  },
+  "dependencies": {
+    "yaml": "^2.8.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^7.0.2"
+  }
+}

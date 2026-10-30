@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Buku Indonesia: data terbuka buku Indonesia</title>
+  <meta name="description" content="Data terbuka buku Indonesia: judul, penulis, penerbit, tahun, ISBN, dan jumlah halaman. API JSON gratis tanpa API key, plus unduhan CSV, JSON, dan SQLite.">
+  <meta property="og:title" content="Buku Indonesia">
+  <meta property="og:description" content="Data terbuka buku Indonesia. API JSON gratis tanpa API key.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip" href="#hasil">Langsung ke daftar buku</a>
+
+  <header class="masthead">
+    <div class="wrap">
+      <p class="eyebrow">Data terbuka · CC0</p>
+      <h1>Buku Indonesia</h1>
+      <p class="lede">Katalog <strong id="jumlah">ribuan</strong> buku Indonesia yang bebas dipakai untuk aplikasi, tugas kuliah, dan perpustakaan. Gratis, tanpa API key, tanpa server.</p>
+      <nav class="links" aria-label="Tautan utama">
+        <a href="#api">API</a>
+        <a href="#unduh">Unduh data</a>
+        <a href="#bantu">Bantu lengkapi</a>
+        <a href="https://github.com/khrlanamm/buku-indonesia">GitHub</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="wrap finder" aria-label="Cari buku">
+      <label class="search">
+        <span>Cari judul, penulis, penerbit, atau ISBN</span>
+        <input id="cari" type="search" autocomplete="off" placeholder="mis. Bumi Manusia, Tere Liye, 9789799731234">
+      </label>
+      <div class="filters">
+        <div id="kategori" class="chips" role="group" aria-label="Kategori"></div>
+        <label class="toggle"><input id="tertinjau" type="checkbox"> Hanya yang sudah ditinjau</label>
+      </div>
+      <p id="ringkasan" class="result-count" role="status" aria-live="polite">Memuat katalog…</p>
+    </section>
+
+    <section id="hasil" class="wrap grid" aria-label="Daftar buku"></section>
+    <div class="wrap more"><button id="lagi" type="button" hidden>Tampilkan lebih banyak</button></div>
+
+    <section id="api" class="wrap panel">
+      <h2>API</h2>
+      <p>File JSON statis di GitHub Pages. Tidak perlu daftar, dan bisa dipanggil langsung dari browser.</p>
+      <pre tabindex="0"><code id="contoh">curl https://khrlanamm.github.io/buku-indonesia/api/v1/isbn/9789799731234.json</code></pre>
+      <table>
+        <thead><tr><th scope="col">Endpoint</th><th scope="col">Isi</th></tr></thead>
+        <tbody>
+          <tr><td><code>api/v1/isbn/{isbn}.json</code></td><td>Satu buku, dari ISBN-13 atau ISBN-10</td></tr>
+          <tr><td><code>api/v1/books/{id}.json</code></td><td>Satu buku, dari ID</td></tr>
+          <tr><td><code>api/v1/authors.json</code></td><td>Semua penulis dan jumlah bukunya</td></tr>
+          <tr><td><code>api/v1/authors/{slug}.json</code></td><td>Buku satu penulis</td></tr>
+          <tr><td><code>api/v1/categories.json</code></td><td>Semua kategori</td></tr>
+          <tr><td><code>api/v1/categories/{slug}.json</code></td><td>Buku satu kategori</td></tr>
+          <tr><td><code>api/v1/stats.json</code></td><td>Angka ringkas katalog</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="unduh" class="wrap panel">
+      <h2>Unduh data</h2>
+      <p>Seluruh katalog dalam satu file, bebas dipakai untuk apa saja.</p>
+      <ul class="downloads">
+        <li><a href="downloads/books.csv" download>books.csv</a><span>untuk spreadsheet dan analisis</span></li>
+        <li><a href="downloads/books.json" download>books.json</a><span>untuk aplikasi dan skrip</span></li>
+        <li><a href="downloads/books.sqlite" download>books.sqlite</a><span>untuk aplikasi offline</span></li>
+      </ul>
+    </section>
+
+    <section id="bantu" class="wrap panel">
+      <h2>Bantu lengkapi</h2>
+      <p>Katalog ini jauh dari lengkap. Perpusnas mencatat lebih dari 728 ribu ISBN sampai 2023. Kalau ada buku yang belum masuk atau datanya keliru, kabari lewat formulir, atau kirim pull request kalau kamu developer.</p>
+      <p class="actions">
+        <a class="button" href="https://github.com/khrlanamm/buku-indonesia/issues/new?template=tambah-buku.yml">Usulkan buku</a>
+        <a class="button quiet" href="https://github.com/khrlanamm/buku-indonesia/issues/new?template=koreksi-data.yml">Koreksi data</a>
+        <a class="button quiet" href="https://github.com/khrlanamm/buku-indonesia/blob/main/CONTRIBUTING.md">Panduan kontribusi</a>
+      </p>
+      <p class="note">Hanya fakta buku. Tolong jangan menyalin sinopsis atau gambar sampul dari toko dan penerbit, karena itu milik mereka.</p>
+    </section>
+  </main>
+
+  <footer class="wrap footer">
+    <p>Data CC0, kode MIT. Sebagian besar data dan semua gambar sampul berasal dari <a href="https://openlibrary.org">Open Library</a>. Hak cipta sampul tetap milik pemiliknya.</p>
+    <p>Dibuat dari katalog <a href="https://sabusaku.web.app">Sabu Saku</a> oleh <a href="https://anamcode.space">Khoirul Anam</a>.</p>
+  </footer>
+
+  <dialog id="detail" aria-labelledby="detail-judul">
+    <button class="close" type="button" aria-label="Tutup">×</button>
+    <div id="detail-isi"></div>
+  </dialog>
+
+  <noscript><p class="wrap">Pencarian butuh JavaScript. Data tetap bisa diunduh di bagian Unduh data.</p></noscript>
+  <script src="app.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+name: Koreksi data
+description: Ada data buku yang keliru atau belum lengkap? Laporkan di sini, tidak perlu bisa coding.
+title: "Koreksi: "
+labels: ["good first issue", "data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Laporan ini terbuka untuk siapa saja yang mau mengubahnya menjadi pull request, jadi belum tentu langsung diproses.
+  - type: input
+    id: buku
+    attributes:
+      label: Buku
+      description: ISBN, ID, atau tautan halaman buku di situs.
+    validations:
+      required: true
+  - type: textarea
+    id: salah
+    attributes:
+      label: Apa yang perlu diperbaiki?
+      placeholder: "Jumlah halaman tertulis 300, seharusnya 412."
+    validations:
+      required: true
+  - type: input
+    id: sumber
+    attributes:
+      label: Sumber
+      description: Tautan halaman penerbit atau katalog perpustakaan, atau tulis "buku fisik" kalau kamu memegang bukunya.
+    validations:
+      required: true
